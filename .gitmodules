@@ -1,0 +1,12 @@
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt.git
+[submodule "resize_artboard"]
+	path = resize_artboard
+	url = https://github.com/zhifengkoh/resize_artboard.git
+[submodule "ArtboardZoom"]
+	path = ArtboardZoom
+	url = https://github.com/Arkkimaagi/ArtboardZoom.git
+[submodule "Automate-Sketch"]
+	path = Automate-Sketch
+	url = https://github.com/Ashung/Automate-Sketch.git
