@@ -13,3 +13,6 @@
 [submodule "sketch-plugins"]
 	path = sketch-plugins
 	url = https://github.com/buscarini/sketch-plugins.git
+[submodule "sketch-measure"]
+	path = sketch-measure
+	url = https://github.com/utom/sketch-measure.git
