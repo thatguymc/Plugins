@@ -10,9 +10,6 @@
 [submodule "Automate-Sketch"]
 	path = Automate-Sketch
 	url = https://github.com/Ashung/Automate-Sketch.git
-[submodule "sketch-plugins"]
-	path = sketch-plugins
-	url = https://github.com/buscarini/sketch-plugins.git
 [submodule "sketch-measure"]
 	path = sketch-measure
 	url = https://github.com/utom/sketch-measure.git
