@@ -19,3 +19,6 @@
 [submodule "sketch-palettes"]
 	path = sketch-palettes
 	url = https://github.com/andrewfiorillo/sketch-palettes.git
+[submodule "SketchDistributor"]
+	path = SketchDistributor
+	url = https://github.com/PEZ/SketchDistributor.git
