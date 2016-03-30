@@ -26,3 +26,4 @@
 [submodule "Sketch-Navigator"]
 	path = Sketch-Navigator
 	url = https://github.com/arshad/Sketch-Navigator.git
+	ignore = dirty
