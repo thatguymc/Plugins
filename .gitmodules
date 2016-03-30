@@ -27,3 +27,6 @@
 	path = Sketch-Navigator
 	url = https://github.com/arshad/Sketch-Navigator.git
 	ignore = dirty
+[submodule "sketch-i18n"]
+	path = sketch-i18n
+	url = https://github.com/kristof/sketch-i18n.git
