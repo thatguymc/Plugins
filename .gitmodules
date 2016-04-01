@@ -30,3 +30,6 @@
 [submodule "sketch-i18n"]
 	path = sketch-i18n
 	url = https://github.com/kristof/sketch-i18n.git
+[submodule "Sketch-Scale"]
+	path = Sketch-Scale
+	url = https://github.com/sueLan/Sketch-Scale.git
