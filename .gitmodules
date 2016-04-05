@@ -33,3 +33,6 @@
 [submodule "Sketch-Scale"]
 	path = Sketch-Scale
 	url = https://github.com/sueLan/Sketch-Scale.git
+[submodule "gb-sketch-segmentcircle"]
+	path = gb-sketch-segmentcircle
+	url = https://github.com/design4use/gb-sketch-segmentcircle.git
