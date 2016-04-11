@@ -36,3 +36,6 @@
 [submodule "gb-sketch-segmentcircle"]
 	path = gb-sketch-segmentcircle
 	url = https://github.com/design4use/gb-sketch-segmentcircle.git
+[submodule "sketch-copy-to-all"]
+	path = sketch-copy-to-all
+	url = https://github.com/wuwa/sketch-copy-to-all.git
