@@ -39,3 +39,6 @@
 [submodule "gb-sketch-segmentcircle"]
 	path = gb-sketch-segmentcircle
 	url = https://github.com/design4use/gb-sketch-segmentcircle.git
+[submodule "Checkpoints-Plugin-for-Sketch"]
+	path = Checkpoints-Plugin-for-Sketch
+	url = https://github.com/einancunlu/Checkpoints-Plugin-for-Sketch.git
