@@ -42,3 +42,6 @@
 [submodule "Checkpoints-Plugin-for-Sketch"]
 	path = Checkpoints-Plugin-for-Sketch
 	url = https://github.com/einancunlu/Checkpoints-Plugin-for-Sketch.git
+[submodule "Generate-ICNS"]
+	path = Generate-ICNS
+	url = https://github.com/nathco/Generate-ICNS.git
