@@ -45,3 +45,6 @@
 [submodule "Generate-ICNS"]
 	path = Generate-ICNS
 	url = https://github.com/nathco/Generate-ICNS.git
+[submodule "Sketch-Layer-Tools"]
+	path = Sketch-Layer-Tools
+	url = https://github.com/hrescak/Sketch-Layer-Tools.git
