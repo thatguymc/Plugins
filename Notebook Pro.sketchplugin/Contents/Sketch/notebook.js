@@ -5,7 +5,7 @@ com.notebook = {
     config : {
         commentVMargin : 30,
         indicatorOffset : 0,
-        sidebarWidth : 500,
+        sidebarWidth : 375,
         sidebarHeight : 480,
         sidebarX : 0,
         sidebarY : 0 
@@ -38,30 +38,35 @@ com.notebook = {
         log("## Dumping object " + obj )
         log("## obj class is: " + [obj className])
         log("#####################################################################################")
-  
+
         log("############################# obj.properties:")
         log([obj class].mocha().properties())
         log("############################# obj.propertiesWithAncestors:")
         log([obj class].mocha().propertiesWithAncestors())
-  
+
         log("############################# obj.classMethods:")
         log([obj class].mocha().classMethods())
         log("############################# obj.classMethodsWithAncestors:")
         log([obj class].mocha().classMethodsWithAncestors())
-  
+
         log("############################# obj.instanceMethods:")
         log([obj class].mocha().instanceMethods())
         log("############################# obj.instanceMethodsWithAncestors:")
         log([obj class].mocha().instanceMethodsWithAncestors())
-  
+
         log("############################# obj.protocols:")
         log([obj class].mocha().protocols())
         log("############################# obj.protocolsWithAncestors:")
         log([obj class].mocha().protocolsWithAncestors())
-  
+
         log("############################# obj.treeAsDictionary():")
         log(obj.treeAsDictionary())
 
+    },
+
+    methodsFor: function(obj){
+        log([obj class].mocha().instanceMethods())
+        log([obj class].mocha().instanceMethodsWithAncestors())
     },
 
     refreshPage: function() {
@@ -74,7 +79,7 @@ com.notebook = {
     },
 
     runCommand: function(cmd,path){
-        var task = [[NSTask alloc] init];    
+        var task = [[NSTask alloc] init];
         task.setLaunchPath("/bin/bash");
         task.setArguments(cmd);
         task.launch();
@@ -162,7 +167,7 @@ com.notebook = {
         var sidebar = sidebar || this.getSidebar,
             layer = this.predicate({key : "(name != NULL) && (name == %@)",match : "Page Title"}, sidebar),
             pageName = sidebar.parentGroup().name();
-        
+
         this.setStringValue(layer,pageName);
         layer.setIsEditingText(true);
         layer.setIsEditingText(false);
@@ -205,12 +210,7 @@ com.notebook = {
             return sidebarWidth;
         };
         return nil;
-        
-    },
 
-    methodsFor: function(obj){
-        log([obj class].mocha().instanceMethods())
-        log([obj class].mocha().instanceMethodsWithAncestors())
     },
 
     alertHandler: function(alert, responseCode){
@@ -291,9 +291,9 @@ com.notebook = {
 
 
 
-            
+
             var panel = this.createAlertBase(),
-                comment;            
+                comment;
 
             panel.setMessageText("Sketch Notebook");
             panel.setInformativeText("Set comment title and content for \""+el.name()+"\"");
@@ -312,7 +312,7 @@ com.notebook = {
                     'text' : (panel.viewAtIndex(3).stringValue()),
                     'title' : panel.viewAtIndex(1).stringValue()
                 };
-                
+
             }else{
                 comment = false;
                 this.showMessage("Cancelled");
@@ -347,7 +347,7 @@ com.notebook = {
             this.debugLog("final height: "+this.getCommentsHeight(sidebar))
             this.realignComments();
         }
-        
+
     },
 
     flags: {
@@ -382,7 +382,8 @@ com.notebook = {
         if(!container){
             var cWidth = artboard.frame().width() - this.config.sidebarWidth,
                 cHeight = artboard.frame().height();
-            container = artboard.addLayerOfType("group");
+            container = MSLayerGroup.new();
+            artboard.addLayers([container]);
             container.setName("--nb--balls");
             container.frame().setWidth(cWidth);
             container.frame().setHeight(cHeight);
@@ -424,7 +425,8 @@ com.notebook = {
         this.debugLog("creating comment group")
         var gY = this.getBottomLinePos(sidebar),
             groupWidth = this.config.sidebarWidth - (this.config.commentVMargin*2),
-            group = sidebar.addLayerOfType("group");
+            group = MSLayerGroup.new();
+            sidebar.addLayers([group]);
             group.setName("--comments");
             group.frame().setWidth(groupWidth);
             group.frame().setX(this.config.commentVMargin);
@@ -580,7 +582,7 @@ com.notebook = {
             indicator.absoluteRect().setY(cly);
         };
 
-        
+
 
     },
 
@@ -622,7 +624,7 @@ com.notebook = {
             // [layer select:true byExpandingSelection:false];
             // [layer select:false byExpandingSelection:false];
         };
-        
+
     },
 
     commentRenumbering: function(comments){
@@ -756,9 +758,10 @@ com.notebook = {
     addGroup: function(parent,name){
         this.debugLog("adding group layer")
         var parent = parent || doc.currentPage(),
-            group = parent.addLayerOfType("group"),
+            group = MSLayerGroup.new(),
             name = name || "new group";
-        
+
+        parent.addLayers([group]);
         group.setName(name);
         group.setNameIsFixed(true)
 
@@ -843,11 +846,11 @@ com.notebook = {
                 bgcolor = "#ffffff";
         }
         var sidebar = this.getSidebar(),
-            currentPage = 
+            currentPage =
             comments = this.getCommentsGroup(),
             background = this.predicate({key : "(name != NULL) && (name == %@)",match : 'sidebar-bg'}, sidebar) || false,
             header = this.predicate({key : "(name != NULL) && (name == %@)",match : 'header-h1'}, sidebar) || false,
-            bottomLine = this.predicate({key : "(name != NULL) && (name == %@)",match : 'bottomLine'}, sidebar) || false,            
+            bottomLine = this.predicate({key : "(name != NULL) && (name == %@)",match : 'bottomLine'}, sidebar) || false,
             label = this.predicate({key : "(name != NULL) && (name == %@)",match : 'label'}, sidebar) || false,
             label2 = this.predicate({key : "(name != NULL) && (name == %@)",match : 'label_Date'}, sidebar) || false,
             label3 = this.predicate({key : "(name != NULL) && (name == %@)",match : 'label_Author'}, sidebar) || false,
@@ -870,7 +873,7 @@ com.notebook = {
         if(pageTitle) this.updateTextStyleColor(pageTitle, primary)
         if(commentTitle) this.updateTextStyleColor(commentTitle, primary)
         if(commentBody) this.updateTextStyleColor(commentBody, secondary)
-        
+
 
     },
 
@@ -891,8 +894,8 @@ com.notebook = {
     //         obj.setIsEditingText(false);
     //     }
 
-    //     this.ctx.document.reloadInspector();        
-        
+    //     this.ctx.document.reloadInspector();
+
     // },
 
     updateTextStyleColor: function(obj, color){
@@ -920,9 +923,9 @@ com.notebook = {
         if(sharedStyle) {
             docData.layerTextStyles().synchroniseInstancesOfSharedObject_withInstance(sharedStyle, obj.style())
         }
-        
-        this.ctx.document.reloadInspector();        
-        
+
+        this.ctx.document.reloadInspector();
+
     },
 
     addTxt: function(parent,name,color,fontSize,string,w,h,x,y,fixed){
@@ -941,7 +944,8 @@ com.notebook = {
             y = y || 0,
             fixed = fixed || false; //fixed width
 
-        var textLayer = parent.addLayerOfType("text");
+        var textLayer =
+        parent.addLayerOfType("text");
 
             textLayer.textColor = color;
             textLayer.fontSize = fontSize;
@@ -949,11 +953,11 @@ com.notebook = {
             textLayer.setName(name);
             textLayer.setNameIsFixed(true);
             this.setStringValue(textLayer, string);
-            
+
             var textLayerFrame = [textLayer frame];
             [textLayerFrame setWidth: w];
             //[textLayerFrame setHeight: h];
-            
+
             [textLayerFrame setX: x];
             [textLayerFrame setY: y];
 
@@ -1024,7 +1028,9 @@ com.notebook = {
     // Create sidebar
         this.debugLog("generating assets: sidebar group")
         // group
-        var sidebar = assets.addLayerOfType("group");
+        var sidebar = MSLayerGroup.new();
+
+            assets.addLayers([sidebar]);
             sidebar.setName("sidebar");
             sidebar.frame().setWidth(sc.width);
             sidebar.frame().setHeight(sc.height);
@@ -1038,28 +1044,33 @@ com.notebook = {
 
         // Header
         this.debugLog("generating assets: sidebar header")
-        var header = sidebar.addLayerOfType("group");
+        var header = MSLayerGroup.new();
+            sidebar.addLayers([header]);
             header.setName("header");
             header.frame().setWidth(sc.contentW);
             header.frame().setHeight(53);
             header.frame().setX(sc.x+sc.margin);
             header.frame().setY(sc.y+sc.margin);
         //              addTxt(parent,name,color,fontSize,w,h,x,y)
-        var logo = this.addTxt(header,'header-h1','#777777',20,'Notes',sc.width,24,0,0),
+        var logo = this.addTxt(header,'header','#777777',20,'Notes',sc.width,24,0,0),
             topLineY = logo.frame().y() + logo.frame().height() + 20,
             topLine = this.addRect(header,'bottomLine', sc.separatorColor, sc.contentW, 1, 0, topLineY);
+
+        [topLine select:true byExpandingSelection:false];
+        [topLine select:false byExpandingSelection:false];
 
         this.storeStyle(logo,"notebook:sidebar:header");
         this.storeStyle(topLine,"notebook:sidebar:separator");
 
         var sepStyle = topLine.style().sharedObjectID();
 
-        this.storeSymbol(header,"notebook:header");
+        this.storeSymbol(header,"notebook_header");
 
         // Metadata group
         this.debugLog("generating assets: sidebar metadata")
-        var m = sidebar.addLayerOfType("group"),
-            mY = topLine.frame().y() + topLine.frame().height() + sc.margin*2;
+        var m = MSLayerGroup.new();
+            sidebar.addLayers([m]);
+        var mY = topLine.frame().y() + topLine.frame().height() + sc.margin*2;
             m.setName("Metadata");
             m.frame().setWidth(sc.contentW);
             //m.frame().setHeight(114);
@@ -1067,7 +1078,7 @@ com.notebook = {
             m.frame().setY(mY);
 
         m.enableAutomaticScaling();
-        
+
         var mInfo = ['PROJECT','DATE','AUTHOR','DEVICE'];
 
         var meta = this.getMetadata();
@@ -1091,7 +1102,7 @@ com.notebook = {
 
         // Metadata labels & values
         var newY = 0;
-        for (var i = 0; i < mInfo2.length; i++) {            
+        for (var i = 0; i < mInfo2.length; i++) {
             var label = this.addTxt(m,'label','#61625E',12,mInfo2[i].label.toUpperCase()+":",65,11,0,newY+2,fixed=true),
                 value = this.addTxt(m,'value_'+mInfo2[i].label,'#C4C5C3',14,mInfo2[i].value,360,21,80,newY,fixed=true),
                 lid,vid;
@@ -1113,18 +1124,24 @@ com.notebook = {
             midLine = this.addRect(m,'bottomLine', sc.separatorColor, sc.contentW, 1, 0, midLineY);
             midLine.style().setSharedObjectID(sepStyle);
 
-        this.storeSymbol(m,"notebook:metadata");
+        [midLine select:true byExpandingSelection:false];
+        [midLine select:false byExpandingSelection:false];
+
+        this.storeSymbol(m,"notebook_metadata");
         // Screen name
         this.debugLog("generating assets: sidebar screen name")
-        var sLx = midLine.absoluteRect().x(),
-            sLy = midLine.absoluteRect().y() + midLine.absoluteRect().height() + sc.margin,
+        var sLx = sc.margin,
+            sLy = header.absoluteRect().height() + m.absoluteRect().y() + m.absoluteRect().height() + sc.margin * 3,
             screenLabel = this.addTxt(sidebar,'label_screen','#61625E',11,"SCREEN",100,11,0,0);
             this.storeStyle(screenLabel,"notebook:sidebar:screen-name-label");
-        
+
+        log("x"+sLx);
+        log("y"+sLy);
+
         screenLabel.absoluteRect().setX(sLx);
         screenLabel.absoluteRect().setY(sLy);
         this.txtRefreshSize(screenLabel);
-        
+
 
         var sNy = screenLabel.absoluteRect().y() + screenLabel.absoluteRect().height() + 10,
             screenName = this.addTxt(sidebar,'Page Title','#ffffff',18,"ARTBOARD NAME",400,21,sc.margin,sNy);
@@ -1133,13 +1150,15 @@ com.notebook = {
         var bottomLineY = screenName.absoluteRect().y() + screenName.absoluteRect().height() + sc.margin,
             bottomLine = this.addRect(sidebar,'bottomLine', sc.separatorColor, sc.contentW, 1, sc.margin, bottomLineY);
             bottomLine.style().setSharedObjectID(sepStyle);
-        
-    
+
+
     // Create comment
         // group
         this.debugLog("generating assets: comment")
-        var comment = assets.addLayerOfType("group"),
-            cX = sc.margin,
+        var comment = MSLayerGroup.new();
+            assets.addLayers([comment]);
+
+        var cX = sc.margin,
             cY = bottomLine.absoluteRect().y() + bottomLine.absoluteRect().height() + sc.margin;
 
         comment.setName("comment");
@@ -1161,12 +1180,13 @@ com.notebook = {
         this.storeStyle(body,"notebook:comment:body");
             //body.frame().setWidth(400);
             //body.setTextWidth(1)
-        
+
         body.absoluteRect().setY(bodyY);
 
         // index group
         this.debugLog("generating assets: comment index")
-        var index = comment.addLayerOfType("group");
+        var index = MSLayerGroup.new();
+            comment.addLayers([index]);
             index.setName("index");
             index.frame().setWidth(40);
             index.frame().setHeight(40);
@@ -1183,7 +1203,7 @@ com.notebook = {
                         //function(parent,name,color,fontSize,string,w,h,x,y,fixed){
         var iLabel = this.addTxt(index,'#','#ffffff',14,"#",30,30,0,0,fixed=true);
             iLabel.setTextAlignment(2);
-            iLabel.setLineSpacing(23);
+            iLabel.setLineSpacing(28);
             this.storeStyle(iLabel,"notebook:comment:index");
             //iLabel.setFontPostscriptName('Helvetica Neue');
 
@@ -1204,15 +1224,9 @@ com.notebook = {
 
     storeSymbol: function(obj,name){
         this.debugLog("storing symbol")
-        var selection = this.ctx.selection,
-            doc = this.ctx.document,
-            symbols = doc.documentData().layerSymbols();
-        symbols.addSymbolWithName_firstInstance(name, obj);
-
-        //log(symbols.addSharedObjectWithName)
-        // var sharedStyles=doc.documentData().layerStyles();
-        // symbols.addSharedStyleWithName_firstInstance("nbassets:sidebar:bg",bg.style());
-        //dataContainer.sharedStyleWithID(this.orig.style().sharedObjectID())
+        var selectedLayer = this.ctx.selection.firstObject(),
+            layers = MSLayerArray.arrayWithLayers([obj]);
+            MSSymbolCreator.createSymbolFromLayers_withName_onSymbolsPage(layers,name,true);
     },
 
     storeStyle: function(obj,name){
@@ -1247,7 +1261,9 @@ com.notebook = {
             flag = this.getAsset("ManualRelocation"),
             container = this.getBallsContainer();
         if(flag==0){
-            var f = assetsPage.addLayerOfType("group");
+            var f = MSLayerGroup.new();
+
+                assetsPage.addLayers([f]);
                 f.setName("ManualRelocation");
         }
 
@@ -1409,4 +1425,4 @@ com.notebook = {
 
     debug : false
 
- } 
+ }

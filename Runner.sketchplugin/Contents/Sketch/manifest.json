@@ -1,22 +1,24 @@
 {
-	"identifier" : "com.scooterinteractive.sketchplugins.Runner",
-	"version" : "0.1",
-	"description" : "Search, run, insert, apply, (TBD)",
-	"authorEmail" : "aby@scooterinteractive.com",
-	"name" : "Runner",
-	"author" : "Runner Team",
-  	"commands" : [
+  "author" : "Runner Team",
+  "commands" : [
     {
-      "script" : "script.js",
-      "shortcut" : "cmd shift z",
-      "name" : "Launch",
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "cmd ''",
+      "name" : "Runner",
       "identifier" : "runner"
     }
   ],
   "menu": {
+    "title" : "Runner",
+    "isRoot" : true,
     "items": [
       "runner"
-  	],
-	"isRoot": "true"
-  }
- }
+    ]
+  },
+  "identifier" : "com.sketchrunner.Runner",
+  "version" : "0.5",
+  "description" : "Speed up your Sketch workflow",
+  "authorEmail" : "hello@sketchrunner.com",
+  "name" : "Runner"
+}

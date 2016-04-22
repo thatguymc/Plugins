@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>15D21</string>
+	<string>15E65</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>Instabar</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.scooterinteractive.sketchplugins.Instabar</string>
+	<string>com.sketchrunner.Runner</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -25,21 +25,21 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>258</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>7D175</string>
+	<string>7A1001</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>15E60</string>
+	<string>15A278</string>
 	<key>DTSDKName</key>
 	<string>macosx10.11</string>
 	<key>DTXcode</key>
-	<string>0730</string>
+	<string>0701</string>
 	<key>DTXcodeBuild</key>
-	<string>7D175</string>
+	<string>7A1001</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2016 Aby Nimbalkar. All rights reserved.</string>
 </dict>

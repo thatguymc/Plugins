@@ -48,3 +48,6 @@
 [submodule "Sketch-Layer-Tools"]
 	path = Sketch-Layer-Tools
 	url = https://github.com/hrescak/Sketch-Layer-Tools.git
+[submodule "sketch-symbol-me"]
+	path = sketch-symbol-me
+	url = https://github.com/websiddu/sketch-symbol-me.git

@@ -1,0 +1,129 @@
+{
+  "name" : "Notebook Pro",
+  "author" : "Marcos Vidal",
+  "homepage": "http://marcosvid.al/sketch-notebook",
+  "bundleVersion": 1,
+  "identifier" : "com.notebook",
+  "version" : 0.3,
+  "description" : "Documenting design made easy",
+  "authorEmail" : "m@marcosvid.al",
+  "compatibleVersion": 3.7,
+
+  "commands" : [
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "addComment",
+      "shortcut" : "control alt cmd 9",
+      "name" : "Add Comment",
+      "identifier" : "add comment"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "showAll",
+      "shortcut" : "control alt cmd 7",
+      "name" : "Show All Notebooks",
+      "identifier" : "show all"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "hideAll",
+      "shortcut" : "control alt cmd 6",
+      "name" : "Hide All Notebooks",
+      "identifier" : "hide all"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "toggleCurrent",
+      "shortcut" : "control alt cmd 0",
+      "name" : "Toggle Current",
+      "identifier" : "toggle current"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "updateComments",
+      "shortcut" : "control alt cmd 8",
+      "name" : "Update Comments",
+      "identifier" : "update comments"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "resetComments",
+      "shortcut" : "",
+      "name" : "Reset Comments",
+      "identifier" : "reset comments"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "updateMetadata",
+      "shortcut" : "",
+      "name" : "Update Metadata",
+      "identifier" : "update metadata"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "setManualRelocation",
+      "shortcut" : "",
+      "name" : "Relocate Indicators Manually",
+      "identifier" : "set manual relocation"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "setAutomaticRelocation",
+      "shortcut" : "",
+      "name" : "Relocate Indicators Automatically",
+      "identifier" : "set automatic relocation"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "setStyleBright",
+      "shortcut" : "",
+      "name" : "Bright",
+      "identifier" : "set style bright"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "setStyleDark",
+      "shortcut" : "",
+      "name" : "Dark",
+      "identifier" : "set style dark"
+    },
+    {
+      "script" : "notebook.cocoascript",
+      "handler" : "setStyleSepia",
+      "shortcut" : "",
+      "name" : "Sepia",
+      "identifier" : "set style sepia"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "add comment",
+      "update comments",
+      {
+       "title": "Sidebar Visibility",
+       "items": [
+         "show all",
+         "hide all",
+         "toggle current"
+       ],
+      },
+      {
+       "title": "Tools & Settings",
+       "items": [
+         "reset comments",
+         "update metadata",
+         "set manual relocation",
+         "set automatic relocation"
+       ],
+      },
+      {
+       "title": "Style",
+       "items": [
+         "set style bright",
+         "set style dark",
+         "set style sepia"
+       ]
+      }
+    ]
+  }
+}
