@@ -17,9 +17,6 @@
 [submodule "sketch-link-underline-align"]
 	path = sketch-link-underline-align
 	url = https://github.com/zholdas/sketch-link-underline-align.git
-[submodule "sketch-palettes"]
-	path = sketch-palettes
-	url = https://github.com/andrewfiorillo/sketch-palettes.git
 [submodule "SketchDistributor"]
 	path = SketchDistributor
 	url = https://github.com/PEZ/SketchDistributor.git
