@@ -48,3 +48,9 @@
 [submodule "sketch-symbol-me"]
 	path = sketch-symbol-me
 	url = https://github.com/websiddu/sketch-symbol-me.git
+[submodule "AlignTo"]
+	path = AlignTo
+	url = https://github.com/LucienLee/AlignTo.git
+[submodule "Sketch-Organize_artboards"]
+	path = Sketch-Organize_artboards
+	url = https://github.com/mochang/Sketch-Organize_artboards.git
