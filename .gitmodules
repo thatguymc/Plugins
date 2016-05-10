@@ -54,3 +54,6 @@
 [submodule "Sketch-Organize_artboards"]
 	path = Sketch-Organize_artboards
 	url = https://github.com/mochang/Sketch-Organize_artboards.git
+[submodule "arrowfy"]
+	path = arrowfy
+	url = https://github.com/joclin/arrowfy.git
