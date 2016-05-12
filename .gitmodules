@@ -60,3 +60,6 @@
 [submodule "marketch"]
 	path = marketch
 	url = https://github.com/tudou527/marketch.git
+[submodule "half-me-sketch"]
+	path = half-me-sketch
+	url = https://github.com/romashamin/half-me-sketch.git
