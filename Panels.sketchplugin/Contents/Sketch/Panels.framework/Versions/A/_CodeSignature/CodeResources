@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		85c4dfYIWhx4pihtxWep4YIrYkw=
+		TSlVpE35Z1W7HsRYbnEyc08lS6c=
 		</data>
 		<key>Resources/bridge.js</key>
 		<data>
-		L3VxaxUY5zgmRu6xzasp9GZj5u0=
+		RjaBNvSO9BjiUqxVoFO/aSN3S+8=
 		</data>
 		<key>Resources/close.tiff</key>
 		<data>
@@ -24,6 +24,10 @@
 		<data>
 		WLUPE9J14g71hlFZQ+8CM6NNzmY=
 		</data>
+		<key>Resources/placeholder.png</key>
+		<data>
+		RMZPJdaoZlE07tLEb9pGR+v9CLA=
+		</data>
 		<key>Resources/pubkey.pem</key>
 		<data>
 		4IGXP1t3j6S+7zBOwUAd+BnTCCY=
@@ -32,22 +36,107 @@
 		<data>
 		RqkaqKnuy+QDm3cSkXz+tXcbkXM=
 		</data>
+		<key>Resources/sketch-api.js</key>
+		<data>
+		2Z1Hg2UbS5vI53XixSK3vy594PI=
+		</data>
 		<key>Resources/tabs.html</key>
 		<data>
 		n3EnuDgC9LoUfAnyZxUVyijot2Y=
 		</data>
+		<key>Resources/type.js</key>
+		<data>
+		xIk7zRLZlzg2ZLs4I3auEgOm/F4=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/ICPanel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rW8YalpNeEjec0nbA5YggOmL8Rs=
+			</data>
+			<key>hash2</key>
+			<data>
+			F8U5eBNc/DHRI2/ZLn5ySIzNDY7/EMFQXfj7iwrr3nE=
+			</data>
+		</dict>
+		<key>Headers/ICPanelView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wniBH97M9b2EifLblVfNzfKXTRc=
+			</data>
+			<key>hash2</key>
+			<data>
+			JEplrHQx1lzt8HFg6XKK7XO6BEcHleStuscRM5bRi6o=
+			</data>
+		</dict>
+		<key>Headers/ICPanelViewControllerProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zLR9rtkki4sf+KUAItd5iSXlEiU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZyVU+L8Fpt2taT6oZcd/qzZqB1DJPLRNjuyO/FngfNU=
+			</data>
+		</dict>
+		<key>Headers/ICPanelsManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			48jlBYc6+Mb6wQ5w2Nag1YSenYY=
+			</data>
+			<key>hash2</key>
+			<data>
+			bNLPM05EyJzNzIjmgcJCeS0IIR+dheYnxTeipnb6Wb4=
+			</data>
+		</dict>
+		<key>Headers/ICSketchApi.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DuVSugXNF6dSJo5vZE01BlNOfTo=
+			</data>
+			<key>hash2</key>
+			<data>
+			46ihMrQHdVHhcI5vQwVFEXSNMnRiA2dwCqhaSGLuurA=
+			</data>
+		</dict>
+		<key>Headers/ICUtils.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			utdUuX+bbxq+7z3CCbOHq42O0Zs=
+			</data>
+			<key>hash2</key>
+			<data>
+			gjHQJcRuOZTo6RbjekkSPcPY3iEjQMZnTd1SEZSWgmE=
+			</data>
+		</dict>
+		<key>Headers/ICWebViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			czrjlYUoN0hCaS+zapHpB2PW9oU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ki1QcbwecO9IibH/9shUaS/B1oZDdvaRZFxcPxEmPiw=
+			</data>
+		</dict>
 		<key>Headers/Panels.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OBEFZcMat0RsCydjSrhPGARVO84=
+			b7yPQfeX/IMPVQy3QAo8odq13RU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zHDoXnfGilZn+Xv8+vdNQEQdJKFUVeoXnooKil3Wfhs=
+			xu1wuv37W8h2jhKTRvl+cpXorLBdQvSBunDaNvQNqb0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -65,22 +154,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			85c4dfYIWhx4pihtxWep4YIrYkw=
+			TSlVpE35Z1W7HsRYbnEyc08lS6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			7qB+4LmjtONfkKqYIaozuZMlPoT4DOFDQehy3CDmK14=
+			zT/Y+f5fEzEqJNoMiDjzUtQcv31PLrLhQuPk3Ri7r7I=
 			</data>
 		</dict>
 		<key>Resources/bridge.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L3VxaxUY5zgmRu6xzasp9GZj5u0=
+			RjaBNvSO9BjiUqxVoFO/aSN3S+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			dEqhLMKIwNS1dEqPjdRh8+jXaguXCaddnJYdZ6aVIe8=
+			GQjy5Fc7BPOLjMSOHF8JxZuudU6avbSUTEWU/YW2d6E=
 			</data>
 		</dict>
 		<key>Resources/close.tiff</key>
@@ -116,6 +205,17 @@
 			D+U911sGVg3PMueB3HJA4s6oseHXcuJsKfWqvddqaQk=
 			</data>
 		</dict>
+		<key>Resources/placeholder.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RMZPJdaoZlE07tLEb9pGR+v9CLA=
+			</data>
+			<key>hash2</key>
+			<data>
+			IVmGMykj2A2r+oYTYQIUSvQyyEVOSQ7prs7HoKXq9l4=
+			</data>
+		</dict>
 		<key>Resources/pubkey.pem</key>
 		<dict>
 			<key>hash</key>
@@ -138,6 +238,17 @@
 			ly8pUU0ObvcLpbG/nMOx99FEYtPGNaXQAVu2OMUniPI=
 			</data>
 		</dict>
+		<key>Resources/sketch-api.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2Z1Hg2UbS5vI53XixSK3vy594PI=
+			</data>
+			<key>hash2</key>
+			<data>
+			BLVgQDFuU8mQQrTkuscom7eTAGUDSicBNLdH/hlooEA=
+			</data>
+		</dict>
 		<key>Resources/tabs.html</key>
 		<dict>
 			<key>hash</key>
@@ -147,6 +258,17 @@
 			<key>hash2</key>
 			<data>
 			4v6ui84/tLScvqmkX95Kownyys1nVNmCJIuI1K8yAq4=
+			</data>
+		</dict>
+		<key>Resources/type.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xIk7zRLZlzg2ZLs4I3auEgOm/F4=
+			</data>
+			<key>hash2</key>
+			<data>
+			H94qk7G9KyhZrAvJlXZEEtmMr5MsBNpgQJWZfVBdnAU=
 			</data>
 		</dict>
 	</dict>

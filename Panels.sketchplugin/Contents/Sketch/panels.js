@@ -9,6 +9,5 @@ function loadFramework(frameworkName, frameworkClass, directory) {
 
 function loadFrameworks(scriptPath) {
   var pluginRoot = [scriptPath stringByDeletingLastPathComponent];
-  // loadFramework('SwiftSupport', 'SwiftSupportHelper', pluginRoot);
-  loadFramework('Panels', 'PanelsManager', pluginRoot);
+  loadFramework('Panels', 'ICPanelsManager', pluginRoot);
 }

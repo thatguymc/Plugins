@@ -3,11 +3,11 @@
 var togglePanels = function(context) {
   loadFrameworks(context.scriptPath);
 
-  [[PanelsManager sharedManager] loadOrToggle];
+  [[ICPanelsManager sharedManager] loadOrToggle];
 };
 
 var showPanels = function(context) {
   loadFrameworks(context.scriptPath);
 
-  [[PanelsManager sharedManager] load];
+  [[ICPanelsManager sharedManager] load];
 };
