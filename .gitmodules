@@ -66,3 +66,6 @@
 [submodule "remove-unused-symbols"]
 	path = remove-unused-symbols
 	url = https://github.com/sketchplugins/remove-unused-symbols.git
+[submodule "Sketch-Constraints"]
+	path = Sketch-Constraints
+	url = https://github.com/bouchenoiremarc/Sketch-Constraints.git
