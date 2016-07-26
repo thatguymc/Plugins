@@ -69,3 +69,6 @@
 [submodule "Sketch-Constraints"]
 	path = Sketch-Constraints
 	url = https://github.com/bouchenoiremarc/Sketch-Constraints.git
+[submodule "compo-sketch"]
+	path = compo-sketch
+	url = https://github.com/romashamin/compo-sketch.git
