@@ -21,8 +21,10 @@
 @interface ICPanelView : NSView
 
 @property (nonatomic, weak) id<ICPanelViewDelegate> delegate;
+@property (nonatomic, getter=isFullscreen) BOOL fullscreen;
 - (id)initWithFrame:(NSRect)frameRect panel:(ICPanel *)panel contentViewController:(NSViewController<ICPanelViewControllerProtocol> *)contentViewController;
 - (NSViewController<ICPanelViewControllerProtocol> *)contentViewController;
 - (void)setHidden:(BOOL)hidden forActionButton:(NSString *)identifier;
+- (void)resetContentView;
 
 @end

@@ -1,24 +1,65 @@
 {
-  "author" : "Runner Team",
+  "author" : "Roy, Nikolas, Sergi, Florian, Moriah, Aby",
   "commands" : [
     {
-      "script" : "script.cocoascript",
+      "script" : "script.js",
       "handler" : "onRun",
-      "shortcut" : "cmd ''",
-      "name" : "Runner",
-      "identifier" : "runner"
+      "shortcut" : "cmd '",
+      "name" : "Run...",
+      "identifier" : "run"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd shift '",
+      "name" : "Run Last Action",
+      "identifier" : "runLast"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Go To",
+      "identifier" : "goto"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Insert",
+      "identifier" : "insert"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Create",
+      "identifier" : "create"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Apply",
+      "identifier" : "apply"
     }
   ],
   "menu": {
-    "title" : "Runner",
-    "isRoot" : true,
+    "title" : "🏃🏿 Runner",
     "items": [
-      "runner"
+      "run",
+      "runLast",
+      "-",
+      "goto",
+      "insert",
+      "create",
+      "apply"
     ]
   },
   "identifier" : "com.sketchrunner.Runner",
-  "version" : "0.5",
+  "version" : "0.8",
   "description" : "Speed up your Sketch workflow",
   "authorEmail" : "hello@sketchrunner.com",
-  "name" : "Runner"
+  "name" : "🏃🏿 Runner",
+  "disableCocoaScriptPreprocessor" : true
 }

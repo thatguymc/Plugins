@@ -6,48 +6,80 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		tw7tD45+w5vzeV7eChXrflBm9Ic=
+		z62FuCx0MfgLfau6KJYD+i/m5yI=
 		</data>
 		<key>Resources/SIInstabarInput.nib</key>
 		<data>
-		JszpNUeQF6ZCcm5swGo8JOCjAI0=
+		4vGkkav7FgwxRTgO3Lloi6c6R5A=
+		</data>
+		<key>Resources/SIIntroHintView.nib</key>
+		<data>
+		LZNDEc9SJZmU6YqaYJhMYHLlv68=
+		</data>
+		<key>Resources/SISettingsView.nib</key>
+		<data>
+		ykiWYkBvvfl32ieb7zFXqR31P4U=
 		</data>
 		<key>Resources/SIUpdateDetails.nib</key>
 		<data>
-		UKmRCilusViYfsWWgu272F6HwLQ=
+		TPhEX4j8l1WlV2w9a4iW0K4XNOg=
 		</data>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TRkx/ne+goKkLlMW5M/3bvblPPQ=
+			h8U5MIdH9nFwp/p6ngoHgNgVUwg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/icon_artboard.tiff</key>
 		<data>
-		Tlc07R2nVJLlzLZ2XDd1k56AQjo=
+		dchOOrB8bDy+jVbMWdufeMG0gAU=
 		</data>
 		<key>Resources/icon_defaultAction.tiff</key>
 		<data>
-		TyAu7XH6evXQotV7OJYfqevoApM=
+		0GBim/qkLI49G5ZXAZzfaIh3f28=
 		</data>
 		<key>Resources/icon_invalidAction.tiff</key>
 		<data>
-		08B+2NFedST6TWMX6wttYCoRVIE=
+		ZjZZIDzkG61RR1DY3bd2ejzXPwU=
 		</data>
 		<key>Resources/icon_page.tiff</key>
 		<data>
-		Rcaq8ED94HmzBVi07RpTVFsN/p4=
+		vneyZgZM5hPrWOZDWhL4VR/fGgY=
+		</data>
+		<key>Resources/icon_pluginPlaceholder.tiff</key>
+		<data>
+		nh7HTp38LQKZTEULkxeiJUixfKk=
+		</data>
+		<key>Resources/icon_right-arrow.tiff</key>
+		<data>
+		JudmlL1LdPGjCrr5kJRbmE09YiY=
 		</data>
 		<key>Resources/icon_settings.tiff</key>
 		<data>
-		FQRXmdo3fcOxCFSEonivLLMX+Tk=
+		3srZ7x6XCopXgNg11837BUhkqOc=
 		</data>
 		<key>Resources/icon_sharedStyle.tiff</key>
 		<data>
-		dv+1jDXGKD+B2g61vtkbDuNEWs0=
+		ssrfBfmtFLufISKR0+LEu8a8IcA=
+		</data>
+		<key>Resources/icon_sketch.tiff</key>
+		<data>
+		EGCaPUgLX70pM8KXPUsiyZV+WdQ=
+		</data>
+		<key>Resources/icon_twitterbird.tiff</key>
+		<data>
+		dxUFle7WR6sRxBYTLRGX49IusW0=
+		</data>
+		<key>Resources/insert-symbol32.tiff</key>
+		<data>
+		9gMUr8jsonwlA5R5ffET0GEEz5k=
+		</data>
+		<key>Resources/insert-textstyle32.tiff</key>
+		<data>
+		xnvCgsDsnErrLNlMISXa/J9dPnM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -78,44 +110,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tw7tD45+w5vzeV7eChXrflBm9Ic=
+			z62FuCx0MfgLfau6KJYD+i/m5yI=
 			</data>
 			<key>hash2</key>
 			<data>
-			qmFA+gmTFa542K/sZNHHWDRPxQFa/Zf3pd4BbsaXZwE=
+			ziF8MNGKdr3EQRyMS2PmAhkdOIS4fcN9hTu+eOsEUhQ=
 			</data>
 		</dict>
 		<key>Resources/SIInstabarInput.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JszpNUeQF6ZCcm5swGo8JOCjAI0=
+			4vGkkav7FgwxRTgO3Lloi6c6R5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			lAIWWN8W9NEpyFu1XQx/BBcLeCVQCg5liPct4ksU/ME=
+			kp6O/zZ3Skmg2xGjEaRht0aBUwbwCV8tXF/lH7UmwpI=
+			</data>
+		</dict>
+		<key>Resources/SIIntroHintView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LZNDEc9SJZmU6YqaYJhMYHLlv68=
+			</data>
+			<key>hash2</key>
+			<data>
+			CStqflkTf/OLvp0QFYUBC4MJXY8K5AvzHLHU/ITKQc8=
+			</data>
+		</dict>
+		<key>Resources/SISettingsView.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ykiWYkBvvfl32ieb7zFXqR31P4U=
+			</data>
+			<key>hash2</key>
+			<data>
+			Un7RP3oCv5sTGVHEFGzoEpdJzZpL2EEi1/k9tgajOm4=
 			</data>
 		</dict>
 		<key>Resources/SIUpdateDetails.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UKmRCilusViYfsWWgu272F6HwLQ=
+			TPhEX4j8l1WlV2w9a4iW0K4XNOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			NOY6+39JPEntCkoZHWOqb9GMyskd00IsqCnw3W69WR0=
+			jemTCg9RKZnJ1Wxnr5yoZqAwlNkYOulTevMLw++gvv0=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TRkx/ne+goKkLlMW5M/3bvblPPQ=
+			h8U5MIdH9nFwp/p6ngoHgNgVUwg=
 			</data>
 			<key>hash2</key>
 			<data>
-			44u3PQqQWc7IL2NK7MabP1/Le4pb2i8ScFLyFCmQTq8=
+			4KXczPT9XAQbqV65EWFdKiBZq6ikhEs1UVE2PkYj2Nc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -124,66 +178,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tlc07R2nVJLlzLZ2XDd1k56AQjo=
+			dchOOrB8bDy+jVbMWdufeMG0gAU=
 			</data>
 			<key>hash2</key>
 			<data>
-			KGc48e6VevhVDoHJkIr1kTPET0TSgt420cw+EJCsfI8=
+			hKzDqu/xiWYxwgCdPxX4uzXMk/mrde3UtK0Z6gxPkPg=
 			</data>
 		</dict>
 		<key>Resources/icon_defaultAction.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TyAu7XH6evXQotV7OJYfqevoApM=
+			0GBim/qkLI49G5ZXAZzfaIh3f28=
 			</data>
 			<key>hash2</key>
 			<data>
-			5iyns9GFYWtnSGkzOKzlZRnbxbvq7PGezTb1+Uhbi1g=
+			vBzrohUfszArWAgwA5JougykoYHFX6f5WG0cyL6mlVI=
 			</data>
 		</dict>
 		<key>Resources/icon_invalidAction.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			08B+2NFedST6TWMX6wttYCoRVIE=
+			ZjZZIDzkG61RR1DY3bd2ejzXPwU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ukns/uwUFh18A4j44ywWuGzKkX/OzcgG/GtKBFFL0UU=
+			OiwplBMkqj5kFL//7lZLWxEt2RU2DZ7WLmLJk0xZwCI=
 			</data>
 		</dict>
 		<key>Resources/icon_page.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rcaq8ED94HmzBVi07RpTVFsN/p4=
+			vneyZgZM5hPrWOZDWhL4VR/fGgY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FOgUnUPrWCNkMRQhscVpI7i9G4/sXNddJ0aWvjFCPaQ=
+			akS0rrP56T7LkAzmu/JTPmmE3F8PRuf04YLTUtjLMVI=
+			</data>
+		</dict>
+		<key>Resources/icon_pluginPlaceholder.tiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nh7HTp38LQKZTEULkxeiJUixfKk=
+			</data>
+			<key>hash2</key>
+			<data>
+			2YfoW+07/sUGeOau6liFH+1U1it6J+M/vuMiAVl9Egw=
+			</data>
+		</dict>
+		<key>Resources/icon_right-arrow.tiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JudmlL1LdPGjCrr5kJRbmE09YiY=
+			</data>
+			<key>hash2</key>
+			<data>
+			k3oYTUCHGM8xFo+gkbXF0L3cU/zhpq9ltr9APbeNd+Y=
 			</data>
 		</dict>
 		<key>Resources/icon_settings.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FQRXmdo3fcOxCFSEonivLLMX+Tk=
+			3srZ7x6XCopXgNg11837BUhkqOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			bKppSJ0/B4Rf3B48V4N3QaSXdsRH2vNwZXYV7+ykFQU=
+			z8frxUpqkvLTUICQFJAT/NTtwu7Hv4/Os1vVC/ye27M=
 			</data>
 		</dict>
 		<key>Resources/icon_sharedStyle.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dv+1jDXGKD+B2g61vtkbDuNEWs0=
+			ssrfBfmtFLufISKR0+LEu8a8IcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			75u9FLPsLdgt4DpgcmB9NVXW70x9T2+gREcLroE4iyw=
+			hEoT+jF4UkutbF7JFH0CNZanR2gCI4xgx3wkWhUmPX4=
+			</data>
+		</dict>
+		<key>Resources/icon_sketch.tiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EGCaPUgLX70pM8KXPUsiyZV+WdQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			GtAX8ku1CvNl6EVEV1QIQi238ZgGTZgFxppIsLIMnMQ=
+			</data>
+		</dict>
+		<key>Resources/icon_twitterbird.tiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dxUFle7WR6sRxBYTLRGX49IusW0=
+			</data>
+			<key>hash2</key>
+			<data>
+			MEAivmjLciBvUpGMcbIDZiA8d2lXwepB4v1VasLHr+Q=
+			</data>
+		</dict>
+		<key>Resources/insert-symbol32.tiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9gMUr8jsonwlA5R5ffET0GEEz5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			R1WCObVscv0SSlKiE3Hi+58Q/2/R2tzukeuEkD1Yc3s=
+			</data>
+		</dict>
+		<key>Resources/insert-textstyle32.tiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xnvCgsDsnErrLNlMISXa/J9dPnM=
+			</data>
+			<key>hash2</key>
+			<data>
+			TmtDvp+vGq6l+ZrQ6q4EBwimSlT0+SYateetCWB8Wm8=
 			</data>
 		</dict>
 	</dict>
@@ -204,6 +324,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -263,6 +388,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^[^/]+$</key>
 		<dict>

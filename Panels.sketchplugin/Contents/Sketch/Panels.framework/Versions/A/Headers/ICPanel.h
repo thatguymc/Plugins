@@ -30,12 +30,19 @@
 @property (readonly, copy, nonatomic) NSImage *iconImage;
 @property (readonly, copy, nonatomic) NSImage *activeIconImage;
 @property (readonly, copy, nonatomic) NSArray *actions;
+@property (readonly, copy, nonatomic) NSString *apiContents;
+@property (readonly, copy, nonatomic) id metadataCommand;
 @property (nonatomic, weak) id<ICPanelDelegate> delegate;
 @property (nonatomic) BOOL hasSettings;
 @property (nonatomic) BOOL showChangelog;
 @property (nonatomic) BOOL debug;
 @property (nonatomic) BOOL autoOpen;
 @property (nonatomic) BOOL disableCocoaScriptPreprocessor;
+@property (nonatomic) BOOL disableHeader;
+@property (nonatomic) BOOL onboarding;
+@property (nonatomic) CGSize onboardingSize;
+@property (readonly, copy, nonatomic) NSURL *onboardingURL;
+@property (readonly, copy, nonatomic) NSString *onboardingVideoUrl;
 @property (nonatomic) NSUInteger order;
 @property (nonatomic) id runOnSelectionCommand;
 @property (nonatomic) id runOnLayerResizeFinishedCommand;
@@ -48,7 +55,9 @@
 - (id)settingsValueForKey:(NSString *)key;
 - (NSDictionary *)settings;
 - (CGSize)size;
-- (NSString *)settingsDocumentsPath;
 - (void)setSize:(CGSize)size;
+- (CGSize)minSize;
+- (NSString *)settingsDocumentsPath;
+- (NSString *)title;
 
 @end

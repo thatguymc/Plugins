@@ -72,3 +72,36 @@
 [submodule "compo-sketch"]
 	path = compo-sketch
 	url = https://github.com/romashamin/compo-sketch.git
+[submodule "sketch-exportsymbols"]
+	path = sketch-exportsymbols
+	url = https://github.com/marianomike/sketch-exportsymbols.git
+[submodule "sketch-markup-listify"]
+	path = sketch-markup-listify
+	url = https://github.com/marisaroque/sketch-markup-listify.git
+[submodule "sketch-rename-instances"]
+	path = sketch-rename-instances
+	url = https://github.com/exevil/sketch-rename-instances.git
+[submodule "sketch-iconfont"]
+	path = sketch-iconfont
+	url = https://github.com/keremciu/sketch-iconfont.git
+[submodule "sketch-repeat"]
+	path = sketch-repeat
+	url = https://github.com/keremciu/sketch-repeat.git
+[submodule "sketch-designdoc"]
+	path = sketch-designdoc
+	url = https://github.com/mamuso/sketch-designdoc.git
+[submodule "sketch-truncate-textlines"]
+	path = sketch-truncate-textlines
+	url = https://github.com/mamuso/sketch-truncate-textlines.git
+[submodule "symbol-organizer"]
+	path = symbol-organizer
+	url = https://github.com/sonburn/symbol-organizer.git
+[submodule "sketch-data-studio"]
+	path = sketch-data-studio
+	url = https://github.com/thetylerwolf/sketch-data-studio.git
+[submodule "Table-of-Contents"]
+	path = Table-of-Contents
+	url = https://github.com/youwenliang/Table-of-Contents.git
+[submodule "Sketch_Swatches"]
+	path = Sketch_Swatches
+	url = https://github.com/Ashung/Sketch_Swatches.git
