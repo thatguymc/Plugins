@@ -105,3 +105,6 @@
 [submodule "Sketch_Swatches"]
 	path = Sketch_Swatches
 	url = https://github.com/Ashung/Sketch_Swatches.git
+[submodule "sketch-dynamic-symbol-button"]
+	path = sketch-dynamic-symbol-button
+	url = https://github.com/herrkris/sketch-dynamic-symbol-button.git
