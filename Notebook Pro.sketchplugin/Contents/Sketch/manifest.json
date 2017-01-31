@@ -7,7 +7,7 @@
   "version" : 0.3,
   "description" : "Documenting design made easy",
   "authorEmail" : "m@marcosvid.al",
-  "compatibleVersion": 3.7,
+  "compatibleVersion": 39,
 
   "commands" : [
     {
@@ -115,14 +115,6 @@
          "set manual relocation",
          "set automatic relocation"
        ],
-      },
-      {
-       "title": "Style",
-       "items": [
-         "set style bright",
-         "set style dark",
-         "set style sepia"
-       ]
       }
     ]
   }
