@@ -1,7 +1,3 @@
-[submodule "RenameIt"]
-	path = RenameIt
-	url = https://github.com/rodi01/RenameIt.git
-	ignore = dirty
 [submodule "resize_artboard"]
 	path = resize_artboard
 	url = https://github.com/zhifengkoh/resize_artboard.git
