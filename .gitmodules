@@ -110,3 +110,6 @@
 [submodule "RenameIt"]
 	path = RenameIt
 	url = https://github.com/rodi01/RenameIt.git
+[submodule "Prism"]
+	path = Prism
+	url = https://github.com/ment-mx/Prism.git
