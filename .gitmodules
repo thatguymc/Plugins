@@ -104,3 +104,9 @@
 [submodule "sketch-dynamic-symbol-button"]
 	path = sketch-dynamic-symbol-button
 	url = https://github.com/herrkris/sketch-dynamic-symbol-button.git
+[submodule "sketch-data-populator"]
+	path = sketch-data-populator
+	url = https://github.com/preciousforever/sketch-data-populator.git
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt.git
