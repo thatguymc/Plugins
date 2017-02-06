@@ -122,3 +122,12 @@
 [submodule "sketch-organizesymbols"]
 	path = sketch-organizesymbols
 	url = https://github.com/marianomike/sketch-organizesymbols.git
+[submodule "sketch-paginate"]
+	path = sketch-paginate
+	url = https://github.com/jorgemartins/sketch-paginate.git
+[submodule "Sketch-PageNumbers"]
+	path = Sketch-PageNumbers
+	url = https://github.com/gotomedia/Sketch-PageNumbers.git
+[submodule "sketch-adjust-button-shape"]
+	path = sketch-adjust-button-shape
+	url = https://github.com/psilfver/sketch-adjust-button-shape.git
