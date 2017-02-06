@@ -113,3 +113,12 @@
 [submodule "Prism"]
 	path = Prism
 	url = https://github.com/ment-mx/Prism.git
+[submodule "prefixation-sketch-plugin"]
+	path = prefixation-sketch-plugin
+	url = https://github.com/pberrecloth/prefixation-sketch-plugin.git
+[submodule "sketch-spellcheck-all-layers"]
+	path = sketch-spellcheck-all-layers
+	url = https://github.com/ethology-co/sketch-spellcheck-all-layers.git
+[submodule "sketch-organizesymbols"]
+	path = sketch-organizesymbols
+	url = https://github.com/marianomike/sketch-organizesymbols.git
