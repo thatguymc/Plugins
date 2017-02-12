@@ -134,3 +134,18 @@
 [submodule "Comma"]
 	path = Comma
 	url = https://github.com/margusholland/Comma.git
+[submodule "Detacher"]
+	path = Detacher
+	url = https://github.com/pbo/Detacher.git
+[submodule "Disconnect-for-Sketch"]
+	path = Disconnect-for-Sketch
+	url = https://github.com/einancunlu/Disconnect-for-Sketch.git
+[submodule "Place-Linked-Bitmap"]
+	path = Place-Linked-Bitmap
+	url = https://github.com/frankko/Place-Linked-Bitmap.git
+[submodule "sketch-name-artboards"]
+	path = sketch-name-artboards
+	url = https://github.com/tarngerine/sketch-name-artboards.git
+[submodule "Sketch-Guides"]
+	path = Sketch-Guides
+	url = https://github.com/luvmex/Sketch-Guides.git
