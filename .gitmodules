@@ -149,3 +149,27 @@
 [submodule "Sketch-Guides"]
 	path = Sketch-Guides
 	url = https://github.com/luvmex/Sketch-Guides.git
+[submodule "Sketch-Style-Inventory"]
+	path = Sketch-Style-Inventory
+	url = https://github.com/getflourish/Sketch-Style-Inventory.git
+[submodule "sketch-ace-jump"]
+	path = sketch-ace-jump
+	url = https://github.com/turbobabr/sketch-ace-jump.git
+[submodule "Sketch-DrawTable"]
+	path = Sketch-DrawTable
+	url = https://github.com/younthu/Sketch-DrawTable.git
+[submodule "styledrop"]
+	path = styledrop
+	url = https://github.com/ryanmclaughlin/styledrop.git
+[submodule "Shapr"]
+	path = Shapr
+	url = https://github.com/vincenzopetito/Shapr.git
+[submodule "MagicPresenter"]
+	path = MagicPresenter
+	url = https://github.com/MagicSketch/MagicPresenter.git
+[submodule "sketch-select-invisible-layers"]
+	path = sketch-select-invisible-layers
+	url = https://github.com/keremciu/sketch-select-invisible-layers.git
+[submodule "Paster"]
+	path = Paster
+	url = https://github.com/Volorf/Paster.git
