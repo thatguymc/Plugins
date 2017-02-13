@@ -176,3 +176,6 @@
 [submodule "sketch-plugin-monster"]
 	path = sketch-plugin-monster
 	url = https://github.com/PeachScript/sketch-plugin-monster.git
+[submodule "sketch-pages-to-folders"]
+	path = sketch-pages-to-folders
+	url = https://github.com/ivanbozic/sketch-pages-to-folders.git
