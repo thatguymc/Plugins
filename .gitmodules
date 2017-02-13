@@ -173,3 +173,6 @@
 [submodule "Paster"]
 	path = Paster
 	url = https://github.com/Volorf/Paster.git
+[submodule "sketch-plugin-monster"]
+	path = sketch-plugin-monster
+	url = https://github.com/PeachScript/sketch-plugin-monster.git
