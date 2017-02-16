@@ -179,9 +179,6 @@
 [submodule "sketch-pages-to-folders"]
 	path = sketch-pages-to-folders
 	url = https://github.com/ivanbozic/sketch-pages-to-folders.git
-[submodule "sketch-palettes"]
-	path = sketch-palettes
-	url = https://github.com/andrewfiorillo/sketch-palettes.git
 [submodule "cloudstitch-sketch-plugin"]
 	path = cloudstitch-sketch-plugin
 	url = https://github.com/cloudstitch/cloudstitch-sketch-plugin.git
