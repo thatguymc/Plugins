@@ -191,3 +191,6 @@
 [submodule "Navigate-Sketch-Pages"]
 	path = Navigate-Sketch-Pages
 	url = https://github.com/graphical-iain/Navigate-Sketch-Pages.git
+[submodule "sketch-navigate-artboards"]
+	path = sketch-navigate-artboards
+	url = https://github.com/daneden/sketch-navigate-artboards.git
