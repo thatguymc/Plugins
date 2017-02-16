@@ -182,3 +182,6 @@
 [submodule "cloudstitch-sketch-plugin"]
 	path = cloudstitch-sketch-plugin
 	url = https://github.com/cloudstitch/cloudstitch-sketch-plugin.git
+[submodule "sketch-palettes"]
+	path = sketch-palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes.git
