@@ -194,3 +194,6 @@
 [submodule "sketch-navigate-artboards"]
 	path = sketch-navigate-artboards
 	url = https://github.com/daneden/sketch-navigate-artboards.git
+[submodule "UserFlows"]
+	path = UserFlows
+	url = https://github.com/abynim/UserFlows.git
