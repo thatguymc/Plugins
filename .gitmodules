@@ -197,3 +197,6 @@
 [submodule "UserFlows"]
 	path = UserFlows
 	url = https://github.com/abynim/UserFlows.git
+[submodule "flowmate"]
+	path = flowmate
+	url = https://github.com/wodory/flowmate.git
