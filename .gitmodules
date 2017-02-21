@@ -200,3 +200,6 @@
 [submodule "flowmate"]
 	path = flowmate
 	url = https://github.com/wodory/flowmate.git
+[submodule "Text-Magic"]
+	path = Text-Magic
+	url = https://github.com/tinci/Text-Magic.git
