@@ -203,3 +203,6 @@
 [submodule "Text-Magic"]
 	path = Text-Magic
 	url = https://github.com/tinci/Text-Magic.git
+[submodule "Auto-Layout"]
+	path = Auto-Layout
+	url = https://github.com/AnimaApp/Auto-Layout.git
