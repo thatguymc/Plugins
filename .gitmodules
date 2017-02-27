@@ -206,3 +206,6 @@
 [submodule "Auto-Layout"]
 	path = Auto-Layout
 	url = https://github.com/AnimaApp/Auto-Layout.git
+[submodule "stacker"]
+	path = stacker
+	url = https://github.com/ScottSavarie/stacker.git
