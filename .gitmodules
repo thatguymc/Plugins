@@ -212,3 +212,6 @@
 [submodule "sketch-align-layers"]
 	path = sketch-align-layers
 	url = https://github.com/daneden/sketch-align-layers.git
+[submodule "click-thru-prototype"]
+	path = click-thru-prototype
+	url = https://github.com/markhorgan/click-thru-prototype.git
