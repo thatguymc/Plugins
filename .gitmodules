@@ -215,3 +215,9 @@
 [submodule "click-thru-prototype"]
 	path = click-thru-prototype
 	url = https://github.com/markhorgan/click-thru-prototype.git
+[submodule "PS-Guides"]
+	path = PS-Guides
+	url = https://github.com/pratikjshah/PS-Guides.git
+[submodule "Sketch-Predefined-Pages"]
+	path = Sketch-Predefined-Pages
+	url = https://github.com/ryanjohnson-me/Sketch-Predefined-Pages.git
