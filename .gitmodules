@@ -224,3 +224,6 @@
 [submodule "CSSketch"]
 	path = CSSketch
 	url = https://github.com/JohnCoates/CSSketch.git
+[submodule "sketch-select-similar-layers"]
+	path = sketch-select-similar-layers
+	url = https://github.com/wonderbit/sketch-select-similar-layers.git
