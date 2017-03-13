@@ -227,3 +227,6 @@
 [submodule "sketch-select-similar-layers"]
 	path = sketch-select-similar-layers
 	url = https://github.com/wonderbit/sketch-select-similar-layers.git
+[submodule "PDF-export-sketch-plugin"]
+	path = PDF-export-sketch-plugin
+	url = https://github.com/DWilliames/PDF-export-sketch-plugin.git
