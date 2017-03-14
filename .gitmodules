@@ -233,3 +233,9 @@
 [submodule "sketch_fix_styles"]
 	path = sketch_fix_styles
 	url = https://github.com/dinozavrix/sketch_fix_styles.git
+[submodule "SketchKit"]
+	path = SketchKit
+	url = https://github.com/JohnCoates/SketchKit.git
+[submodule "Google-sheets-content-sync-sketch-plugin"]
+	path = Google-sheets-content-sync-sketch-plugin
+	url = https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git
