@@ -227,6 +227,6 @@
 [submodule "PDF-export-sketch-plugin"]
 	path = PDF-export-sketch-plugin
 	url = https://github.com/DWilliames/PDF-export-sketch-plugin.git
-[submodule "nudge-corner-radius-sketch-plugin"]
-	path = nudge-corner-radius-sketch-plugin
-	url = https://github.com/DWilliames/nudge-corner-radius-sketch-plugin.git
+[submodule "sketch_fix_styles"]
+	path = sketch_fix_styles
+	url = https://github.com/dinozavrix/sketch_fix_styles.git

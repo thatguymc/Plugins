@@ -1,0 +1,33 @@
+//
+//  PrecompiledHeader.pch
+//  CSSketch Helper
+//
+//  Created by John Coates on 10/5/15.
+//  Copyright © 2015 John Coates. All rights reserved.
+//
+
+#import <AppKit/Appkit.h>
+#import <SketchKit/SketchKit-Private.h>
+
+#import "CSKSketchHeaders.h"
+#import "CSKStylesheet.h"
+#import "CSKMainController.h"
+#import "CSKDom.h"
+#import "CSKFileMonitor.h"
+#import "RegExCategories.h"
+#import "CSKLayerCSS.h"
+#import "NSString+Paths.h"
+#import "CSKDocumentController.h"
+#import "CSKLayers.h"
+
+// Sass
+#import "CocoaSass.h"
+
+// Errors
+#import "NSError+CSSketch.h"
+
+#ifdef DEBUG
+    #define DEBUG 1
+#else
+    #define DEBUG 0
+#endif
