@@ -1,0 +1,974 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA026D061CBCAA3100D83D34 /* STUB_MSShapePath.h in Headers */ = {isa = PBXBuildFile; fileRef = FA026D041CBCAA3100D83D34 /* STUB_MSShapePath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA026D071CBCAA3100D83D34 /* STUB_MSShapePath.m in Sources */ = {isa = PBXBuildFile; fileRef = FA026D051CBCAA3100D83D34 /* STUB_MSShapePath.m */; };
+		FA026D0A1CBCAB0200D83D34 /* STUB_MSCurvePoint.h in Headers */ = {isa = PBXBuildFile; fileRef = FA026D081CBCAB0200D83D34 /* STUB_MSCurvePoint.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA026D0B1CBCAB0200D83D34 /* STUB_MSCurvePoint.m in Sources */ = {isa = PBXBuildFile; fileRef = FA026D091CBCAB0200D83D34 /* STUB_MSCurvePoint.m */; };
+		FA026D0E1CBCAF0900D83D34 /* SKK_MSShapePathLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = FA026D0C1CBCAF0900D83D34 /* SKK_MSShapePathLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA026D0F1CBCAF0900D83D34 /* SKK_MSShapePathLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA026D0D1CBCAF0900D83D34 /* SKK_MSShapePathLayer.m */; };
+		FA026D121CBCAF3400D83D34 /* STUB_MSShapePathLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = FA026D101CBCAF3400D83D34 /* STUB_MSShapePathLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA026D131CBCAF3400D83D34 /* STUB_MSShapePathLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA026D111CBCAF3400D83D34 /* STUB_MSShapePathLayer.m */; };
+		FA026D171CBCB0AF00D83D34 /* SKK_MSShapePath.h in Headers */ = {isa = PBXBuildFile; fileRef = FA026D151CBCB0AF00D83D34 /* SKK_MSShapePath.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA026D181CBCB0AF00D83D34 /* SKK_MSShapePath.m in Sources */ = {isa = PBXBuildFile; fileRef = FA026D161CBCB0AF00D83D34 /* SKK_MSShapePath.m */; };
+		FA4B271B1C60036200C82A0C /* SKK_MSPage-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27181C60036200C82A0C /* SKK_MSPage-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B271C1C60036200C82A0C /* SKK_MSPage.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27191C60036200C82A0C /* SKK_MSPage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B271D1C60036200C82A0C /* SKK_MSPage.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B271A1C60036200C82A0C /* SKK_MSPage.m */; };
+		FA4B27221C6005AE00C82A0C /* SKK_MSLayer-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B271F1C6005AE00C82A0C /* SKK_MSLayer-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27231C6005AE00C82A0C /* SKK_MSLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27201C6005AE00C82A0C /* SKK_MSLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27241C6005AE00C82A0C /* SKK_MSLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27211C6005AE00C82A0C /* SKK_MSLayer.m */; };
+		FA4B27271C60062400C82A0C /* STUB_MSLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27251C60062400C82A0C /* STUB_MSLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27281C60062400C82A0C /* STUB_MSLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27261C60062400C82A0C /* STUB_MSLayer.m */; };
+		FA4B272B1C600C6600C82A0C /* STUB_MSShapeGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27291C600C6600C82A0C /* STUB_MSShapeGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B272C1C600C6600C82A0C /* STUB_MSShapeGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B272A1C600C6600C82A0C /* STUB_MSShapeGroup.m */; };
+		FA4B27311C600D4A00C82A0C /* SKK_MShapeGroup-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B272E1C600D4A00C82A0C /* SKK_MShapeGroup-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27321C600D4A00C82A0C /* SKK_MShapeGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B272F1C600D4A00C82A0C /* SKK_MShapeGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27331C600D4A00C82A0C /* SKK_MShapeGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27301C600D4A00C82A0C /* SKK_MShapeGroup.m */; };
+		FA4B273D1C61393400C82A0C /* STUB_MSStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B273B1C61393400C82A0C /* STUB_MSStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B273E1C61393400C82A0C /* STUB_MSStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B273C1C61393400C82A0C /* STUB_MSStyle.m */; };
+		FA4B27411C61398100C82A0C /* STUB_MSStyleBorder.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B273F1C61398100C82A0C /* STUB_MSStyleBorder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27421C61398100C82A0C /* STUB_MSStyleBorder.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27401C61398100C82A0C /* STUB_MSStyleBorder.m */; };
+		FA4B27451C613A7800C82A0C /* STUB_MSStyleFill.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27431C613A7800C82A0C /* STUB_MSStyleFill.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27461C613A7800C82A0C /* STUB_MSStyleFill.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27441C613A7800C82A0C /* STUB_MSStyleFill.m */; };
+		FA4B27491C613A8E00C82A0C /* STUB_MSColor.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27471C613A8E00C82A0C /* STUB_MSColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B274A1C613A8E00C82A0C /* STUB_MSColor.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27481C613A8E00C82A0C /* STUB_MSColor.m */; };
+		FA4B274E1C613AF900C82A0C /* STUBObject.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B274C1C613AF900C82A0C /* STUBObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B274F1C613AF900C82A0C /* STUBObject.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B274D1C613AF900C82A0C /* STUBObject.m */; };
+		FA4B27541C613B3400C82A0C /* SKKProxyObject-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27511C613B3400C82A0C /* SKKProxyObject-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27551C613B3400C82A0C /* SKKProxyObject.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27521C613B3400C82A0C /* SKKProxyObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27561C613B3400C82A0C /* SKKProxyObject.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27531C613B3400C82A0C /* SKKProxyObject.m */; };
+		FA4B275B1C613B9E00C82A0C /* SKK_MSStyle-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27581C613B9E00C82A0C /* SKK_MSStyle-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B275C1C613B9E00C82A0C /* SKK_MSStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27591C613B9E00C82A0C /* SKK_MSStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B275D1C613B9E00C82A0C /* SKK_MSStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B275A1C613B9E00C82A0C /* SKK_MSStyle.m */; };
+		FA4B27601C613F6700C82A0C /* STUB_MSStylePartCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B275E1C613F6700C82A0C /* STUB_MSStylePartCollection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27611C613F6700C82A0C /* STUB_MSStylePartCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B275F1C613F6700C82A0C /* STUB_MSStylePartCollection.m */; };
+		FA4B27651C61416E00C82A0C /* SKK_MSStylePartCollection-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27621C61416E00C82A0C /* SKK_MSStylePartCollection-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27661C61416E00C82A0C /* SKK_MSStylePartCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27631C61416E00C82A0C /* SKK_MSStylePartCollection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27671C61416E00C82A0C /* SKK_MSStylePartCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27641C61416E00C82A0C /* SKK_MSStylePartCollection.m */; };
+		FA4B276B1C61431100C82A0C /* SKK_MSStyleBorder-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27681C61431100C82A0C /* SKK_MSStyleBorder-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B276C1C61431100C82A0C /* SKK_MSStyleBorder.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27691C61431100C82A0C /* SKK_MSStyleBorder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B276D1C61431100C82A0C /* SKK_MSStyleBorder.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B276A1C61431100C82A0C /* SKK_MSStyleBorder.m */; };
+		FA4B27701C6144F400C82A0C /* STUB_MSStylePart.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B276E1C6144F400C82A0C /* STUB_MSStylePart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27711C6144F400C82A0C /* STUB_MSStylePart.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B276F1C6144F400C82A0C /* STUB_MSStylePart.m */; };
+		FA4B27751C614A9000C82A0C /* SKK_MSStylePart-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27721C614A9000C82A0C /* SKK_MSStylePart-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27761C614A9000C82A0C /* SKK_MSStylePart.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27731C614A9000C82A0C /* SKK_MSStylePart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27771C614A9000C82A0C /* SKK_MSStylePart.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27741C614A9000C82A0C /* SKK_MSStylePart.m */; };
+		FA4B277B1C615FF100C82A0C /* SKK_MSStyleBasicFill-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27781C615FF100C82A0C /* SKK_MSStyleBasicFill-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B277C1C615FF100C82A0C /* SKK_MSStyleBasicFill.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27791C615FF100C82A0C /* SKK_MSStyleBasicFill.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B277D1C615FF100C82A0C /* SKK_MSStyleBasicFill.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B277A1C615FF100C82A0C /* SKK_MSStyleBasicFill.m */; };
+		FA4B27811C61603400C82A0C /* SKK_MSColor-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B277E1C61603400C82A0C /* SKK_MSColor-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27821C61603400C82A0C /* SKK_MSColor.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B277F1C61603400C82A0C /* SKK_MSColor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27831C61603400C82A0C /* SKK_MSColor.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27801C61603400C82A0C /* SKK_MSColor.m */; };
+		FA4B27861C61604C00C82A0C /* STUB_MSStyleBasicFill.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27841C61604C00C82A0C /* STUB_MSStyleBasicFill.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27871C61604C00C82A0C /* STUB_MSStyleBasicFill.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27851C61604C00C82A0C /* STUB_MSStyleBasicFill.m */; };
+		FA4B278E1C63EA4000C82A0C /* STUB_MSDocumentFile.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B278C1C63EA4000C82A0C /* STUB_MSDocumentFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B278F1C63EA4000C82A0C /* STUB_MSDocumentFile.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B278D1C63EA4000C82A0C /* STUB_MSDocumentFile.m */; };
+		FA4B27931C63ECCF00C82A0C /* SKK_MSDocumentFile-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27901C63ECCF00C82A0C /* SKK_MSDocumentFile-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27941C63ECCF00C82A0C /* SKK_MSDocumentFile.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27911C63ECCF00C82A0C /* SKK_MSDocumentFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27951C63ECCF00C82A0C /* SKK_MSDocumentFile.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27921C63ECCF00C82A0C /* SKK_MSDocumentFile.m */; };
+		FA4B27991C63F04A00C82A0C /* STUB_MSModelBase.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27971C63F04A00C82A0C /* STUB_MSModelBase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B279A1C63F04A00C82A0C /* STUB_MSModelBase.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27981C63F04A00C82A0C /* STUB_MSModelBase.m */; };
+		FA4B279D1C63F0DE00C82A0C /* STUB_MSDocumentData.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B279B1C63F0DE00C82A0C /* STUB_MSDocumentData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B279E1C63F0DE00C82A0C /* STUB_MSDocumentData.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B279C1C63F0DE00C82A0C /* STUB_MSDocumentData.m */; };
+		FA4B27A21C63F27400C82A0C /* SKK_MSDocumentData-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B279F1C63F27400C82A0C /* SKK_MSDocumentData-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27A31C63F27400C82A0C /* SKK_MSDocumentData.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27A01C63F27400C82A0C /* SKK_MSDocumentData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27A41C63F27400C82A0C /* SKK_MSDocumentData.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27A11C63F27400C82A0C /* SKK_MSDocumentData.m */; };
+		FA4B27C51C641F5900C82A0C /* SketchKit-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27C41C641F4200C82A0C /* SketchKit-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27C61C641F9700C82A0C /* SKK_MSDocument-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FADCE7661C5FF29700F746B8 /* SKK_MSDocument-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27C71C64201F00C82A0C /* SKKXMLProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27891C61627000C82A0C /* SKKXMLProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27CB1C6525D300C82A0C /* STUB_MSTextLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27C91C6525D300C82A0C /* STUB_MSTextLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27CC1C6525D300C82A0C /* STUB_MSTextLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27CA1C6525D300C82A0C /* STUB_MSTextLayer.m */; };
+		FA4B27D11C65270900C82A0C /* SKK_MSTextLayer-Private.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27CE1C65270900C82A0C /* SKK_MSTextLayer-Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27D21C65270900C82A0C /* SKK_MSTextLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = FA4B27CF1C65270900C82A0C /* SKK_MSTextLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA4B27D31C65270900C82A0C /* SKK_MSTextLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA4B27D01C65270900C82A0C /* SKK_MSTextLayer.m */; };
+		FABFF04B1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = FABFF0491C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FABFF04C1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = FABFF04A1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.m */; };
+		FABFF0501C5FFE4F00CC6112 /* STUB_MSPage.h in Headers */ = {isa = PBXBuildFile; fileRef = FABFF04E1C5FFE4F00CC6112 /* STUB_MSPage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FABFF0511C5FFE4F00CC6112 /* STUB_MSPage.m in Sources */ = {isa = PBXBuildFile; fileRef = FABFF04F1C5FFE4F00CC6112 /* STUB_MSPage.m */; };
+		FADCE72F1C5FC8C300F746B8 /* SketchKit.h in Headers */ = {isa = PBXBuildFile; fileRef = FADCE72E1C5FC8C300F746B8 /* SketchKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FADCE7421C5FD01D00F746B8 /* SKKTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = FADCE7401C5FD01D00F746B8 /* SKKTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FADCE7431C5FD01D00F746B8 /* SKKTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = FADCE7411C5FD01D00F746B8 /* SKKTestController.m */; };
+		FADCE74B1C5FE25000F746B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FADCE74A1C5FE25000F746B8 /* main.m */; };
+		FADCE75A1C5FEF2E00F746B8 /* SKKPluginContext.h in Headers */ = {isa = PBXBuildFile; fileRef = FADCE7581C5FEF2E00F746B8 /* SKKPluginContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FADCE75B1C5FEF2E00F746B8 /* SKKPluginContext.m in Sources */ = {isa = PBXBuildFile; fileRef = FADCE7591C5FEF2E00F746B8 /* SKKPluginContext.m */; };
+		FADCE75E1C5FF04100F746B8 /* SKK_MSDocument.h in Headers */ = {isa = PBXBuildFile; fileRef = FADCE75C1C5FF04100F746B8 /* SKK_MSDocument.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FADCE75F1C5FF04100F746B8 /* SKK_MSDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = FADCE75D1C5FF04100F746B8 /* SKK_MSDocument.m */; };
+		FADCE7631C5FF09300F746B8 /* STUB_MSDocument.h in Headers */ = {isa = PBXBuildFile; fileRef = FADCE7611C5FF09300F746B8 /* STUB_MSDocument.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FADCE7641C5FF09300F746B8 /* STUB_MSDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = FADCE7621C5FF09300F746B8 /* STUB_MSDocument.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FADCE7511C5FEAB100F746B8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FADCE7221C5FC8C200F746B8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FADCE72A1C5FC8C200F746B8;
+			remoteInfo = SketchKit;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FA026D041CBCAA3100D83D34 /* STUB_MSShapePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSShapePath.h; sourceTree = "<group>"; };
+		FA026D051CBCAA3100D83D34 /* STUB_MSShapePath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSShapePath.m; sourceTree = "<group>"; };
+		FA026D081CBCAB0200D83D34 /* STUB_MSCurvePoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSCurvePoint.h; sourceTree = "<group>"; };
+		FA026D091CBCAB0200D83D34 /* STUB_MSCurvePoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSCurvePoint.m; sourceTree = "<group>"; };
+		FA026D0C1CBCAF0900D83D34 /* SKK_MSShapePathLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSShapePathLayer.h; sourceTree = "<group>"; };
+		FA026D0D1CBCAF0900D83D34 /* SKK_MSShapePathLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSShapePathLayer.m; sourceTree = "<group>"; };
+		FA026D101CBCAF3400D83D34 /* STUB_MSShapePathLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSShapePathLayer.h; sourceTree = "<group>"; };
+		FA026D111CBCAF3400D83D34 /* STUB_MSShapePathLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSShapePathLayer.m; sourceTree = "<group>"; };
+		FA026D151CBCB0AF00D83D34 /* SKK_MSShapePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSShapePath.h; sourceTree = "<group>"; };
+		FA026D161CBCB0AF00D83D34 /* SKK_MSShapePath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSShapePath.m; sourceTree = "<group>"; };
+		FA4B27181C60036200C82A0C /* SKK_MSPage-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSPage-Private.h"; sourceTree = "<group>"; };
+		FA4B27191C60036200C82A0C /* SKK_MSPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSPage.h; sourceTree = "<group>"; };
+		FA4B271A1C60036200C82A0C /* SKK_MSPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSPage.m; sourceTree = "<group>"; };
+		FA4B271F1C6005AE00C82A0C /* SKK_MSLayer-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSLayer-Private.h"; sourceTree = "<group>"; };
+		FA4B27201C6005AE00C82A0C /* SKK_MSLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSLayer.h; sourceTree = "<group>"; };
+		FA4B27211C6005AE00C82A0C /* SKK_MSLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSLayer.m; sourceTree = "<group>"; };
+		FA4B27251C60062400C82A0C /* STUB_MSLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSLayer.h; sourceTree = "<group>"; };
+		FA4B27261C60062400C82A0C /* STUB_MSLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSLayer.m; sourceTree = "<group>"; };
+		FA4B27291C600C6600C82A0C /* STUB_MSShapeGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSShapeGroup.h; sourceTree = "<group>"; };
+		FA4B272A1C600C6600C82A0C /* STUB_MSShapeGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSShapeGroup.m; sourceTree = "<group>"; };
+		FA4B272E1C600D4A00C82A0C /* SKK_MShapeGroup-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MShapeGroup-Private.h"; sourceTree = "<group>"; };
+		FA4B272F1C600D4A00C82A0C /* SKK_MShapeGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MShapeGroup.h; sourceTree = "<group>"; };
+		FA4B27301C600D4A00C82A0C /* SKK_MShapeGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MShapeGroup.m; sourceTree = "<group>"; };
+		FA4B273B1C61393400C82A0C /* STUB_MSStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSStyle.h; sourceTree = "<group>"; };
+		FA4B273C1C61393400C82A0C /* STUB_MSStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSStyle.m; sourceTree = "<group>"; };
+		FA4B273F1C61398100C82A0C /* STUB_MSStyleBorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSStyleBorder.h; sourceTree = "<group>"; };
+		FA4B27401C61398100C82A0C /* STUB_MSStyleBorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSStyleBorder.m; sourceTree = "<group>"; };
+		FA4B27431C613A7800C82A0C /* STUB_MSStyleFill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSStyleFill.h; sourceTree = "<group>"; };
+		FA4B27441C613A7800C82A0C /* STUB_MSStyleFill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSStyleFill.m; sourceTree = "<group>"; };
+		FA4B27471C613A8E00C82A0C /* STUB_MSColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSColor.h; sourceTree = "<group>"; };
+		FA4B27481C613A8E00C82A0C /* STUB_MSColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSColor.m; sourceTree = "<group>"; };
+		FA4B274C1C613AF900C82A0C /* STUBObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUBObject.h; sourceTree = "<group>"; };
+		FA4B274D1C613AF900C82A0C /* STUBObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUBObject.m; sourceTree = "<group>"; };
+		FA4B27511C613B3400C82A0C /* SKKProxyObject-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKKProxyObject-Private.h"; sourceTree = "<group>"; };
+		FA4B27521C613B3400C82A0C /* SKKProxyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKKProxyObject.h; sourceTree = "<group>"; };
+		FA4B27531C613B3400C82A0C /* SKKProxyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKKProxyObject.m; sourceTree = "<group>"; };
+		FA4B27581C613B9E00C82A0C /* SKK_MSStyle-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSStyle-Private.h"; sourceTree = "<group>"; };
+		FA4B27591C613B9E00C82A0C /* SKK_MSStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSStyle.h; sourceTree = "<group>"; };
+		FA4B275A1C613B9E00C82A0C /* SKK_MSStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSStyle.m; sourceTree = "<group>"; };
+		FA4B275E1C613F6700C82A0C /* STUB_MSStylePartCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSStylePartCollection.h; sourceTree = "<group>"; };
+		FA4B275F1C613F6700C82A0C /* STUB_MSStylePartCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSStylePartCollection.m; sourceTree = "<group>"; };
+		FA4B27621C61416E00C82A0C /* SKK_MSStylePartCollection-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSStylePartCollection-Private.h"; sourceTree = "<group>"; };
+		FA4B27631C61416E00C82A0C /* SKK_MSStylePartCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSStylePartCollection.h; sourceTree = "<group>"; };
+		FA4B27641C61416E00C82A0C /* SKK_MSStylePartCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSStylePartCollection.m; sourceTree = "<group>"; };
+		FA4B27681C61431100C82A0C /* SKK_MSStyleBorder-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSStyleBorder-Private.h"; sourceTree = "<group>"; };
+		FA4B27691C61431100C82A0C /* SKK_MSStyleBorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSStyleBorder.h; sourceTree = "<group>"; };
+		FA4B276A1C61431100C82A0C /* SKK_MSStyleBorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSStyleBorder.m; sourceTree = "<group>"; };
+		FA4B276E1C6144F400C82A0C /* STUB_MSStylePart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSStylePart.h; sourceTree = "<group>"; };
+		FA4B276F1C6144F400C82A0C /* STUB_MSStylePart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSStylePart.m; sourceTree = "<group>"; };
+		FA4B27721C614A9000C82A0C /* SKK_MSStylePart-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSStylePart-Private.h"; sourceTree = "<group>"; };
+		FA4B27731C614A9000C82A0C /* SKK_MSStylePart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSStylePart.h; sourceTree = "<group>"; };
+		FA4B27741C614A9000C82A0C /* SKK_MSStylePart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSStylePart.m; sourceTree = "<group>"; };
+		FA4B27781C615FF100C82A0C /* SKK_MSStyleBasicFill-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSStyleBasicFill-Private.h"; sourceTree = "<group>"; };
+		FA4B27791C615FF100C82A0C /* SKK_MSStyleBasicFill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSStyleBasicFill.h; sourceTree = "<group>"; };
+		FA4B277A1C615FF100C82A0C /* SKK_MSStyleBasicFill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSStyleBasicFill.m; sourceTree = "<group>"; };
+		FA4B277E1C61603400C82A0C /* SKK_MSColor-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSColor-Private.h"; sourceTree = "<group>"; };
+		FA4B277F1C61603400C82A0C /* SKK_MSColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSColor.h; sourceTree = "<group>"; };
+		FA4B27801C61603400C82A0C /* SKK_MSColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSColor.m; sourceTree = "<group>"; };
+		FA4B27841C61604C00C82A0C /* STUB_MSStyleBasicFill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSStyleBasicFill.h; sourceTree = "<group>"; };
+		FA4B27851C61604C00C82A0C /* STUB_MSStyleBasicFill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSStyleBasicFill.m; sourceTree = "<group>"; };
+		FA4B27891C61627000C82A0C /* SKKXMLProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SKKXMLProtocol.h; sourceTree = "<group>"; };
+		FA4B278B1C63DA2600C82A0C /* NSObject+TreeAsDictionarySupport.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+TreeAsDictionarySupport.h"; sourceTree = "<group>"; };
+		FA4B278C1C63EA4000C82A0C /* STUB_MSDocumentFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSDocumentFile.h; sourceTree = "<group>"; };
+		FA4B278D1C63EA4000C82A0C /* STUB_MSDocumentFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSDocumentFile.m; sourceTree = "<group>"; };
+		FA4B27901C63ECCF00C82A0C /* SKK_MSDocumentFile-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSDocumentFile-Private.h"; sourceTree = "<group>"; };
+		FA4B27911C63ECCF00C82A0C /* SKK_MSDocumentFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSDocumentFile.h; sourceTree = "<group>"; };
+		FA4B27921C63ECCF00C82A0C /* SKK_MSDocumentFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSDocumentFile.m; sourceTree = "<group>"; };
+		FA4B27971C63F04A00C82A0C /* STUB_MSModelBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSModelBase.h; sourceTree = "<group>"; };
+		FA4B27981C63F04A00C82A0C /* STUB_MSModelBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSModelBase.m; sourceTree = "<group>"; };
+		FA4B279B1C63F0DE00C82A0C /* STUB_MSDocumentData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSDocumentData.h; sourceTree = "<group>"; };
+		FA4B279C1C63F0DE00C82A0C /* STUB_MSDocumentData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSDocumentData.m; sourceTree = "<group>"; };
+		FA4B279F1C63F27400C82A0C /* SKK_MSDocumentData-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSDocumentData-Private.h"; sourceTree = "<group>"; };
+		FA4B27A01C63F27400C82A0C /* SKK_MSDocumentData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSDocumentData.h; sourceTree = "<group>"; };
+		FA4B27A11C63F27400C82A0C /* SKK_MSDocumentData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSDocumentData.m; sourceTree = "<group>"; };
+		FA4B27C41C641F4200C82A0C /* SketchKit-Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SketchKit-Private.h"; sourceTree = "<group>"; };
+		FA4B27C91C6525D300C82A0C /* STUB_MSTextLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSTextLayer.h; sourceTree = "<group>"; };
+		FA4B27CA1C6525D300C82A0C /* STUB_MSTextLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSTextLayer.m; sourceTree = "<group>"; };
+		FA4B27CE1C65270900C82A0C /* SKK_MSTextLayer-Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SKK_MSTextLayer-Private.h"; sourceTree = "<group>"; };
+		FA4B27CF1C65270900C82A0C /* SKK_MSTextLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSTextLayer.h; sourceTree = "<group>"; };
+		FA4B27D01C65270900C82A0C /* SKK_MSTextLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSTextLayer.m; sourceTree = "<group>"; };
+		FABFF0491C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSImmutableShapeGroup.h; sourceTree = "<group>"; };
+		FABFF04A1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSImmutableShapeGroup.m; sourceTree = "<group>"; };
+		FABFF04E1C5FFE4F00CC6112 /* STUB_MSPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSPage.h; sourceTree = "<group>"; };
+		FABFF04F1C5FFE4F00CC6112 /* STUB_MSPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSPage.m; sourceTree = "<group>"; };
+		FADCE72B1C5FC8C300F746B8 /* SketchKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SketchKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FADCE72E1C5FC8C300F746B8 /* SketchKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SketchKit.h; path = ../SketchKit.h; sourceTree = "<group>"; };
+		FADCE7381C5FCA4500F746B8 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FADCE7401C5FD01D00F746B8 /* SKKTestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKKTestController.h; sourceTree = "<group>"; };
+		FADCE7411C5FD01D00F746B8 /* SKKTestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKKTestController.m; sourceTree = "<group>"; };
+		FADCE7481C5FE25000F746B8 /* Test Launcher */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Test Launcher"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FADCE74A1C5FE25000F746B8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FADCE74F1C5FE34300F746B8 /* SketchKit Shape Test.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SketchKit Shape Test.sketch"; path = "Sketch Documents/SketchKit Shape Test.sketch"; sourceTree = SOURCE_ROOT; };
+		FADCE7581C5FEF2E00F746B8 /* SKKPluginContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKKPluginContext.h; sourceTree = "<group>"; };
+		FADCE7591C5FEF2E00F746B8 /* SKKPluginContext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKKPluginContext.m; sourceTree = "<group>"; };
+		FADCE75C1C5FF04100F746B8 /* SKK_MSDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKK_MSDocument.h; sourceTree = "<group>"; };
+		FADCE75D1C5FF04100F746B8 /* SKK_MSDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKK_MSDocument.m; sourceTree = "<group>"; };
+		FADCE7611C5FF09300F746B8 /* STUB_MSDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STUB_MSDocument.h; sourceTree = "<group>"; };
+		FADCE7621C5FF09300F746B8 /* STUB_MSDocument.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STUB_MSDocument.m; sourceTree = "<group>"; };
+		FADCE7651C5FF0E000F746B8 /* SketchKitPrefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SketchKitPrefix.pch; sourceTree = "<group>"; };
+		FADCE7661C5FF29700F746B8 /* SKK_MSDocument-Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SKK_MSDocument-Private.h"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FADCE7271C5FC8C200F746B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FADCE7451C5FE25000F746B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA026D031CBCAA1900D83D34 /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				FA026D041CBCAA3100D83D34 /* STUB_MSShapePath.h */,
+				FA026D051CBCAA3100D83D34 /* STUB_MSShapePath.m */,
+				FA026D081CBCAB0200D83D34 /* STUB_MSCurvePoint.h */,
+				FA026D091CBCAB0200D83D34 /* STUB_MSCurvePoint.m */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		FA026D141CBCB08A00D83D34 /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				FA026D151CBCB0AF00D83D34 /* SKK_MSShapePath.h */,
+				FA026D161CBCB0AF00D83D34 /* SKK_MSShapePath.m */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		FA4B272D1C600D2500C82A0C /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B272E1C600D4A00C82A0C /* SKK_MShapeGroup-Private.h */,
+				FA4B272F1C600D4A00C82A0C /* SKK_MShapeGroup.h */,
+				FA4B27301C600D4A00C82A0C /* SKK_MShapeGroup.m */,
+				FA026D0C1CBCAF0900D83D34 /* SKK_MSShapePathLayer.h */,
+				FA026D0D1CBCAF0900D83D34 /* SKK_MSShapePathLayer.m */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		FA4B27341C6138EB00C82A0C /* Style */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B273B1C61393400C82A0C /* STUB_MSStyle.h */,
+				FA4B273C1C61393400C82A0C /* STUB_MSStyle.m */,
+				FA4B273F1C61398100C82A0C /* STUB_MSStyleBorder.h */,
+				FA4B27401C61398100C82A0C /* STUB_MSStyleBorder.m */,
+				FA4B27431C613A7800C82A0C /* STUB_MSStyleFill.h */,
+				FA4B27441C613A7800C82A0C /* STUB_MSStyleFill.m */,
+				FA4B27471C613A8E00C82A0C /* STUB_MSColor.h */,
+				FA4B27481C613A8E00C82A0C /* STUB_MSColor.m */,
+				FA4B275E1C613F6700C82A0C /* STUB_MSStylePartCollection.h */,
+				FA4B275F1C613F6700C82A0C /* STUB_MSStylePartCollection.m */,
+				FA4B276E1C6144F400C82A0C /* STUB_MSStylePart.h */,
+				FA4B276F1C6144F400C82A0C /* STUB_MSStylePart.m */,
+				FA4B27841C61604C00C82A0C /* STUB_MSStyleBasicFill.h */,
+				FA4B27851C61604C00C82A0C /* STUB_MSStyleBasicFill.m */,
+			);
+			path = Style;
+			sourceTree = "<group>";
+		};
+		FA4B274B1C613ADA00C82A0C /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B274C1C613AF900C82A0C /* STUBObject.h */,
+				FA4B274D1C613AF900C82A0C /* STUBObject.m */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		FA4B27501C613B1300C82A0C /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27511C613B3400C82A0C /* SKKProxyObject-Private.h */,
+				FA4B27521C613B3400C82A0C /* SKKProxyObject.h */,
+				FA4B27531C613B3400C82A0C /* SKKProxyObject.m */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		FA4B27571C613B8700C82A0C /* Style */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27581C613B9E00C82A0C /* SKK_MSStyle-Private.h */,
+				FA4B27591C613B9E00C82A0C /* SKK_MSStyle.h */,
+				FA4B275A1C613B9E00C82A0C /* SKK_MSStyle.m */,
+				FA4B27621C61416E00C82A0C /* SKK_MSStylePartCollection-Private.h */,
+				FA4B27631C61416E00C82A0C /* SKK_MSStylePartCollection.h */,
+				FA4B27641C61416E00C82A0C /* SKK_MSStylePartCollection.m */,
+				FA4B27681C61431100C82A0C /* SKK_MSStyleBorder-Private.h */,
+				FA4B27691C61431100C82A0C /* SKK_MSStyleBorder.h */,
+				FA4B276A1C61431100C82A0C /* SKK_MSStyleBorder.m */,
+				FA4B27721C614A9000C82A0C /* SKK_MSStylePart-Private.h */,
+				FA4B27731C614A9000C82A0C /* SKK_MSStylePart.h */,
+				FA4B27741C614A9000C82A0C /* SKK_MSStylePart.m */,
+				FA4B27781C615FF100C82A0C /* SKK_MSStyleBasicFill-Private.h */,
+				FA4B27791C615FF100C82A0C /* SKK_MSStyleBasicFill.h */,
+				FA4B277A1C615FF100C82A0C /* SKK_MSStyleBasicFill.m */,
+				FA4B277E1C61603400C82A0C /* SKK_MSColor-Private.h */,
+				FA4B277F1C61603400C82A0C /* SKK_MSColor.h */,
+				FA4B27801C61603400C82A0C /* SKK_MSColor.m */,
+			);
+			path = Style;
+			sourceTree = "<group>";
+		};
+		FA4B27881C61624F00C82A0C /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE72E1C5FC8C300F746B8 /* SketchKit.h */,
+				FA4B27891C61627000C82A0C /* SKKXMLProtocol.h */,
+				FA4B27C41C641F4200C82A0C /* SketchKit-Private.h */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		FA4B278A1C63D9B800C82A0C /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B278B1C63DA2600C82A0C /* NSObject+TreeAsDictionarySupport.h */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FA4B27961C63F02100C82A0C /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27971C63F04A00C82A0C /* STUB_MSModelBase.h */,
+				FA4B27981C63F04A00C82A0C /* STUB_MSModelBase.m */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		FA4B27C81C65258900C82A0C /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27C91C6525D300C82A0C /* STUB_MSTextLayer.h */,
+				FA4B27CA1C6525D300C82A0C /* STUB_MSTextLayer.m */,
+			);
+			path = Text;
+			sourceTree = "<group>";
+		};
+		FA4B27CD1C6526E100C82A0C /* Text */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27CE1C65270900C82A0C /* SKK_MSTextLayer-Private.h */,
+				FA4B27CF1C65270900C82A0C /* SKK_MSTextLayer.h */,
+				FA4B27D01C65270900C82A0C /* SKK_MSTextLayer.m */,
+			);
+			path = Text;
+			sourceTree = "<group>";
+		};
+		FABFF0471C5FFC2600CC6112 /* Layers */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27C81C65258900C82A0C /* Text */,
+				FA4B27341C6138EB00C82A0C /* Style */,
+				FABFF0481C5FFC4400CC6112 /* Shapes */,
+				FA4B27251C60062400C82A0C /* STUB_MSLayer.h */,
+				FA4B27261C60062400C82A0C /* STUB_MSLayer.m */,
+			);
+			path = Layers;
+			sourceTree = "<group>";
+		};
+		FABFF0481C5FFC4400CC6112 /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				FABFF0491C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.h */,
+				FABFF04A1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.m */,
+				FA4B27291C600C6600C82A0C /* STUB_MSShapeGroup.h */,
+				FA4B272A1C600C6600C82A0C /* STUB_MSShapeGroup.m */,
+				FA026D101CBCAF3400D83D34 /* STUB_MSShapePathLayer.h */,
+				FA026D111CBCAF3400D83D34 /* STUB_MSShapePathLayer.m */,
+			);
+			path = Shapes;
+			sourceTree = "<group>";
+		};
+		FABFF04D1C5FFE3700CC6112 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				FABFF04E1C5FFE4F00CC6112 /* STUB_MSPage.h */,
+				FABFF04F1C5FFE4F00CC6112 /* STUB_MSPage.m */,
+			);
+			path = Page;
+			sourceTree = "<group>";
+		};
+		FABFF0531C5FFEF400CC6112 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27181C60036200C82A0C /* SKK_MSPage-Private.h */,
+				FA4B27191C60036200C82A0C /* SKK_MSPage.h */,
+				FA4B271A1C60036200C82A0C /* SKK_MSPage.m */,
+			);
+			path = Page;
+			sourceTree = "<group>";
+		};
+		FADCE7211C5FC8C200F746B8 = {
+			isa = PBXGroup;
+			children = (
+				FADCE7371C5FCA3200F746B8 /* Resources */,
+				FADCE7361C5FC9F000F746B8 /* Source */,
+				FADCE7491C5FE25000F746B8 /* Test Launcher */,
+				FADCE72C1C5FC8C300F746B8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FADCE72C1C5FC8C300F746B8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE72B1C5FC8C300F746B8 /* SketchKit.framework */,
+				FADCE7481C5FE25000F746B8 /* Test Launcher */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FADCE7361C5FC9F000F746B8 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27881C61624F00C82A0C /* Headers */,
+				FADCE73E1C5FCFC000F746B8 /* Controllers */,
+				FADCE73B1C5FCA6D00F746B8 /* Models */,
+				FADCE7651C5FF0E000F746B8 /* SketchKitPrefix.pch */,
+			);
+			name = Source;
+			path = src;
+			sourceTree = "<group>";
+		};
+		FADCE7371C5FCA3200F746B8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE7381C5FCA4500F746B8 /* Info.plist */,
+			);
+			name = Resources;
+			path = resources;
+			sourceTree = "<group>";
+		};
+		FADCE73B1C5FCA6D00F746B8 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE7531C5FEE4400F746B8 /* Stubs */,
+				FADCE73C1C5FCD6900F746B8 /* Object Proxies */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FADCE73C1C5FCD6900F746B8 /* Object Proxies */ = {
+			isa = PBXGroup;
+			children = (
+				FA026D141CBCB08A00D83D34 /* Shapes */,
+				FA4B27501C613B1300C82A0C /* Root */,
+				FADCE7561C5FEED100F746B8 /* Layers */,
+				FADCE7551C5FEE7700F746B8 /* Document */,
+				FADCE7541C5FEE6700F746B8 /* Plugin */,
+			);
+			path = "Object Proxies";
+			sourceTree = "<group>";
+		};
+		FADCE73E1C5FCFC000F746B8 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE73F1C5FD00200F746B8 /* Testing */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		FADCE73F1C5FD00200F746B8 /* Testing */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE7401C5FD01D00F746B8 /* SKKTestController.h */,
+				FADCE7411C5FD01D00F746B8 /* SKKTestController.m */,
+			);
+			path = Testing;
+			sourceTree = "<group>";
+		};
+		FADCE7491C5FE25000F746B8 /* Test Launcher */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE74F1C5FE34300F746B8 /* SketchKit Shape Test.sketch */,
+				FADCE74A1C5FE25000F746B8 /* main.m */,
+			);
+			path = "Test Launcher";
+			sourceTree = "<group>";
+		};
+		FADCE7531C5FEE4400F746B8 /* Stubs */ = {
+			isa = PBXGroup;
+			children = (
+				FA026D031CBCAA1900D83D34 /* Shapes */,
+				FA4B27961C63F02100C82A0C /* Base */,
+				FA4B278A1C63D9B800C82A0C /* Categories */,
+				FA4B274B1C613ADA00C82A0C /* Root */,
+				FABFF0471C5FFC2600CC6112 /* Layers */,
+				FADCE7601C5FF04B00F746B8 /* Document */,
+				FADCE7571C5FEEE200F746B8 /* Plugin */,
+			);
+			path = Stubs;
+			sourceTree = "<group>";
+		};
+		FADCE7541C5FEE6700F746B8 /* Plugin */ = {
+			isa = PBXGroup;
+			children = (
+				FADCE7581C5FEF2E00F746B8 /* SKKPluginContext.h */,
+				FADCE7591C5FEF2E00F746B8 /* SKKPluginContext.m */,
+			);
+			path = Plugin;
+			sourceTree = "<group>";
+		};
+		FADCE7551C5FEE7700F746B8 /* Document */ = {
+			isa = PBXGroup;
+			children = (
+				FABFF0531C5FFEF400CC6112 /* Page */,
+				FADCE75C1C5FF04100F746B8 /* SKK_MSDocument.h */,
+				FADCE75D1C5FF04100F746B8 /* SKK_MSDocument.m */,
+				FADCE7661C5FF29700F746B8 /* SKK_MSDocument-Private.h */,
+				FA4B27901C63ECCF00C82A0C /* SKK_MSDocumentFile-Private.h */,
+				FA4B27911C63ECCF00C82A0C /* SKK_MSDocumentFile.h */,
+				FA4B27921C63ECCF00C82A0C /* SKK_MSDocumentFile.m */,
+				FA4B279F1C63F27400C82A0C /* SKK_MSDocumentData-Private.h */,
+				FA4B27A01C63F27400C82A0C /* SKK_MSDocumentData.h */,
+				FA4B27A11C63F27400C82A0C /* SKK_MSDocumentData.m */,
+			);
+			path = Document;
+			sourceTree = "<group>";
+		};
+		FADCE7561C5FEED100F746B8 /* Layers */ = {
+			isa = PBXGroup;
+			children = (
+				FA4B27CD1C6526E100C82A0C /* Text */,
+				FA4B27571C613B8700C82A0C /* Style */,
+				FA4B272D1C600D2500C82A0C /* Shapes */,
+				FA4B271F1C6005AE00C82A0C /* SKK_MSLayer-Private.h */,
+				FA4B27201C6005AE00C82A0C /* SKK_MSLayer.h */,
+				FA4B27211C6005AE00C82A0C /* SKK_MSLayer.m */,
+			);
+			path = Layers;
+			sourceTree = "<group>";
+		};
+		FADCE7571C5FEEE200F746B8 /* Plugin */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Plugin;
+			sourceTree = "<group>";
+		};
+		FADCE7601C5FF04B00F746B8 /* Document */ = {
+			isa = PBXGroup;
+			children = (
+				FABFF04D1C5FFE3700CC6112 /* Page */,
+				FADCE7611C5FF09300F746B8 /* STUB_MSDocument.h */,
+				FADCE7621C5FF09300F746B8 /* STUB_MSDocument.m */,
+				FA4B278C1C63EA4000C82A0C /* STUB_MSDocumentFile.h */,
+				FA4B278D1C63EA4000C82A0C /* STUB_MSDocumentFile.m */,
+				FA4B279B1C63F0DE00C82A0C /* STUB_MSDocumentData.h */,
+				FA4B279C1C63F0DE00C82A0C /* STUB_MSDocumentData.m */,
+			);
+			path = Document;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		FADCE7281C5FC8C200F746B8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FADCE7421C5FD01D00F746B8 /* SKKTestController.h in Headers */,
+				FA4B27C61C641F9700C82A0C /* SKK_MSDocument-Private.h in Headers */,
+				FA4B27451C613A7800C82A0C /* STUB_MSStyleFill.h in Headers */,
+				FA4B27C71C64201F00C82A0C /* SKKXMLProtocol.h in Headers */,
+				FADCE75E1C5FF04100F746B8 /* SKK_MSDocument.h in Headers */,
+				FA026D0E1CBCAF0900D83D34 /* SKK_MSShapePathLayer.h in Headers */,
+				FA4B274E1C613AF900C82A0C /* STUBObject.h in Headers */,
+				FA026D061CBCAA3100D83D34 /* STUB_MSShapePath.h in Headers */,
+				FA4B27A21C63F27400C82A0C /* SKK_MSDocumentData-Private.h in Headers */,
+				FA4B27751C614A9000C82A0C /* SKK_MSStylePart-Private.h in Headers */,
+				FA4B276B1C61431100C82A0C /* SKK_MSStyleBorder-Private.h in Headers */,
+				FA4B27661C61416E00C82A0C /* SKK_MSStylePartCollection.h in Headers */,
+				FA4B275C1C613B9E00C82A0C /* SKK_MSStyle.h in Headers */,
+				FA4B27411C61398100C82A0C /* STUB_MSStyleBorder.h in Headers */,
+				FA4B27941C63ECCF00C82A0C /* SKK_MSDocumentFile.h in Headers */,
+				FA4B273D1C61393400C82A0C /* STUB_MSStyle.h in Headers */,
+				FA4B27821C61603400C82A0C /* SKK_MSColor.h in Headers */,
+				FA4B277C1C615FF100C82A0C /* SKK_MSStyleBasicFill.h in Headers */,
+				FA4B27311C600D4A00C82A0C /* SKK_MShapeGroup-Private.h in Headers */,
+				FA4B27231C6005AE00C82A0C /* SKK_MSLayer.h in Headers */,
+				FA4B27221C6005AE00C82A0C /* SKK_MSLayer-Private.h in Headers */,
+				FADCE7631C5FF09300F746B8 /* STUB_MSDocument.h in Headers */,
+				FA4B27651C61416E00C82A0C /* SKK_MSStylePartCollection-Private.h in Headers */,
+				FA4B276C1C61431100C82A0C /* SKK_MSStyleBorder.h in Headers */,
+				FA4B277B1C615FF100C82A0C /* SKK_MSStyleBasicFill-Private.h in Headers */,
+				FA4B27CB1C6525D300C82A0C /* STUB_MSTextLayer.h in Headers */,
+				FABFF04B1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.h in Headers */,
+				FA4B27601C613F6700C82A0C /* STUB_MSStylePartCollection.h in Headers */,
+				FA4B27931C63ECCF00C82A0C /* SKK_MSDocumentFile-Private.h in Headers */,
+				FA4B27271C60062400C82A0C /* STUB_MSLayer.h in Headers */,
+				FA026D171CBCB0AF00D83D34 /* SKK_MSShapePath.h in Headers */,
+				FA4B27321C600D4A00C82A0C /* SKK_MShapeGroup.h in Headers */,
+				FA4B27701C6144F400C82A0C /* STUB_MSStylePart.h in Headers */,
+				FADCE75A1C5FEF2E00F746B8 /* SKKPluginContext.h in Headers */,
+				FADCE72F1C5FC8C300F746B8 /* SketchKit.h in Headers */,
+				FA4B27761C614A9000C82A0C /* SKK_MSStylePart.h in Headers */,
+				FA4B27D11C65270900C82A0C /* SKK_MSTextLayer-Private.h in Headers */,
+				FA4B278E1C63EA4000C82A0C /* STUB_MSDocumentFile.h in Headers */,
+				FABFF0501C5FFE4F00CC6112 /* STUB_MSPage.h in Headers */,
+				FA4B271C1C60036200C82A0C /* SKK_MSPage.h in Headers */,
+				FA4B27D21C65270900C82A0C /* SKK_MSTextLayer.h in Headers */,
+				FA4B271B1C60036200C82A0C /* SKK_MSPage-Private.h in Headers */,
+				FA4B275B1C613B9E00C82A0C /* SKK_MSStyle-Private.h in Headers */,
+				FA026D0A1CBCAB0200D83D34 /* STUB_MSCurvePoint.h in Headers */,
+				FA4B27A31C63F27400C82A0C /* SKK_MSDocumentData.h in Headers */,
+				FA4B27541C613B3400C82A0C /* SKKProxyObject-Private.h in Headers */,
+				FA026D121CBCAF3400D83D34 /* STUB_MSShapePathLayer.h in Headers */,
+				FA4B27861C61604C00C82A0C /* STUB_MSStyleBasicFill.h in Headers */,
+				FA4B272B1C600C6600C82A0C /* STUB_MSShapeGroup.h in Headers */,
+				FA4B27811C61603400C82A0C /* SKK_MSColor-Private.h in Headers */,
+				FA4B27551C613B3400C82A0C /* SKKProxyObject.h in Headers */,
+				FA4B27991C63F04A00C82A0C /* STUB_MSModelBase.h in Headers */,
+				FA4B27491C613A8E00C82A0C /* STUB_MSColor.h in Headers */,
+				FA4B279D1C63F0DE00C82A0C /* STUB_MSDocumentData.h in Headers */,
+				FA4B27C51C641F5900C82A0C /* SketchKit-Private.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		FADCE72A1C5FC8C200F746B8 /* SketchKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FADCE7331C5FC8C300F746B8 /* Build configuration list for PBXNativeTarget "SketchKit" */;
+			buildPhases = (
+				FADCE7261C5FC8C200F746B8 /* Sources */,
+				FADCE7271C5FC8C200F746B8 /* Frameworks */,
+				FADCE7281C5FC8C200F746B8 /* Headers */,
+				FA4B27B71C6402BF00C82A0C /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SketchKit;
+			productName = SketchKit;
+			productReference = FADCE72B1C5FC8C300F746B8 /* SketchKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		FADCE7471C5FE25000F746B8 /* Test Launcher */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FADCE74C1C5FE25000F746B8 /* Build configuration list for PBXNativeTarget "Test Launcher" */;
+			buildPhases = (
+				FADCE7441C5FE25000F746B8 /* Sources */,
+				FADCE7451C5FE25000F746B8 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FADCE7521C5FEAB100F746B8 /* PBXTargetDependency */,
+			);
+			name = "Test Launcher";
+			productName = "Test Launcher";
+			productReference = FADCE7481C5FE25000F746B8 /* Test Launcher */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FADCE7221C5FC8C200F746B8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "John Coates";
+				TargetAttributes = {
+					FADCE72A1C5FC8C200F746B8 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					FADCE7471C5FE25000F746B8 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = FADCE7251C5FC8C200F746B8 /* Build configuration list for PBXProject "SketchKit" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FADCE7211C5FC8C200F746B8;
+			productRefGroup = FADCE72C1C5FC8C300F746B8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FADCE72A1C5FC8C200F746B8 /* SketchKit */,
+				FADCE7471C5FE25000F746B8 /* Test Launcher */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		FA4B27B71C6402BF00C82A0C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "rm -R \"${PROJECT_DIR}/SketchKit.sketchplugin/${WRAPPER_NAME}\"\ncp -R \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}\" \"${PROJECT_DIR}/SketchKit.sketchplugin/\"";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FADCE7261C5FC8C200F746B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA4B27421C61398100C82A0C /* STUB_MSStyleBorder.m in Sources */,
+				FADCE7641C5FF09300F746B8 /* STUB_MSDocument.m in Sources */,
+				FA4B27461C613A7800C82A0C /* STUB_MSStyleFill.m in Sources */,
+				FA4B27831C61603400C82A0C /* SKK_MSColor.m in Sources */,
+				FA4B27331C600D4A00C82A0C /* SKK_MShapeGroup.m in Sources */,
+				FA4B27871C61604C00C82A0C /* STUB_MSStyleBasicFill.m in Sources */,
+				FADCE75B1C5FEF2E00F746B8 /* SKKPluginContext.m in Sources */,
+				FA4B27561C613B3400C82A0C /* SKKProxyObject.m in Sources */,
+				FA026D181CBCB0AF00D83D34 /* SKK_MSShapePath.m in Sources */,
+				FA4B27671C61416E00C82A0C /* SKK_MSStylePartCollection.m in Sources */,
+				FA4B27D31C65270900C82A0C /* SKK_MSTextLayer.m in Sources */,
+				FA4B27A41C63F27400C82A0C /* SKK_MSDocumentData.m in Sources */,
+				FADCE7431C5FD01D00F746B8 /* SKKTestController.m in Sources */,
+				FA4B27711C6144F400C82A0C /* STUB_MSStylePart.m in Sources */,
+				FA4B27CC1C6525D300C82A0C /* STUB_MSTextLayer.m in Sources */,
+				FA026D071CBCAA3100D83D34 /* STUB_MSShapePath.m in Sources */,
+				FA4B275D1C613B9E00C82A0C /* SKK_MSStyle.m in Sources */,
+				FA4B272C1C600C6600C82A0C /* STUB_MSShapeGroup.m in Sources */,
+				FABFF04C1C5FFC6B00CC6112 /* STUB_MSImmutableShapeGroup.m in Sources */,
+				FA4B27611C613F6700C82A0C /* STUB_MSStylePartCollection.m in Sources */,
+				FA4B274A1C613A8E00C82A0C /* STUB_MSColor.m in Sources */,
+				FA4B27281C60062400C82A0C /* STUB_MSLayer.m in Sources */,
+				FA4B278F1C63EA4000C82A0C /* STUB_MSDocumentFile.m in Sources */,
+				FA4B273E1C61393400C82A0C /* STUB_MSStyle.m in Sources */,
+				FABFF0511C5FFE4F00CC6112 /* STUB_MSPage.m in Sources */,
+				FA4B274F1C613AF900C82A0C /* STUBObject.m in Sources */,
+				FA026D0B1CBCAB0200D83D34 /* STUB_MSCurvePoint.m in Sources */,
+				FA026D131CBCAF3400D83D34 /* STUB_MSShapePathLayer.m in Sources */,
+				FA4B27241C6005AE00C82A0C /* SKK_MSLayer.m in Sources */,
+				FA4B279A1C63F04A00C82A0C /* STUB_MSModelBase.m in Sources */,
+				FA026D0F1CBCAF0900D83D34 /* SKK_MSShapePathLayer.m in Sources */,
+				FA4B27951C63ECCF00C82A0C /* SKK_MSDocumentFile.m in Sources */,
+				FA4B277D1C615FF100C82A0C /* SKK_MSStyleBasicFill.m in Sources */,
+				FA4B27771C614A9000C82A0C /* SKK_MSStylePart.m in Sources */,
+				FA4B279E1C63F0DE00C82A0C /* STUB_MSDocumentData.m in Sources */,
+				FA4B271D1C60036200C82A0C /* SKK_MSPage.m in Sources */,
+				FA4B276D1C61431100C82A0C /* SKK_MSStyleBorder.m in Sources */,
+				FADCE75F1C5FF04100F746B8 /* SKK_MSDocument.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FADCE7441C5FE25000F746B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FADCE74B1C5FE25000F746B8 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FADCE7521C5FEAB100F746B8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FADCE72A1C5FC8C200F746B8 /* SketchKit */;
+			targetProxy = FADCE7511C5FEAB100F746B8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FADCE7311C5FC8C300F746B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		FADCE7321C5FC8C300F746B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		FADCE7341C5FC8C300F746B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_VERSION = A;
+				GCC_PREFIX_HEADER = src/SketchKitPrefix.pch;
+				INFOPLIST_FILE = resources/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.johncoates.SketchKit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		FADCE7351C5FC8C300F746B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_VERSION = A;
+				GCC_PREFIX_HEADER = src/SketchKitPrefix.pch;
+				INFOPLIST_FILE = resources/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.johncoates.SketchKit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		FADCE74D1C5FE25000F746B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FADCE74E1C5FE25000F746B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FADCE7251C5FC8C200F746B8 /* Build configuration list for PBXProject "SketchKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FADCE7311C5FC8C300F746B8 /* Debug */,
+				FADCE7321C5FC8C300F746B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FADCE7331C5FC8C300F746B8 /* Build configuration list for PBXNativeTarget "SketchKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FADCE7341C5FC8C300F746B8 /* Debug */,
+				FADCE7351C5FC8C300F746B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FADCE74C1C5FE25000F746B8 /* Build configuration list for PBXNativeTarget "Test Launcher" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FADCE74D1C5FE25000F746B8 /* Debug */,
+				FADCE74E1C5FE25000F746B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FADCE7221C5FC8C200F746B8 /* Project object */;
+}

@@ -1,0 +1,69 @@
+// Check if we're in Sketch
+if (!NSClassFromString("MSDocument")){
+	// launch Sketch with document then run this plugin
+	var currentScript = [COScript currentCOScript];
+	var scriptEnvironment = [currentScript env];
+	var scriptURL = scriptEnvironment["scriptURL"];
+	var scriptPath = [scriptURL path];
+	
+	var projectFolder = [scriptPath stringByDeletingLastPathComponent];	
+	var sketchDocumentsFolder = [projectFolder stringByAppendingPathComponent:"Sketch Documents"];
+	var shapeTestPath = [sketchDocumentsFolder stringByAppendingPathComponent:"SketchKit Shape Test.sketch"];
+	
+	// Open Sketch document
+    [[NSWorkspace sharedWorkspace] openFile:shapeTestPath];
+	
+	var url = [NSURL fileURLWithPath:scriptPath];
+	var app = [COScript app:"Sketch"];
+	var delegate = [app delegate];
+	
+	[delegate runPluginAtURL:url];
+}
+else {
+	if (!NSClassFromString("CSKFileMonitor")) {
+		var currentScript = [COScript currentCOScript];
+		var scriptEnvironment = [currentScript env];
+		var scriptURL = scriptEnvironment["scriptURL"];
+		var scriptPath = [scriptURL path];
+		var projectFolder = [scriptPath stringByDeletingLastPathComponent];		
+		var pluginFolder = [projectFolder stringByAppendingPathComponent:"SketchKit.sketchplugin"];
+		var bundlePath = [pluginFolder stringByAppendingPathComponent:"SketchKit.framework"];
+
+		var error = null;
+		if (!loadBundle(bundlePath)) {
+			log("error");
+		}
+	}
+	var testController = SKKTestController.sharedInstance();
+	testController.testWithContext(sketch);
+}
+
+
+function loadBundle(filePath) {
+	var bundleURL = NSURL.fileURLWithPath(filePath);
+	var bundle = [NSBundle bundleWithURL: bundleURL];
+	if (bundle == null) {
+		showNotification("Bundle missing!");
+		error = error;
+		return false;
+	}
+	
+	var loaded = [bundle load];
+	
+	if (!loaded) {
+		showNotification("Couldn't load SketchKit bundle.");
+	}
+	else {
+//		log("loaded bundle!")
+	}
+	return loaded;
+}
+
+function showNotification(message) {
+	var notification =  [[NSUserNotification alloc] init];
+	notification.title = @"SketchKit";
+	notification.informativeText = message;
+	notification.soundName = NSUserNotificationDefaultSoundName;
+	[[NSUserNotificationCenter defaultUserNotificationCenter] deliverNotification:notification];
+}
+
