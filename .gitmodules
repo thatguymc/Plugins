@@ -206,9 +206,6 @@
 [submodule "Auto-Layout"]
 	path = Auto-Layout
 	url = https://github.com/AnimaApp/Auto-Layout.git
-[submodule "stacker"]
-	path = stacker
-	url = https://github.com/ScottSavarie/stacker.git
 [submodule "sketch-align-layers"]
 	path = sketch-align-layers
 	url = https://github.com/daneden/sketch-align-layers.git
