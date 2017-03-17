@@ -236,3 +236,6 @@
 [submodule "Google-sheets-content-sync-sketch-plugin"]
 	path = Google-sheets-content-sync-sketch-plugin
 	url = https://github.com/DWilliames/Google-sheets-content-sync-sketch-plugin.git
+[submodule "sort-me-sketch"]
+	path = sort-me-sketch
+	url = https://github.com/romashamin/sort-me-sketch.git
