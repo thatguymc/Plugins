@@ -218,9 +218,6 @@
 [submodule "Sketch-Predefined-Pages"]
 	path = Sketch-Predefined-Pages
 	url = https://github.com/ryanjohnson-me/Sketch-Predefined-Pages.git
-[submodule "CSSketch"]
-	path = CSSketch
-	url = https://github.com/JohnCoates/CSSketch.git
 [submodule "sketch-select-similar-layers"]
 	path = sketch-select-similar-layers
 	url = https://github.com/wonderbit/sketch-select-similar-layers.git
