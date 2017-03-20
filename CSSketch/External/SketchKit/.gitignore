@@ -1,8 +1,0 @@
-.DS_Store
-xcuserdata/
-compile/
-build/
-DerivedData/
-*.xccheckout
-release/
-debug.plist
