@@ -236,3 +236,6 @@
 [submodule "sort-me-sketch"]
 	path = sort-me-sketch
 	url = https://github.com/romashamin/sort-me-sketch.git
+[submodule "CSSketch"]
+	path = CSSketch
+	url = https://github.com/JohnCoates/CSSketch.git
