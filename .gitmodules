@@ -236,3 +236,9 @@
 [submodule "remove-unused-symbols"]
 	path = remove-unused-symbols
 	url = https://github.com/montazze/remove-unused-symbols.git
+[submodule "Notes"]
+	path = Notes
+	url = https://github.com/cshdllr/Notes.git
+[submodule "sketch-quick-mask"]
+	path = sketch-quick-mask
+	url = https://github.com/kupe517/sketch-quick-mask.git
