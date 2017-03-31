@@ -242,3 +242,6 @@
 [submodule "sketch-quick-mask"]
 	path = sketch-quick-mask
 	url = https://github.com/kupe517/sketch-quick-mask.git
+[submodule "sketch-batch-create-symbols"]
+	path = sketch-batch-create-symbols
+	url = https://github.com/demersdesigns/sketch-batch-create-symbols.git
