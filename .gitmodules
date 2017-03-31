@@ -233,9 +233,6 @@
 [submodule "sort-me-sketch"]
 	path = sort-me-sketch
 	url = https://github.com/romashamin/sort-me-sketch.git
-[submodule "remove-unused-symbols"]
-	path = remove-unused-symbols
-	url = https://github.com/montazze/remove-unused-symbols.git
 [submodule "Notes"]
 	path = Notes
 	url = https://github.com/cshdllr/Notes.git
