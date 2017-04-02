@@ -242,3 +242,9 @@
 [submodule "sketch-batch-create-symbols"]
 	path = sketch-batch-create-symbols
 	url = https://github.com/demersdesigns/sketch-batch-create-symbols.git
+[submodule "Modulizer"]
+	path = Modulizer
+	url = https://github.com/Falkeyn/Modulizer.git
+[submodule "Sketch-Plugin-Manager"]
+	path = Sketch-Plugin-Manager
+	url = https://github.com/mludowise/Sketch-Plugin-Manager.git
