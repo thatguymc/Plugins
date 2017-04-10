@@ -248,3 +248,12 @@
 [submodule "Sketch-Plugin-Manager"]
 	path = Sketch-Plugin-Manager
 	url = https://github.com/mludowise/Sketch-Plugin-Manager.git
+[submodule "Cleanup-Useless-Groups"]
+	path = Cleanup-Useless-Groups
+	url = https://github.com/bomberstudios/Cleanup-Useless-Groups.git
+[submodule "sketch-artboard-titles"]
+	path = sketch-artboard-titles
+	url = https://github.com/asivura/sketch-artboard-titles.git
+[submodule "sketch-replace-layer"]
+	path = sketch-replace-layer
+	url = https://github.com/daneden/sketch-replace-layer.git
