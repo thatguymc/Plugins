@@ -257,3 +257,15 @@
 [submodule "sketch-replace-layer"]
 	path = sketch-replace-layer
 	url = https://github.com/daneden/sketch-replace-layer.git
+[submodule "copy-plain-text"]
+	path = copy-plain-text
+	url = https://github.com/Vesely/copy-plain-text.git
+[submodule "SketchI18N"]
+	path = SketchI18N
+	url = https://github.com/cute/SketchI18N.git
+[submodule "sketch-split-shape"]
+	path = sketch-split-shape
+	url = https://github.com/kupe517/sketch-split-shape.git
+[submodule "Flatten-Plugin-for-Sketch"]
+	path = Flatten-Plugin-for-Sketch
+	url = https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git
