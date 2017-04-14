@@ -275,3 +275,6 @@
 [submodule "sketch-scale-artboards"]
 	path = sketch-scale-artboards
 	url = https://github.com/preciousforever/sketch-scale-artboards.git
+[submodule "sketch-artboards-to-pdf"]
+	path = sketch-artboards-to-pdf
+	url = https://github.com/andrewfiorillo/sketch-artboards-to-pdf.git
