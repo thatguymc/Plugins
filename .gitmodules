@@ -272,3 +272,6 @@
 [submodule "Language-Sketch-Plugin"]
 	path = Language-Sketch-Plugin
 	url = https://github.com/hoai265/Language-Sketch-Plugin.git
+[submodule "sketch-scale-artboards"]
+	path = sketch-scale-artboards
+	url = https://github.com/preciousforever/sketch-scale-artboards.git
