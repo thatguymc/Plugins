@@ -269,3 +269,6 @@
 [submodule "Flatten-Plugin-for-Sketch"]
 	path = Flatten-Plugin-for-Sketch
 	url = https://github.com/einancunlu/Flatten-Plugin-for-Sketch.git
+[submodule "Language-Sketch-Plugin"]
+	path = Language-Sketch-Plugin
+	url = https://github.com/hoai265/Language-Sketch-Plugin.git
