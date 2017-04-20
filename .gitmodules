@@ -284,3 +284,6 @@
 [submodule "select-group-layers-sketch-plugin"]
 	path = select-group-layers-sketch-plugin
 	url = https://github.com/mattmcmanus/select-group-layers-sketch-plugin.git
+[submodule "sketch-import-symbols"]
+	path = sketch-import-symbols
+	url = https://github.com/kmerc/sketch-import-symbols.git
