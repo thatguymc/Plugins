@@ -281,3 +281,6 @@
 [submodule "sketch-json-data-maker"]
 	path = sketch-json-data-maker
 	url = https://github.com/phuly/sketch-json-data-maker.git
+[submodule "select-group-layers-sketch-plugin"]
+	path = select-group-layers-sketch-plugin
+	url = https://github.com/mattmcmanus/select-group-layers-sketch-plugin.git
