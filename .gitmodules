@@ -293,3 +293,12 @@
 [submodule "paste-swap-for-sketch"]
 	path = paste-swap-for-sketch
 	url = https://github.com/WestonThayer/paste-swap-for-sketch.git
+[submodule "Font-Packer"]
+	path = Font-Packer
+	url = https://github.com/bigxixi/Font-Packer.git
+[submodule "FontFinder"]
+	path = FontFinder
+	url = https://github.com/ukn530/FontFinder.git
+[submodule "sharpen-images-sketch"]
+	path = sharpen-images-sketch
+	url = https://github.com/axmsv/sharpen-images-sketch.git
