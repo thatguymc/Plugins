@@ -302,3 +302,42 @@
 [submodule "sharpen-images-sketch"]
 	path = sharpen-images-sketch
 	url = https://github.com/axmsv/sharpen-images-sketch.git
+[submodule "copy-framer-code"]
+	path = copy-framer-code
+	url = https://github.com/perrysmotors/copy-framer-code.git
+[submodule "Sketch-Mate"]
+	path = Sketch-Mate
+	url = https://github.com/getflourish/Sketch-Mate.git
+[submodule "sketch-commands"]
+	path = sketch-commands
+	url = https://github.com/bomberstudios/sketch-commands.git
+[submodule "ResizeToFitArtboard"]
+	path = ResizeToFitArtboard
+	url = https://github.com/HansonChan/ResizeToFitArtboard.git
+[submodule "Button-Symbols"]
+	path = Button-Symbols
+	url = https://github.com/mwhite05/Button-Symbols.git
+[submodule "CopyColor"]
+	path = CopyColor
+	url = https://github.com/poyi/CopyColor.git
+[submodule "uxperiment-sketch-plugin"]
+	path = uxperiment-sketch-plugin
+	url = https://github.com/igorlukanin/uxperiment-sketch-plugin.git
+[submodule "Sketch-HTML-Export"]
+	path = Sketch-HTML-Export
+	url = https://github.com/mludowise/Sketch-HTML-Export.git
+[submodule "sketch-text-tools"]
+	path = sketch-text-tools
+	url = https://github.com/automat/sketch-text-tools.git
+[submodule "matchsize"]
+	path = matchsize
+	url = https://github.com/JulienHe/matchsize.git
+[submodule "Sketch-Artboard-Navigator"]
+	path = Sketch-Artboard-Navigator
+	url = https://github.com/ryanjohnson-me/Sketch-Artboard-Navigator.git
+[submodule "Sketch-Copy-Paste-Shadows"]
+	path = Sketch-Copy-Paste-Shadows
+	url = https://github.com/ryanjohnson-me/Sketch-Copy-Paste-Shadows.git
+[submodule "Sketch-Quick-Presentation"]
+	path = Sketch-Quick-Presentation
+	url = https://github.com/timothywhalin/Sketch-Quick-Presentation.git
