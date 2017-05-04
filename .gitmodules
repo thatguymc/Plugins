@@ -341,3 +341,15 @@
 [submodule "Sketch-Quick-Presentation"]
 	path = Sketch-Quick-Presentation
 	url = https://github.com/timothywhalin/Sketch-Quick-Presentation.git
+[submodule "stamp-artboards-name"]
+	path = stamp-artboards-name
+	url = https://github.com/jacopocolo/stamp-artboards-name.git
+[submodule "sketchplugin-webview-template"]
+	path = sketchplugin-webview-template
+	url = https://github.com/jacopocolo/sketchplugin-webview-template.git
+[submodule "changelog.sketchplugin"]
+	path = changelog.sketchplugin
+	url = https://github.com/jacopocolo/changelog.sketchplugin.git
+[submodule "p5-sketchplugin"]
+	path = p5-sketchplugin
+	url = https://github.com/jacopocolo/p5-sketchplugin.git
