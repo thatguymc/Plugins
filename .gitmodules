@@ -353,3 +353,6 @@
 [submodule "p5-sketchplugin"]
 	path = p5-sketchplugin
 	url = https://github.com/jacopocolo/p5-sketchplugin.git
+[submodule "duplicator"]
+	path = duplicator
+	url = https://github.com/turbobabr/duplicator.git
