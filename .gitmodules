@@ -356,3 +356,6 @@
 [submodule "duplicator"]
 	path = duplicator
 	url = https://github.com/turbobabr/duplicator.git
+[submodule "sketch-numbering-machine"]
+	path = sketch-numbering-machine
+	url = https://github.com/akolpakov/sketch-numbering-machine.git
