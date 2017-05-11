@@ -362,3 +362,6 @@
 [submodule "sketch-radial-progress-bar"]
 	path = sketch-radial-progress-bar
 	url = https://github.com/avdgriendt/sketch-radial-progress-bar.git
+[submodule "sketchplugin-align-artboards"]
+	path = sketchplugin-align-artboards
+	url = https://github.com/doubco/sketchplugin-align-artboards.git
