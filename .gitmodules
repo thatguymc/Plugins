@@ -365,3 +365,51 @@
 [submodule "sketchplugin-align-artboards"]
 	path = sketchplugin-align-artboards
 	url = https://github.com/doubco/sketchplugin-align-artboards.git
+[submodule "BaseAlign"]
+	path = BaseAlign
+	url = https://github.com/abynim/BaseAlign.git
+[submodule "chromatic-sketch"]
+	path = chromatic-sketch
+	url = https://github.com/petterheterjag/chromatic-sketch.git
+[submodule "Sketch---Find-all-instances-of-symbol"]
+	path = Sketch---Find-all-instances-of-symbol
+	url = https://github.com/nmwoods1/Sketch---Find-all-instances-of-symbol.git
+[submodule "sketch-flip-size"]
+	path = sketch-flip-size
+	url = https://github.com/apertureless/sketch-flip-size.git
+[submodule "MagicMirror"]
+	path = MagicMirror
+	url = https://github.com/MagicSketch/MagicMirror.git
+[submodule "NudgePushShove"]
+	path = NudgePushShove
+	url = https://github.com/mfouquet/NudgePushShove.git
+[submodule "pixel-perfecter-sketch-plugin"]
+	path = pixel-perfecter-sketch-plugin
+	url = https://github.com/swiadek/pixel-perfecter-sketch-plugin.git
+[submodule "sketch-remove-all-disabled-styles"]
+	path = sketch-remove-all-disabled-styles
+	url = https://github.com/ErikFontanel/sketch-remove-all-disabled-styles.git
+[submodule "RemoveAllGuides"]
+	path = RemoveAllGuides
+	url = https://github.com/ichik/RemoveAllGuides.git
+[submodule "Save-with-Frame"]
+	path = Save-with-Frame
+	url = https://github.com/redgell/Save-with-Frame.git
+[submodule "Select-By-Name"]
+	path = Select-By-Name
+	url = https://github.com/sebj/Select-By-Name.git
+[submodule "select-children"]
+	path = select-children
+	url = https://github.com/jshuaf/select-children.git
+[submodule "sketch-select-exportables"]
+	path = sketch-select-exportables
+	url = https://github.com/yargies/sketch-select-exportables.git
+[submodule "select-parent-artboards"]
+	path = select-parent-artboards
+	url = https://github.com/nefaurk/select-parent-artboards.git
+[submodule "sketchy-pies"]
+	path = sketchy-pies
+	url = https://github.com/abynim/sketchy-pies.git
+[submodule "sketch-unlock-all-layers"]
+	path = sketch-unlock-all-layers
+	url = https://github.com/truthlabs/sketch-unlock-all-layers.git
