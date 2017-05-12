@@ -413,3 +413,6 @@
 [submodule "sketch-unlock-all-layers"]
 	path = sketch-unlock-all-layers
 	url = https://github.com/truthlabs/sketch-unlock-all-layers.git
+[submodule "Export-More"]
+	path = Export-More
+	url = https://github.com/nathco/Export-More.git
