@@ -200,9 +200,6 @@
 [submodule "Text-Magic"]
 	path = Text-Magic
 	url = https://github.com/tinci/Text-Magic.git
-[submodule "Auto-Layout"]
-	path = Auto-Layout
-	url = https://github.com/AnimaApp/Auto-Layout.git
 [submodule "sketch-align-layers"]
 	path = sketch-align-layers
 	url = https://github.com/daneden/sketch-align-layers.git
