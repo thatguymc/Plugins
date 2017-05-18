@@ -416,3 +416,6 @@
 [submodule "Auto-Layout"]
 	path = Auto-Layout
 	url = https://github.com/AnimaApp/Auto-Layout.git
+[submodule "symbol-instance-renamer"]
+	path = symbol-instance-renamer
+	url = https://github.com/sonburn/symbol-instance-renamer.git
