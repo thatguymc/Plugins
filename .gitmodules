@@ -419,3 +419,6 @@
 [submodule "symbol-instance-renamer"]
 	path = symbol-instance-renamer
 	url = https://github.com/sonburn/symbol-instance-renamer.git
+[submodule "sketch-copy-paste-layout-settings"]
+	path = sketch-copy-paste-layout-settings
+	url = https://github.com/FrancisVega/sketch-copy-paste-layout-settings.git
