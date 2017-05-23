@@ -422,3 +422,6 @@
 [submodule "sketch-copy-paste-layout-settings"]
 	path = sketch-copy-paste-layout-settings
 	url = https://github.com/FrancisVega/sketch-copy-paste-layout-settings.git
+[submodule "number-pages-by-artboard-sketch-plugin"]
+	path = number-pages-by-artboard-sketch-plugin
+	url = https://github.com/szupie/number-pages-by-artboard-sketch-plugin.git
