@@ -425,3 +425,6 @@
 [submodule "number-pages-by-artboard-sketch-plugin"]
 	path = number-pages-by-artboard-sketch-plugin
 	url = https://github.com/szupie/number-pages-by-artboard-sketch-plugin.git
+[submodule "git-sketch-plugin"]
+	path = git-sketch-plugin
+	url = https://github.com/mathieudutour/git-sketch-plugin.git
