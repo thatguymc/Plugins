@@ -428,3 +428,6 @@
 [submodule "git-sketch-plugin"]
 	path = git-sketch-plugin
 	url = https://github.com/mathieudutour/git-sketch-plugin.git
+[submodule "sketch-plugin-format-export"]
+	path = sketch-plugin-format-export
+	url = https://github.com/antonlegoo/sketch-plugin-format-export.git
