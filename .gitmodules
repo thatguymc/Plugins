@@ -431,3 +431,6 @@
 [submodule "sketch-plugin-format-export"]
 	path = sketch-plugin-format-export
 	url = https://github.com/antonlegoo/sketch-plugin-format-export.git
+[submodule "sketch-sharedcolorpalette"]
+	path = sketch-sharedcolorpalette
+	url = https://github.com/marianomike/sketch-sharedcolorpalette.git
