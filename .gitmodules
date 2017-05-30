@@ -434,3 +434,6 @@
 [submodule "sketch-sharedcolorpalette"]
 	path = sketch-sharedcolorpalette
 	url = https://github.com/marianomike/sketch-sharedcolorpalette.git
+[submodule "Appender-Sketch-Plugin"]
+	path = Appender-Sketch-Plugin
+	url = https://github.com/AhmedShaalan/Appender-Sketch-Plugin.git
