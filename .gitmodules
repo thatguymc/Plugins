@@ -437,3 +437,6 @@
 [submodule "Appender-Sketch-Plugin"]
 	path = Appender-Sketch-Plugin
 	url = https://github.com/AhmedShaalan/Appender-Sketch-Plugin.git
+[submodule "jsonfy"]
+	path = jsonfy
+	url = https://github.com/mcand/jsonfy.git
