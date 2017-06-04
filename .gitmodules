@@ -440,3 +440,6 @@
 [submodule "jsonfy"]
 	path = jsonfy
 	url = https://github.com/mcand/jsonfy.git
+[submodule "nudge-resize-sketch-plugin"]
+	path = nudge-resize-sketch-plugin
+	url = https://github.com/DWilliames/nudge-resize-sketch-plugin.git
