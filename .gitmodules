@@ -443,3 +443,12 @@
 [submodule "nudge-resize-sketch-plugin"]
 	path = nudge-resize-sketch-plugin
 	url = https://github.com/DWilliames/nudge-resize-sketch-plugin.git
+[submodule "Slicer"]
+	path = Slicer
+	url = https://github.com/ozzik/Slicer.git
+[submodule "sketch-query-selection"]
+	path = sketch-query-selection
+	url = https://github.com/FrancisVega/sketch-query-selection.git
+[submodule "LayerRenamer"]
+	path = LayerRenamer
+	url = https://github.com/LeonardPauli/LayerRenamer.git
