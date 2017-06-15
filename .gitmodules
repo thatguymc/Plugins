@@ -452,3 +452,9 @@
 [submodule "LayerRenamer"]
 	path = LayerRenamer
 	url = https://github.com/LeonardPauli/LayerRenamer.git
+[submodule "day-player"]
+	path = day-player
+	url = https://github.com/tylergaw/day-player.git
+[submodule "Sketch-Make-Long-Shadow"]
+	path = Sketch-Make-Long-Shadow
+	url = https://github.com/JayHoltslander/Sketch-Make-Long-Shadow.git
