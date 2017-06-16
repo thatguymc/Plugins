@@ -458,3 +458,6 @@
 [submodule "Sketch-Make-Long-Shadow"]
 	path = Sketch-Make-Long-Shadow
 	url = https://github.com/JayHoltslander/Sketch-Make-Long-Shadow.git
+[submodule "sketch-relabel-button"]
+	path = sketch-relabel-button
+	url = https://github.com/kenmoore/sketch-relabel-button.git
