@@ -461,3 +461,6 @@
 [submodule "sketch-relabel-button"]
 	path = sketch-relabel-button
 	url = https://github.com/kenmoore/sketch-relabel-button.git
+[submodule "sketch-search-everywhere"]
+	path = sketch-search-everywhere
+	url = https://github.com/MrPeak/sketch-search-everywhere.git
