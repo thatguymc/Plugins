@@ -464,3 +464,6 @@
 [submodule "sketch-search-everywhere"]
 	path = sketch-search-everywhere
 	url = https://github.com/MrPeak/sketch-search-everywhere.git
+[submodule "swap-styles"]
+	path = swap-styles
+	url = https://github.com/ozzik/swap-styles.git
