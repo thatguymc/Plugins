@@ -467,3 +467,6 @@
 [submodule "swap-styles"]
 	path = swap-styles
 	url = https://github.com/ozzik/swap-styles.git
+[submodule "sketch-scale-all-in-place"]
+	path = sketch-scale-all-in-place
+	url = https://github.com/delighted/sketch-scale-all-in-place.git
