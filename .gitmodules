@@ -470,3 +470,9 @@
 [submodule "sketch-scale-all-in-place"]
 	path = sketch-scale-all-in-place
 	url = https://github.com/delighted/sketch-scale-all-in-place.git
+[submodule "sketch-to-git"]
+	path = sketch-to-git
+	url = https://github.com/KylianLM/sketch-to-git.git
+[submodule "shared-text-styles"]
+	path = shared-text-styles
+	url = https://github.com/nilshoenson/shared-text-styles.git
