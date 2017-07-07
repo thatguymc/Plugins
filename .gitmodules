@@ -476,3 +476,9 @@
 [submodule "shared-text-styles"]
 	path = shared-text-styles
 	url = https://github.com/nilshoenson/shared-text-styles.git
+[submodule "sketch-translate"]
+	path = sketch-translate
+	url = https://github.com/translationexchange/sketch-translate.git
+[submodule "sketch-neo-preview"]
+	path = sketch-neo-preview
+	url = https://github.com/alanfraneo/sketch-neo-preview.git
