@@ -482,3 +482,6 @@
 [submodule "sketch-neo-preview"]
 	path = sketch-neo-preview
 	url = https://github.com/alanfraneo/sketch-neo-preview.git
+[submodule "WeSketch"]
+	path = WeSketch
+	url = https://github.com/weixin/WeSketch.git
