@@ -485,3 +485,6 @@
 [submodule "WeSketch"]
 	path = WeSketch
 	url = https://github.com/weixin/WeSketch.git
+[submodule "single-border"]
+	path = single-border
+	url = https://github.com/sureskumar/single-border.git
