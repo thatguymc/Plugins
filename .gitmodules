@@ -488,3 +488,9 @@
 [submodule "single-border"]
 	path = single-border
 	url = https://github.com/sureskumar/single-border.git
+[submodule "logodrop"]
+	path = logodrop
+	url = https://github.com/Iconscout/logodrop.git
+[submodule "sketch-artboard-plugin"]
+	path = sketch-artboard-plugin
+	url = https://github.com/ecompton3/sketch-artboard-plugin.git
