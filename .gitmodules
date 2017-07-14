@@ -494,3 +494,6 @@
 [submodule "sketch-artboard-plugin"]
 	path = sketch-artboard-plugin
 	url = https://github.com/ecompton3/sketch-artboard-plugin.git
+[submodule "sketch-show-layer-info"]
+	path = sketch-show-layer-info
+	url = https://github.com/MrPeak/sketch-show-layer-info.git
