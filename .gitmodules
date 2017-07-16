@@ -497,3 +497,6 @@
 [submodule "sketch-show-layer-info"]
 	path = sketch-show-layer-info
 	url = https://github.com/MrPeak/sketch-show-layer-info.git
+[submodule "sketch-material"]
+	path = sketch-material
+	url = https://github.com/websiddu/sketch-material.git
