@@ -506,3 +506,6 @@
 [submodule "sync-to-slides"]
 	path = sync-to-slides
 	url = https://github.com/websiddu/sync-to-slides.git
+[submodule "add-artboard-shadows"]
+	path = add-artboard-shadows
+	url = https://github.com/ajayans/add-artboard-shadows.git
