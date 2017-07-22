@@ -509,3 +509,6 @@
 [submodule "add-artboard-shadows"]
 	path = add-artboard-shadows
 	url = https://github.com/ajayans/add-artboard-shadows.git
+[submodule "sketch-palette-generator"]
+	path = sketch-palette-generator
+	url = https://github.com/awkward/sketch-palette-generator.git
