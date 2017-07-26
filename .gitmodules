@@ -512,3 +512,12 @@
 [submodule "sketch-palette-generator"]
 	path = sketch-palette-generator
 	url = https://github.com/awkward/sketch-palette-generator.git
+[submodule "Images-Reinvented"]
+	path = Images-Reinvented
+	url = https://github.com/roydigerhund/Images-Reinvented.git
+[submodule "artboard-manager"]
+	path = artboard-manager
+	url = https://github.com/bomberstudios/artboard-manager.git
+[submodule "sketch-number-artboards"]
+	path = sketch-number-artboards
+	url = https://github.com/mmasonlee/sketch-number-artboards.git
