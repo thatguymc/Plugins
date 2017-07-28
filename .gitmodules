@@ -521,3 +521,6 @@
 [submodule "sketch-number-artboards"]
 	path = sketch-number-artboards
 	url = https://github.com/mmasonlee/sketch-number-artboards.git
+[submodule "merge-duplicate-symbols"]
+	path = merge-duplicate-symbols
+	url = https://github.com/oodesign/merge-duplicate-symbols.git
