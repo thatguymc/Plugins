@@ -524,3 +524,9 @@
 [submodule "merge-duplicate-symbols"]
 	path = merge-duplicate-symbols
 	url = https://github.com/oodesign/merge-duplicate-symbols.git
+[submodule "Sketch-Wrapper"]
+	path = Sketch-Wrapper
+	url = https://github.com/amaxbox/Sketch-Wrapper.git
+[submodule "sketch-plugin-lists.design"]
+	path = sketch-plugin-lists.design
+	url = https://github.com/rebelliard/sketch-plugin-lists.design.git
