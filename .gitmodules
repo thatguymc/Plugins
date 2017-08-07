@@ -527,3 +527,6 @@
 [submodule "Sketch-Wrapper"]
 	path = Sketch-Wrapper
 	url = https://github.com/amaxbox/Sketch-Wrapper.git
+[submodule "instance-locator"]
+	path = instance-locator
+	url = https://github.com/d4rekanguok/instance-locator.git
