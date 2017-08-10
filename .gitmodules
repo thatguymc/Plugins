@@ -536,3 +536,9 @@
 [submodule "pointgrid"]
 	path = pointgrid
 	url = https://github.com/47deg/pointgrid.git
+[submodule "sketchtextsourcer"]
+	path = sketchtextsourcer
+	url = https://github.com/hamidp/sketchtextsourcer.git
+[submodule "sketch-marginbox"]
+	path = sketch-marginbox
+	url = https://github.com/FrancisVega/sketch-marginbox.git
