@@ -530,3 +530,6 @@
 [submodule "instance-locator"]
 	path = instance-locator
 	url = https://github.com/d4rekanguok/instance-locator.git
+[submodule "butter-sketch-plugin"]
+	path = butter-sketch-plugin
+	url = https://github.com/pberrecloth/butter-sketch-plugin.git
