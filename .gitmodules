@@ -533,3 +533,6 @@
 [submodule "butter-sketch-plugin"]
 	path = butter-sketch-plugin
 	url = https://github.com/pberrecloth/butter-sketch-plugin.git
+[submodule "pointgrid"]
+	path = pointgrid
+	url = https://github.com/47deg/pointgrid.git
