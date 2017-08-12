@@ -542,3 +542,9 @@
 [submodule "sketch-marginbox"]
 	path = sketch-marginbox
 	url = https://github.com/FrancisVega/sketch-marginbox.git
+[submodule "Keys-For-Sketch"]
+	path = Keys-For-Sketch
+	url = https://github.com/exevil/Keys-For-Sketch.git
+[submodule "Sketch-Export-Text"]
+	path = Sketch-Export-Text
+	url = https://github.com/exevil/Sketch-Export-Text.git
