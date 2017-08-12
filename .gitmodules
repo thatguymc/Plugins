@@ -548,3 +548,6 @@
 [submodule "Sketch-Export-Text"]
 	path = Sketch-Export-Text
 	url = https://github.com/exevil/Sketch-Export-Text.git
+[submodule "sketch-make-triangle-equilateral"]
+	path = sketch-make-triangle-equilateral
+	url = https://github.com/exevil/sketch-make-triangle-equilateral.git
