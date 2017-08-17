@@ -551,3 +551,6 @@
 [submodule "sketch-make-triangle-equilateral"]
 	path = sketch-make-triangle-equilateral
 	url = https://github.com/exevil/sketch-make-triangle-equilateral.git
+[submodule "sketch-plugin-move-duplicate-next"]
+	path = sketch-plugin-move-duplicate-next
+	url = https://github.com/onthehead/sketch-plugin-move-duplicate-next.git
