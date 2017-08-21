@@ -296,9 +296,6 @@
 [submodule "FontFinder"]
 	path = FontFinder
 	url = https://github.com/ukn530/FontFinder.git
-[submodule "sharpen-images-sketch"]
-	path = sharpen-images-sketch
-	url = https://github.com/axmsv/sharpen-images-sketch.git
 [submodule "copy-framer-code"]
 	path = copy-framer-code
 	url = https://github.com/perrysmotors/copy-framer-code.git
