@@ -551,3 +551,9 @@
 [submodule "sketch-plugin-move-duplicate-next"]
 	path = sketch-plugin-move-duplicate-next
 	url = https://github.com/onthehead/sketch-plugin-move-duplicate-next.git
+[submodule "sketch-grid-master"]
+	path = sketch-grid-master
+	url = https://github.com/exevil/sketch-grid-master.git
+[submodule "sketch-slicer"]
+	path = sketch-slicer
+	url = https://github.com/d4rekanguok/sketch-slicer.git
