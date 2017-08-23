@@ -557,3 +557,12 @@
 [submodule "sketch-slicer"]
 	path = sketch-slicer
 	url = https://github.com/d4rekanguok/sketch-slicer.git
+[submodule "sketch-plugin-change-position"]
+	path = sketch-plugin-change-position
+	url = https://github.com/onthehead/sketch-plugin-change-position.git
+[submodule "loose-sketch-plugin"]
+	path = loose-sketch-plugin
+	url = https://github.com/teeerevor/loose-sketch-plugin.git
+[submodule "SketchConnect"]
+	path = SketchConnect
+	url = https://github.com/wangzhen0614/SketchConnect.git
