@@ -566,3 +566,6 @@
 [submodule "SketchConnect"]
 	path = SketchConnect
 	url = https://github.com/wangzhen0614/SketchConnect.git
+[submodule "html-sketchapp"]
+	path = html-sketchapp
+	url = https://github.com/brainly/html-sketchapp.git
