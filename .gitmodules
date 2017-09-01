@@ -572,3 +572,6 @@
 [submodule "Chain"]
 	path = Chain
 	url = https://github.com/LaloMrtnz/Chain.git
+[submodule "Sketch-Title-Case"]
+	path = Sketch-Title-Case
+	url = https://github.com/Hemmingsson/Sketch-Title-Case.git
