@@ -575,3 +575,6 @@
 [submodule "Sketch-Title-Case"]
 	path = Sketch-Title-Case
 	url = https://github.com/Hemmingsson/Sketch-Title-Case.git
+[submodule "sketch-share-as-is"]
+	path = sketch-share-as-is
+	url = https://github.com/turbobabr/sketch-share-as-is.git
