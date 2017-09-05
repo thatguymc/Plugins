@@ -581,3 +581,6 @@
 [submodule "Counter"]
 	path = Counter
 	url = https://github.com/Volorf/Counter.git
+[submodule "Gridy"]
+	path = Gridy
+	url = https://github.com/Volorf/Gridy.git
