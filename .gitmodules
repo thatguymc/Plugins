@@ -587,3 +587,21 @@
 [submodule "Alembic"]
 	path = Alembic
 	url = https://github.com/awkward/Alembic.git
+[submodule "whisk"]
+	path = whisk
+	url = https://github.com/polleverywhere/whisk.git
+[submodule "sketch-artboard-borders"]
+	path = sketch-artboard-borders
+	url = https://github.com/jonsully/sketch-artboard-borders.git
+[submodule "sketch-incopy"]
+	path = sketch-incopy
+	url = https://github.com/bryanberger/sketch-incopy.git
+[submodule "jira-cloud-for-sketch"]
+	path = jira-cloud-for-sketch
+	url = https://github.com/atlassian/jira-cloud-for-sketch.git
+[submodule "sketchapp-json-plugin"]
+	path = sketchapp-json-plugin
+	url = https://github.com/darknoon/sketchapp-json-plugin.git
+[submodule "Sketch_Update-Text-Layer-Name"]
+	path = Sketch_Update-Text-Layer-Name
+	url = https://github.com/Creatide/Sketch_Update-Text-Layer-Name.git
