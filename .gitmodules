@@ -605,3 +605,6 @@
 [submodule "Sketch_Update-Text-Layer-Name"]
 	path = Sketch_Update-Text-Layer-Name
 	url = https://github.com/Creatide/Sketch_Update-Text-Layer-Name.git
+[submodule "update-overrides-sketchplugin"]
+	path = update-overrides-sketchplugin
+	url = https://github.com/ahmedmigo/update-overrides-sketchplugin.git
