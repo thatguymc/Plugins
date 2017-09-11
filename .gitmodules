@@ -608,3 +608,6 @@
 [submodule "update-overrides-sketchplugin"]
 	path = update-overrides-sketchplugin
 	url = https://github.com/ahmedmigo/update-overrides-sketchplugin.git
+[submodule "fix-layer-position"]
+	path = fix-layer-position
+	url = https://github.com/jimoneill/fix-layer-position.git
