@@ -614,3 +614,6 @@
 [submodule "iShadow"]
 	path = iShadow
 	url = https://github.com/Volorf/iShadow.git
+[submodule "fitter-sketch-plugin"]
+	path = fitter-sketch-plugin
+	url = https://github.com/pberrecloth/fitter-sketch-plugin.git
