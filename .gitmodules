@@ -617,3 +617,6 @@
 [submodule "fitter-sketch-plugin"]
 	path = fitter-sketch-plugin
 	url = https://github.com/pberrecloth/fitter-sketch-plugin.git
+[submodule "Fontily"]
+	path = Fontily
+	url = https://github.com/partyka1/Fontily.git
