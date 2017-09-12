@@ -611,3 +611,6 @@
 [submodule "fix-layer-position"]
 	path = fix-layer-position
 	url = https://github.com/jimoneill/fix-layer-position.git
+[submodule "iShadow"]
+	path = iShadow
+	url = https://github.com/Volorf/iShadow.git
