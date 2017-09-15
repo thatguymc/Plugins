@@ -620,3 +620,6 @@
 [submodule "Fontily"]
 	path = Fontily
 	url = https://github.com/partyka1/Fontily.git
+[submodule "SketchSize"]
+	path = SketchSize
+	url = https://github.com/samlfsun/SketchSize.git
