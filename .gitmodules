@@ -629,3 +629,6 @@
 [submodule "sketch-resize"]
 	path = sketch-resize
 	url = https://github.com/lucaorio/sketch-resize.git
+[submodule "Symbol-state"]
+	path = Symbol-state
+	url = https://github.com/ahmedmigo/Symbol-state.git
