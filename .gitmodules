@@ -632,3 +632,6 @@
 [submodule "Symbol-state"]
 	path = Symbol-state
 	url = https://github.com/ahmedmigo/Symbol-state.git
+[submodule "diverseui-sketch-plugin"]
+	path = diverseui-sketch-plugin
+	url = https://github.com/reneepadgham/diverseui-sketch-plugin.git
