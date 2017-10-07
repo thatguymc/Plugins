@@ -635,3 +635,12 @@
 [submodule "diverseui-sketch-plugin"]
 	path = diverseui-sketch-plugin
 	url = https://github.com/reneepadgham/diverseui-sketch-plugin.git
+[submodule "Sketch-Plugin-Text-Extractor"]
+	path = Sketch-Plugin-Text-Extractor
+	url = https://github.com/inooid/Sketch-Plugin-Text-Extractor.git
+[submodule "Preview-in-browser"]
+	path = Preview-in-browser
+	url = https://github.com/gaddafirusli/Preview-in-browser.git
+[submodule "Sketch-Modular-Scale"]
+	path = Sketch-Modular-Scale
+	url = https://github.com/nosajio/Sketch-Modular-Scale.git
