@@ -650,3 +650,15 @@
 [submodule "library-symbol-replacer"]
 	path = library-symbol-replacer
 	url = https://github.com/zeroheight/library-symbol-replacer.git
+[submodule "sketch-emmet"]
+	path = sketch-emmet
+	url = https://github.com/joelbqz/sketch-emmet.git
+[submodule "symbol-instance-sheet"]
+	path = symbol-instance-sheet
+	url = https://github.com/sonburn/symbol-instance-sheet.git
+[submodule "sketch-to-react-native"]
+	path = sketch-to-react-native
+	url = https://github.com/nanohop/sketch-to-react-native.git
+[submodule "Sketch-Library-Thumbnail-Preview-Icon-Template"]
+	path = Sketch-Library-Thumbnail-Preview-Icon-Template
+	url = https://github.com/jydesign/Sketch-Library-Thumbnail-Preview-Icon-Template.git
