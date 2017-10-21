@@ -662,3 +662,6 @@
 [submodule "Sketch-Library-Thumbnail-Preview-Icon-Template"]
 	path = Sketch-Library-Thumbnail-Preview-Icon-Template
 	url = https://github.com/jydesign/Sketch-Library-Thumbnail-Preview-Icon-Template.git
+[submodule "symbol-swapper"]
+	path = symbol-swapper
+	url = https://github.com/sonburn/symbol-swapper.git
