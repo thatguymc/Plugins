@@ -665,3 +665,6 @@
 [submodule "symbol-swapper"]
 	path = symbol-swapper
 	url = https://github.com/sonburn/symbol-swapper.git
+[submodule "SizeArtboard"]
+	path = SizeArtboard
+	url = https://github.com/BrendanMiller/SizeArtboard.git
