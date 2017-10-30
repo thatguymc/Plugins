@@ -668,3 +668,9 @@
 [submodule "SizeArtboard"]
 	path = SizeArtboard
 	url = https://github.com/BrendanMiller/SizeArtboard.git
+[submodule "sketch-bootstrap-helpers"]
+	path = sketch-bootstrap-helpers
+	url = https://github.com/konki-vienna/sketch-bootstrap-helpers.git
+[submodule "sketch-getoverride"]
+	path = sketch-getoverride
+	url = https://github.com/heymadsen/sketch-getoverride.git
