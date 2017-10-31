@@ -674,3 +674,9 @@
 [submodule "sketch-getoverride"]
 	path = sketch-getoverride
 	url = https://github.com/heymadsen/sketch-getoverride.git
+[submodule "sketch-paste-in-order"]
+	path = sketch-paste-in-order
+	url = https://github.com/juliussohn/sketch-paste-in-order.git
+[submodule "sketch-gifme-plugin"]
+	path = sketch-gifme-plugin
+	url = https://github.com/kannonboy/sketch-gifme-plugin.git
