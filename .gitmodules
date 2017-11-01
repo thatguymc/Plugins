@@ -680,3 +680,12 @@
 [submodule "sketch-gifme-plugin"]
 	path = sketch-gifme-plugin
 	url = https://github.com/kannonboy/sketch-gifme-plugin.git
+[submodule "sketch-textbox-fit-content"]
+	path = sketch-textbox-fit-content
+	url = https://github.com/juliussohn/sketch-textbox-fit-content.git
+[submodule "sketch-text-style-master"]
+	path = sketch-text-style-master
+	url = https://github.com/aparajita/sketch-text-style-master.git
+[submodule "Simple-Symbol-Name"]
+	path = Simple-Symbol-Name
+	url = https://github.com/milkyfruit/Simple-Symbol-Name.git
