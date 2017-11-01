@@ -689,3 +689,6 @@
 [submodule "Simple-Symbol-Name"]
 	path = Simple-Symbol-Name
 	url = https://github.com/milkyfruit/Simple-Symbol-Name.git
+[submodule "Swappr"]
+	path = Swappr
+	url = https://github.com/pranusarna94/Swappr.git
