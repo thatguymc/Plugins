@@ -698,3 +698,9 @@
 [submodule "sketch-txt-2-img"]
 	path = sketch-txt-2-img
 	url = https://github.com/wuwa/sketch-txt-2-img.git
+[submodule "sketch-groupie"]
+	path = sketch-groupie
+	url = https://github.com/aparajita/sketch-groupie.git
+[submodule "sketch-style-master"]
+	path = sketch-style-master
+	url = https://github.com/aparajita/sketch-style-master.git
