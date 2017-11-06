@@ -692,3 +692,9 @@
 [submodule "Swappr"]
 	path = Swappr
 	url = https://github.com/pranusarna94/Swappr.git
+[submodule "shared-style-finder"]
+	path = shared-style-finder
+	url = https://github.com/sonburn/shared-style-finder.git
+[submodule "sketch-txt-2-img"]
+	path = sketch-txt-2-img
+	url = https://github.com/wuwa/sketch-txt-2-img.git
