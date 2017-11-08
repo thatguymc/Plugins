@@ -704,3 +704,6 @@
 [submodule "sketch-style-master"]
 	path = sketch-style-master
 	url = https://github.com/aparajita/sketch-style-master.git
+[submodule "sketch-collapse-all"]
+	path = sketch-collapse-all
+	url = https://github.com/daneden/sketch-collapse-all.git
