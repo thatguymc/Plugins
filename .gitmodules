@@ -707,3 +707,6 @@
 [submodule "sketch-collapse-all"]
 	path = sketch-collapse-all
 	url = https://github.com/daneden/sketch-collapse-all.git
+[submodule "divisibleBy8"]
+	path = divisibleBy8
+	url = https://github.com/shivinsaxena/divisibleBy8.git
