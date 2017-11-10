@@ -710,3 +710,6 @@
 [submodule "divisibleBy8"]
 	path = divisibleBy8
 	url = https://github.com/shivinsaxena/divisibleBy8.git
+[submodule "Sketch-CSS-Extractor"]
+	path = Sketch-CSS-Extractor
+	url = https://github.com/jeffreysharris/Sketch-CSS-Extractor.git
