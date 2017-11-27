@@ -713,3 +713,6 @@
 [submodule "Sketch-CSS-Extractor"]
 	path = Sketch-CSS-Extractor
 	url = https://github.com/jeffreysharris/Sketch-CSS-Extractor.git
+[submodule "bunch-text-chcange-sketch-plugin"]
+	path = bunch-text-chcange-sketch-plugin
+	url = https://github.com/vdmp/bunch-text-chcange-sketch-plugin.git
