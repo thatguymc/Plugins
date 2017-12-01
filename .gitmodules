@@ -716,3 +716,12 @@
 [submodule "bunch-text-chcange-sketch-plugin"]
 	path = bunch-text-chcange-sketch-plugin
 	url = https://github.com/vdmp/bunch-text-chcange-sketch-plugin.git
+[submodule "States"]
+	path = States
+	url = https://github.com/edenvidal/States.git
+[submodule "sketch-name-organizer"]
+	path = sketch-name-organizer
+	url = https://github.com/canisminor1990/sketch-name-organizer.git
+[submodule "library-styles-sync"]
+	path = library-styles-sync
+	url = https://github.com/zeroheight/library-styles-sync.git
