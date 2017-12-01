@@ -725,3 +725,6 @@
 [submodule "library-styles-sync"]
 	path = library-styles-sync
 	url = https://github.com/zeroheight/library-styles-sync.git
+[submodule "sketch-select"]
+	path = sketch-select
+	url = https://github.com/canisminor1990/sketch-select.git
