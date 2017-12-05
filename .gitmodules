@@ -728,3 +728,6 @@
 [submodule "sketch-select"]
 	path = sketch-select
 	url = https://github.com/canisminor1990/sketch-select.git
+[submodule "RealSizeZoom"]
+	path = RealSizeZoom
+	url = https://github.com/phytrisha/RealSizeZoom.git
