@@ -731,3 +731,6 @@
 [submodule "RealSizeZoom"]
 	path = RealSizeZoom
 	url = https://github.com/phytrisha/RealSizeZoom.git
+[submodule "sketch-artboard-switcher"]
+	path = sketch-artboard-switcher
+	url = https://github.com/antoniocosta/sketch-artboard-switcher.git
