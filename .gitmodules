@@ -737,3 +737,6 @@
 [submodule "sketch-lorem-ipsum-2017"]
 	path = sketch-lorem-ipsum-2017
 	url = https://github.com/freeauto/sketch-lorem-ipsum-2017.git
+[submodule "chart"]
+	path = chart
+	url = https://github.com/pavelkuligin/chart.git
