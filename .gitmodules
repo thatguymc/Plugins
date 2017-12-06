@@ -734,3 +734,6 @@
 [submodule "sketch-artboard-switcher"]
 	path = sketch-artboard-switcher
 	url = https://github.com/antoniocosta/sketch-artboard-switcher.git
+[submodule "sketch-lorem-ipsum-2017"]
+	path = sketch-lorem-ipsum-2017
+	url = https://github.com/freeauto/sketch-lorem-ipsum-2017.git
