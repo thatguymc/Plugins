@@ -740,3 +740,6 @@
 [submodule "chart"]
 	path = chart
 	url = https://github.com/pavelkuligin/chart.git
+[submodule "Clipboard-Fill"]
+	path = Clipboard-Fill
+	url = https://github.com/ScottSavarie/Clipboard-Fill.git
