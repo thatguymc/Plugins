@@ -746,3 +746,6 @@
 [submodule "Sketch-Icons"]
 	path = Sketch-Icons
 	url = https://github.com/AMoreaux/Sketch-Icons.git
+[submodule "SketchPlugin-PinLog"]
+	path = SketchPlugin-PinLog
+	url = https://github.com/zhongerxin/SketchPlugin-PinLog.git
