@@ -743,3 +743,6 @@
 [submodule "Clipboard-Fill"]
 	path = Clipboard-Fill
 	url = https://github.com/ScottSavarie/Clipboard-Fill.git
+[submodule "Sketch-Icons"]
+	path = Sketch-Icons
+	url = https://github.com/AMoreaux/Sketch-Icons.git
