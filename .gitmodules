@@ -749,3 +749,6 @@
 [submodule "SketchPlugin-PinLog"]
 	path = SketchPlugin-PinLog
 	url = https://github.com/zhongerxin/SketchPlugin-PinLog.git
+[submodule "presto-selecto"]
+	path = presto-selecto
+	url = https://github.com/sonburn/presto-selecto.git
