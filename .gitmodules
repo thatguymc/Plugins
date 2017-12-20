@@ -752,3 +752,6 @@
 [submodule "presto-selecto"]
 	path = presto-selecto
 	url = https://github.com/sonburn/presto-selecto.git
+[submodule "html-sketchapp-cli"]
+	path = html-sketchapp-cli
+	url = https://github.com/seek-oss/html-sketchapp-cli.git
