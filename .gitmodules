@@ -761,3 +761,6 @@
 [submodule "RenameSelection"]
 	path = RenameSelection
 	url = https://github.com/wescraig/RenameSelection.git
+[submodule "sketch-select-same-symbols"]
+	path = sketch-select-same-symbols
+	url = https://github.com/yusukesaitoh/sketch-select-same-symbols.git
