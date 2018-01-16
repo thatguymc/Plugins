@@ -764,3 +764,6 @@
 [submodule "sketch-select-same-symbols"]
 	path = sketch-select-same-symbols
 	url = https://github.com/yusukesaitoh/sketch-select-same-symbols.git
+[submodule "Handy-Menu-Sketch-Plugin"]
+	path = Handy-Menu-Sketch-Plugin
+	url = https://github.com/sergeishere/Handy-Menu-Sketch-Plugin.git
