@@ -773,3 +773,6 @@
 [submodule "HandyMenu-SketchPlugin"]
 	path = HandyMenu-SketchPlugin
 	url = https://github.com/sergeishere/HandyMenu-SketchPlugin.git
+[submodule "export-artboards-sketch-plugin"]
+	path = export-artboards-sketch-plugin
+	url = https://github.com/DWilliames/export-artboards-sketch-plugin.git
