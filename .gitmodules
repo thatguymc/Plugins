@@ -782,3 +782,9 @@
 [submodule "DeepSelect"]
 	path = DeepSelect
 	url = https://github.com/fhuel/DeepSelect.git
+[submodule "SketchSeparateShapes"]
+	path = SketchSeparateShapes
+	url = https://github.com/PEZ/SketchSeparateShapes.git
+[submodule "Sketch-Copy-Layers-Styles"]
+	path = Sketch-Copy-Layers-Styles
+	url = https://github.com/FrancisVega/Sketch-Copy-Layers-Styles.git
