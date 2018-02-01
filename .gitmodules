@@ -788,3 +788,6 @@
 [submodule "Sketch-Copy-Layers-Styles"]
 	path = Sketch-Copy-Layers-Styles
 	url = https://github.com/FrancisVega/Sketch-Copy-Layers-Styles.git
+[submodule "Move-to-library-sketchplugin"]
+	path = Move-to-library-sketchplugin
+	url = https://github.com/ahmedmigo/Move-to-library-sketchplugin.git
