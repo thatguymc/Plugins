@@ -791,3 +791,6 @@
 [submodule "Move-to-library-sketchplugin"]
 	path = Move-to-library-sketchplugin
 	url = https://github.com/ahmedmigo/Move-to-library-sketchplugin.git
+[submodule "paddy-sketch-plugin"]
+	path = paddy-sketch-plugin
+	url = https://github.com/DWilliames/paddy-sketch-plugin.git
