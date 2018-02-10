@@ -794,3 +794,6 @@
 [submodule "paddy-sketch-plugin"]
 	path = paddy-sketch-plugin
 	url = https://github.com/DWilliames/paddy-sketch-plugin.git
+[submodule "sketch-style-libraries"]
+	path = sketch-style-libraries
+	url = https://github.com/sigtm/sketch-style-libraries.git
