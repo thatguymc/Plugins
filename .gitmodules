@@ -800,3 +800,6 @@
 [submodule "sketch-isometric"]
 	path = sketch-isometric
 	url = https://github.com/sureskumar/sketch-isometric.git
+[submodule "SnipSnap"]
+	path = SnipSnap
+	url = https://github.com/wescraig/SnipSnap.git
