@@ -803,3 +803,9 @@
 [submodule "SnipSnap"]
 	path = SnipSnap
 	url = https://github.com/wescraig/SnipSnap.git
+[submodule "sketch-copy-and-paste-text"]
+	path = sketch-copy-and-paste-text
+	url = https://github.com/kudakurage/sketch-copy-and-paste-text.git
+[submodule "sketch-fast-text-transfer"]
+	path = sketch-fast-text-transfer
+	url = https://github.com/jbentzen/sketch-fast-text-transfer.git
