@@ -809,3 +809,6 @@
 [submodule "sketch-fast-text-transfer"]
 	path = sketch-fast-text-transfer
 	url = https://github.com/jbentzen/sketch-fast-text-transfer.git
+[submodule "symbol-spacer-sketch-plugin"]
+	path = symbol-spacer-sketch-plugin
+	url = https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git
