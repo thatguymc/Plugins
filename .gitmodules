@@ -812,3 +812,6 @@
 [submodule "symbol-spacer-sketch-plugin"]
 	path = symbol-spacer-sketch-plugin
 	url = https://github.com/novemberfiveco/symbol-spacer-sketch-plugin.git
+[submodule "Sketch-Smart-Style-Switcher"]
+	path = Sketch-Smart-Style-Switcher
+	url = https://github.com/FrancisVega/Sketch-Smart-Style-Switcher.git
