@@ -815,3 +815,6 @@
 [submodule "Sketch-Smart-Style-Switcher"]
 	path = Sketch-Smart-Style-Switcher
 	url = https://github.com/FrancisVega/Sketch-Smart-Style-Switcher.git
+[submodule "sketch-styles-generator"]
+	path = sketch-styles-generator
+	url = https://github.com/lucaorio/sketch-styles-generator.git
