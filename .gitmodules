@@ -821,3 +821,6 @@
 [submodule "NudgeRTL"]
 	path = NudgeRTL
 	url = https://github.com/KevinGutowski/NudgeRTL.git
+[submodule "infinite-button"]
+	path = infinite-button
+	url = https://github.com/infinitegarg/infinite-button.git
