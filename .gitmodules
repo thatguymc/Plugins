@@ -824,3 +824,6 @@
 [submodule "infinite-button"]
 	path = infinite-button
 	url = https://github.com/infinitegarg/infinite-button.git
+[submodule "StyleClip"]
+	path = StyleClip
+	url = https://github.com/liawesomesaucer/StyleClip.git
