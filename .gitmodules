@@ -827,3 +827,6 @@
 [submodule "StyleClip"]
 	path = StyleClip
 	url = https://github.com/liawesomesaucer/StyleClip.git
+[submodule "Sketch-FlowExporter"]
+	path = Sketch-FlowExporter
+	url = https://github.com/romannurik/Sketch-FlowExporter.git
