@@ -830,3 +830,6 @@
 [submodule "Sketch-FlowExporter"]
 	path = Sketch-FlowExporter
 	url = https://github.com/romannurik/Sketch-FlowExporter.git
+[submodule "sketch-presentation-notes"]
+	path = sketch-presentation-notes
+	url = https://github.com/tommasoberlose/sketch-presentation-notes.git
