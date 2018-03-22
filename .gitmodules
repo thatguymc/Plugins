@@ -833,3 +833,6 @@
 [submodule "sketch-presentation-notes"]
 	path = sketch-presentation-notes
 	url = https://github.com/tommasoberlose/sketch-presentation-notes.git
+[submodule "artboard-framer"]
+	path = artboard-framer
+	url = https://github.com/sonburn/artboard-framer.git
