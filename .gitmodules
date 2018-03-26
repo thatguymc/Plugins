@@ -836,3 +836,15 @@
 [submodule "artboard-framer"]
 	path = artboard-framer
 	url = https://github.com/sonburn/artboard-framer.git
+[submodule "draw-and-render-sketch-plugin"]
+	path = draw-and-render-sketch-plugin
+	url = https://github.com/nichenqin/draw-and-render-sketch-plugin.git
+[submodule "sketch-clean"]
+	path = sketch-clean
+	url = https://github.com/wonderbit/sketch-clean.git
+[submodule "Sketch-translate-plugin"]
+	path = Sketch-translate-plugin
+	url = https://github.com/KorixD/Sketch-translate-plugin.git
+[submodule "ProjectorCorrector"]
+	path = ProjectorCorrector
+	url = https://github.com/gvalente/ProjectorCorrector.git
