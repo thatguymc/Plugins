@@ -848,3 +848,9 @@
 [submodule "ProjectorCorrector"]
 	path = ProjectorCorrector
 	url = https://github.com/gvalente/ProjectorCorrector.git
+[submodule "sketch-duplicatesymbol"]
+	path = sketch-duplicatesymbol
+	url = https://github.com/marianomike/sketch-duplicatesymbol.git
+[submodule "Sketch-Action"]
+	path = Sketch-Action
+	url = https://github.com/onmyway133/Sketch-Action.git
