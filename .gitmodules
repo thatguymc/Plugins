@@ -854,3 +854,9 @@
 [submodule "Sketch-Action"]
 	path = Sketch-Action
 	url = https://github.com/onmyway133/Sketch-Action.git
+[submodule "Sketch-Pseudol10n"]
+	path = Sketch-Pseudol10n
+	url = https://github.com/arieare/Sketch-Pseudol10n.git
+[submodule "QuickColor"]
+	path = QuickColor
+	url = https://github.com/colesperks/QuickColor.git
