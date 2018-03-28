@@ -866,3 +866,9 @@
 [submodule "sketch2pdf"]
 	path = sketch2pdf
 	url = https://github.com/yordanoff/sketch2pdf.git
+[submodule "Perfecto-"]
+	path = Perfecto-
+	url = https://github.com/pranusarna94/Perfecto-.git
+[submodule "Rszr"]
+	path = Rszr
+	url = https://github.com/jordan-sowers/Rszr.git
