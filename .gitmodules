@@ -875,3 +875,6 @@
 [submodule "design-systems"]
 	path = design-systems
 	url = https://github.com/Ashung/design-systems.git
+[submodule "autopdfexporter-sketch-plugin"]
+	path = autopdfexporter-sketch-plugin
+	url = https://github.com/Atim33/autopdfexporter-sketch-plugin.git
