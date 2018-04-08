@@ -878,3 +878,12 @@
 [submodule "autopdfexporter-sketch-plugin"]
 	path = autopdfexporter-sketch-plugin
 	url = https://github.com/Atim33/autopdfexporter-sketch-plugin.git
+[submodule "SketchExtractTextStyles"]
+	path = SketchExtractTextStyles
+	url = https://github.com/FrantaToman/SketchExtractTextStyles.git
+[submodule "QuickStyles"]
+	path = QuickStyles
+	url = https://github.com/LukeFinch/QuickStyles.git
+[submodule "Sketch-Copy-Paste-Overrides"]
+	path = Sketch-Copy-Paste-Overrides
+	url = https://github.com/kupe517/Sketch-Copy-Paste-Overrides.git
