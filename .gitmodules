@@ -887,3 +887,9 @@
 [submodule "Sketch-Copy-Paste-Overrides"]
 	path = Sketch-Copy-Paste-Overrides
 	url = https://github.com/kupe517/Sketch-Copy-Paste-Overrides.git
+[submodule "format-symbol-names"]
+	path = format-symbol-names
+	url = https://github.com/perrysmotors/format-symbol-names.git
+[submodule "sketch-nudged"]
+	path = sketch-nudged
+	url = https://github.com/KevinWoodhouse/sketch-nudged.git
