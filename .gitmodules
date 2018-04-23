@@ -893,3 +893,9 @@
 [submodule "sketch-nudged"]
 	path = sketch-nudged
 	url = https://github.com/KevinWoodhouse/sketch-nudged.git
+[submodule "sketch-lightwire-plugin"]
+	path = sketch-lightwire-plugin
+	url = https://github.com/alex-matt/sketch-lightwire-plugin.git
+[submodule "sketch-library-unlinker"]
+	path = sketch-library-unlinker
+	url = https://github.com/perrysmotors/sketch-library-unlinker.git
