@@ -899,3 +899,6 @@
 [submodule "sketch-library-unlinker"]
 	path = sketch-library-unlinker
 	url = https://github.com/perrysmotors/sketch-library-unlinker.git
+[submodule "sketch-replace-images"]
+	path = sketch-replace-images
+	url = https://github.com/shakemno/sketch-replace-images.git
