@@ -905,3 +905,12 @@
 [submodule "artboard-title-creator"]
 	path = artboard-title-creator
 	url = https://github.com/sonburn/artboard-title-creator.git
+[submodule "reset-image-aspect-ratio"]
+	path = reset-image-aspect-ratio
+	url = https://github.com/perrysmotors/reset-image-aspect-ratio.git
+[submodule "Angle-Sketch-Plugin"]
+	path = Angle-Sketch-Plugin
+	url = https://github.com/MengTo/Angle-Sketch-Plugin.git
+[submodule "sketch-dev-tools"]
+	path = sketch-dev-tools
+	url = https://github.com/skpm/sketch-dev-tools.git
