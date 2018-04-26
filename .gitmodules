@@ -902,3 +902,6 @@
 [submodule "sketch-replace-images"]
 	path = sketch-replace-images
 	url = https://github.com/shakemno/sketch-replace-images.git
+[submodule "artboard-title-creator"]
+	path = artboard-title-creator
+	url = https://github.com/sonburn/artboard-title-creator.git
