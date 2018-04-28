@@ -914,3 +914,9 @@
 [submodule "sketch-dev-tools"]
 	path = sketch-dev-tools
 	url = https://github.com/skpm/sketch-dev-tools.git
+[submodule "sketchplugin-pixelperfect"]
+	path = sketchplugin-pixelperfect
+	url = https://github.com/materik/sketchplugin-pixelperfect.git
+[submodule "ggradient"]
+	path = ggradient
+	url = https://github.com/andex/ggradient.git
