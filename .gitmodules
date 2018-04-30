@@ -920,3 +920,9 @@
 [submodule "ggradient"]
 	path = ggradient
 	url = https://github.com/andex/ggradient.git
+[submodule "photo-grid"]
+	path = photo-grid
+	url = https://github.com/perrysmotors/photo-grid.git
+[submodule "InterUI-Character-Spacing"]
+	path = InterUI-Character-Spacing
+	url = https://github.com/qruzz/InterUI-Character-Spacing.git
