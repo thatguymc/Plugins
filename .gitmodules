@@ -926,3 +926,9 @@
 [submodule "InterUI-Character-Spacing"]
 	path = InterUI-Character-Spacing
 	url = https://github.com/qruzz/InterUI-Character-Spacing.git
+[submodule "ImageExtractorSketch"]
+	path = ImageExtractorSketch
+	url = https://github.com/mendyismyname/ImageExtractorSketch.git
+[submodule "ForeignIpsum"]
+	path = ForeignIpsum
+	url = https://github.com/3raxton/ForeignIpsum.git
