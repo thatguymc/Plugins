@@ -935,3 +935,6 @@
 [submodule "Sketch-SelectPlus"]
 	path = Sketch-SelectPlus
 	url = https://github.com/nathan5x/Sketch-SelectPlus.git
+[submodule "paddy2-beta"]
+	path = paddy2-beta
+	url = https://github.com/DWilliames/paddy2-beta.git
