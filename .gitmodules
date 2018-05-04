@@ -938,3 +938,6 @@
 [submodule "paddy2-beta"]
 	path = paddy2-beta
 	url = https://github.com/DWilliames/paddy2-beta.git
+[submodule "Sketch-Highlighter"]
+	path = Sketch-Highlighter
+	url = https://github.com/matt-curtis/Sketch-Highlighter.git
