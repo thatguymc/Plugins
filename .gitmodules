@@ -941,3 +941,6 @@
 [submodule "Sketch-Highlighter"]
 	path = Sketch-Highlighter
 	url = https://github.com/matt-curtis/Sketch-Highlighter.git
+[submodule "sketch-hyphenator"]
+	path = sketch-hyphenator
+	url = https://github.com/tobiasfabian/sketch-hyphenator.git
