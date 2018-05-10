@@ -947,3 +947,9 @@
 [submodule "Sketch-Stickers"]
 	path = Sketch-Stickers
 	url = https://github.com/romannurik/Sketch-Stickers.git
+[submodule "sketch-reverse"]
+	path = sketch-reverse
+	url = https://github.com/lucaorio/sketch-reverse.git
+[submodule "sketch-flat-palette"]
+	path = sketch-flat-palette
+	url = https://github.com/lucaorio/sketch-flat-palette.git
