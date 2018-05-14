@@ -953,3 +953,15 @@
 [submodule "sketch-flat-palette"]
 	path = sketch-flat-palette
 	url = https://github.com/lucaorio/sketch-flat-palette.git
+[submodule "Chromata"]
+	path = Chromata
+	url = https://github.com/abnamrocoesd/Chromata.git
+[submodule "ColorBrightness"]
+	path = ColorBrightness
+	url = https://github.com/andex/ColorBrightness.git
+[submodule "sketch-mail-merge"]
+	path = sketch-mail-merge
+	url = https://github.com/kumo/sketch-mail-merge.git
+[submodule "Miaow"]
+	path = Miaow
+	url = https://github.com/weixin/Miaow.git
