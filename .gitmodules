@@ -965,3 +965,6 @@
 [submodule "Miaow"]
 	path = Miaow
 	url = https://github.com/weixin/Miaow.git
+[submodule "magic-buttons-sketch-plugin"]
+	path = magic-buttons-sketch-plugin
+	url = https://github.com/upxlabs/magic-buttons-sketch-plugin.git
