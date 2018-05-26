@@ -968,3 +968,9 @@
 [submodule "magic-buttons-sketch-plugin"]
 	path = magic-buttons-sketch-plugin
 	url = https://github.com/upxlabs/magic-buttons-sketch-plugin.git
+[submodule "sketch-pixel-cleanup"]
+	path = sketch-pixel-cleanup
+	url = https://github.com/stackdevelopment/sketch-pixel-cleanup.git
+[submodule "sketch-easing-gradient"]
+	path = sketch-easing-gradient
+	url = https://github.com/larsenwork/sketch-easing-gradient.git
