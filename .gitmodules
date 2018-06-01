@@ -977,3 +977,6 @@
 [submodule "Assistant"]
 	path = Assistant
 	url = https://github.com/jordansinger/Assistant.git
+[submodule "overrideit-sketchplugin"]
+	path = overrideit-sketchplugin
+	url = https://github.com/ahmedmigo/overrideit-sketchplugin.git
