@@ -974,3 +974,6 @@
 [submodule "sketch-easing-gradient"]
 	path = sketch-easing-gradient
 	url = https://github.com/larsenwork/sketch-easing-gradient.git
+[submodule "Assistant"]
+	path = Assistant
+	url = https://github.com/jordansinger/Assistant.git
