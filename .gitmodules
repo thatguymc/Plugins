@@ -980,3 +980,6 @@
 [submodule "overrideit-sketchplugin"]
 	path = overrideit-sketchplugin
 	url = https://github.com/ahmedmigo/overrideit-sketchplugin.git
+[submodule "sketch-opencolor"]
+	path = sketch-opencolor
+	url = https://github.com/opencolor-tools/sketch-opencolor.git
