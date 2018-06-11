@@ -983,3 +983,6 @@
 [submodule "sketch-opencolor"]
 	path = sketch-opencolor
 	url = https://github.com/opencolor-tools/sketch-opencolor.git
+[submodule "Nucleus"]
+	path = Nucleus
+	url = https://github.com/levtolstoi/Nucleus.git
