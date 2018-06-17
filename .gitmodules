@@ -992,3 +992,6 @@
 [submodule "screenshot"]
 	path = screenshot
 	url = https://github.com/amanketebo/screenshot.git
+[submodule "keyColor"]
+	path = keyColor
+	url = https://github.com/KevinGutowski/keyColor.git
