@@ -995,3 +995,6 @@
 [submodule "keyColor"]
 	path = keyColor
 	url = https://github.com/KevinGutowski/keyColor.git
+[submodule "Align-and-resize-to-layout"]
+	path = Align-and-resize-to-layout
+	url = https://github.com/KevinvBre/Align-and-resize-to-layout.git
