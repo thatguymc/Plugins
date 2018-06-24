@@ -998,3 +998,6 @@
 [submodule "Align-and-resize-to-layout"]
 	path = Align-and-resize-to-layout
 	url = https://github.com/KevinvBre/Align-and-resize-to-layout.git
+[submodule "Order-Annotations"]
+	path = Order-Annotations
+	url = https://github.com/fieglek/Order-Annotations.git
