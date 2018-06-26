@@ -1001,3 +1001,6 @@
 [submodule "Order-Annotations"]
 	path = Order-Annotations
 	url = https://github.com/fieglek/Order-Annotations.git
+[submodule "json-sketchapp"]
+	path = json-sketchapp
+	url = https://github.com/mottox2/json-sketchapp.git
