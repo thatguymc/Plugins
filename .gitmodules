@@ -1004,3 +1004,6 @@
 [submodule "json-sketchapp"]
 	path = json-sketchapp
 	url = https://github.com/mottox2/json-sketchapp.git
+[submodule "sketch-copy-as-react-component"]
+	path = sketch-copy-as-react-component
+	url = https://github.com/jasondonnette/sketch-copy-as-react-component.git
