@@ -1007,6 +1007,4 @@
 [submodule "sketch-copy-as-react-component"]
 	path = sketch-copy-as-react-component
 	url = https://github.com/jasondonnette/sketch-copy-as-react-component.git
-[submodule "SketchAutoMask"]
-	path = SketchAutoMask
-	url = https://github.com/patrickhill/SketchAutoMask.git
+
