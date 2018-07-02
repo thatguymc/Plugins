@@ -989,9 +989,6 @@
 [submodule "roller"]
 	path = roller
 	url = https://github.com/toyboxsystems/roller.git
-[submodule "screenshot"]
-	path = screenshot
-	url = https://github.com/amanketebo/screenshot.git
 [submodule "keyColor"]
 	path = keyColor
 	url = https://github.com/KevinGutowski/keyColor.git
