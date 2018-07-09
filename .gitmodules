@@ -1005,3 +1005,15 @@
 	path = sketch-copy-as-react-component
 	url = https://github.com/jasondonnette/sketch-copy-as-react-component.git
 
+[submodule "Sketch-Stuffing"]
+	path = Sketch-Stuffing
+	url = https://github.com/Ashung/Sketch-Stuffing.git
+[submodule "get_out_sketchplugin"]
+	path = get_out_sketchplugin
+	url = https://github.com/lenuxo/get_out_sketchplugin.git
+[submodule "sketch-plugin-color-to-text"]
+	path = sketch-plugin-color-to-text
+	url = https://github.com/djaddison/sketch-plugin-color-to-text.git
+[submodule "SketchAutoMask"]
+	path = SketchAutoMask
+	url = https://github.com/patrickhill/SketchAutoMask.git
