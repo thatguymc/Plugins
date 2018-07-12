@@ -1017,3 +1017,6 @@
 [submodule "SketchAutoMask"]
 	path = SketchAutoMask
 	url = https://github.com/patrickhill/SketchAutoMask.git
+[submodule "typesettings-sketch-plugin"]
+	path = typesettings-sketch-plugin
+	url = https://github.com/buames/typesettings-sketch-plugin.git
