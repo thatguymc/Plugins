@@ -1023,3 +1023,6 @@
 [submodule "ColorSpark-Sketch-Plugin"]
 	path = ColorSpark-Sketch-Plugin
 	url = https://github.com/lukecjohnson/ColorSpark-Sketch-Plugin.git
+[submodule "sketch-adjusttofit"]
+	path = sketch-adjusttofit
+	url = https://github.com/andyault/sketch-adjusttofit.git
