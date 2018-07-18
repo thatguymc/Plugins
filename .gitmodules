@@ -1026,3 +1026,9 @@
 [submodule "sketch-adjusttofit"]
 	path = sketch-adjusttofit
 	url = https://github.com/andyault/sketch-adjusttofit.git
+[submodule "exporter"]
+	path = exporter
+	url = https://github.com/MaxBazarov/exporter.git
+[submodule "sketch-tokenizer"]
+	path = sketch-tokenizer
+	url = https://github.com/lufego/sketch-tokenizer.git
