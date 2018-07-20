@@ -1032,3 +1032,6 @@
 [submodule "sketch-tokenizer"]
 	path = sketch-tokenizer
 	url = https://github.com/lufego/sketch-tokenizer.git
+[submodule "blur_artboard"]
+	path = blur_artboard
+	url = https://github.com/lenuxo/blur_artboard.git
