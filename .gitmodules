@@ -1035,3 +1035,6 @@
 [submodule "blur_artboard"]
 	path = blur_artboard
 	url = https://github.com/lenuxo/blur_artboard.git
+[submodule "replace-selected-text-sketch-plugin"]
+	path = replace-selected-text-sketch-plugin
+	url = https://github.com/kahobusiness/replace-selected-text-sketch-plugin.git
