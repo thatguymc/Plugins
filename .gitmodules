@@ -1038,3 +1038,12 @@
 [submodule "replace-selected-text-sketch-plugin"]
 	path = replace-selected-text-sketch-plugin
 	url = https://github.com/kahobusiness/replace-selected-text-sketch-plugin.git
+[submodule "sketch-plugin-convert-to-grayscale"]
+	path = sketch-plugin-convert-to-grayscale
+	url = https://github.com/mheesakkers/sketch-plugin-convert-to-grayscale.git
+[submodule "rename-layers-based-on-textstyle"]
+	path = rename-layers-based-on-textstyle
+	url = https://github.com/tbrasington/rename-layers-based-on-textstyle.git
+[submodule "sketch-grid-layout"]
+	path = sketch-grid-layout
+	url = https://github.com/kupe517/sketch-grid-layout.git
