@@ -1047,3 +1047,6 @@
 [submodule "sketch-grid-layout"]
 	path = sketch-grid-layout
 	url = https://github.com/kupe517/sketch-grid-layout.git
+[submodule "sketch-interactive-export"]
+	path = sketch-interactive-export
+	url = https://github.com/mathisonian/sketch-interactive-export.git
