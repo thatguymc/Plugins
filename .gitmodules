@@ -1050,3 +1050,6 @@
 [submodule "sketch-interactive-export"]
 	path = sketch-interactive-export
 	url = https://github.com/mathisonian/sketch-interactive-export.git
+[submodule "typex"]
+	path = typex
+	url = https://github.com/reinvanoyen/typex.git
