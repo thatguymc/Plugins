@@ -1056,3 +1056,21 @@
 [submodule "sketch-to-json"]
 	path = sketch-to-json
 	url = https://github.com/lucaorio/sketch-to-json.git
+[submodule "text-to-styles"]
+	path = text-to-styles
+	url = https://github.com/tbrasington/text-to-styles.git
+[submodule "advanced-responsive-images-default"]
+	path = advanced-responsive-images-default
+	url = https://github.com/Nkzq/advanced-responsive-images-default.git
+[submodule "pixel-cycle-sketch-plugin"]
+	path = pixel-cycle-sketch-plugin
+	url = https://github.com/pixelcycle/pixel-cycle-sketch-plugin.git
+[submodule "text-inputer"]
+	path = text-inputer
+	url = https://github.com/lenuxo/text-inputer.git
+[submodule "sketch_plugin"]
+	path = sketch_plugin
+	url = https://github.com/RealtimeBoard/sketch_plugin.git
+[submodule "1pixel-perfecter-sketch-plugin"]
+	path = 1pixel-perfecter-sketch-plugin
+	url = https://github.com/TatianaPost/1pixel-perfecter-sketch-plugin.git
