@@ -1071,3 +1071,9 @@
 [submodule "1pixel-perfecter-sketch-plugin"]
 	path = 1pixel-perfecter-sketch-plugin
 	url = https://github.com/TatianaPost/1pixel-perfecter-sketch-plugin.git
+[submodule "autoarrange"]
+	path = autoarrange
+	url = https://github.com/srbsingh3/autoarrange.git
+[submodule "sketch-plugin-skew"]
+	path = sketch-plugin-skew
+	url = https://github.com/mheesakkers/sketch-plugin-skew.git
