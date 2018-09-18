@@ -1077,3 +1077,9 @@
 [submodule "sketch-plugin-skew"]
 	path = sketch-plugin-skew
 	url = https://github.com/mheesakkers/sketch-plugin-skew.git
+[submodule "Select-All-Slices"]
+	path = Select-All-Slices
+	url = https://github.com/KevinGutowski/Select-All-Slices.git
+[submodule "Sketch-Contrast"]
+	path = Sketch-Contrast
+	url = https://github.com/romannurik/Sketch-Contrast.git
