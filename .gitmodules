@@ -1083,3 +1083,6 @@
 [submodule "Sketch-Contrast"]
 	path = Sketch-Contrast
 	url = https://github.com/romannurik/Sketch-Contrast.git
+[submodule "6Spiral-Sketch-Plugin"]
+	path = 6Spiral-Sketch-Plugin
+	url = https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin.git
