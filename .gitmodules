@@ -1086,3 +1086,6 @@
 [submodule "6Spiral-Sketch-Plugin"]
 	path = 6Spiral-Sketch-Plugin
 	url = https://github.com/matej-marjanovic/6Spiral-Sketch-Plugin.git
+[submodule "QuickPDF"]
+	path = QuickPDF
+	url = https://github.com/PBBB/QuickPDF.git
