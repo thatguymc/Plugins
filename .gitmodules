@@ -1098,3 +1098,6 @@
 [submodule "Sketch-Better-Shadow"]
 	path = Sketch-Better-Shadow
 	url = https://github.com/JJYing/Sketch-Better-Shadow.git
+[submodule "Sketch-UI-Inspector"]
+	path = Sketch-UI-Inspector
+	url = https://github.com/sergeishere/Sketch-UI-Inspector.git
