@@ -1092,3 +1092,9 @@
 [submodule "Data-Sketch-Plugin"]
 	path = Data-Sketch-Plugin
 	url = https://github.com/uiplusux/Data-Sketch-Plugin.git
+[submodule "Elevation-Shadows"]
+	path = Elevation-Shadows
+	url = https://github.com/YitingLiu/Elevation-Shadows.git
+[submodule "Sketch-Better-Shadow"]
+	path = Sketch-Better-Shadow
+	url = https://github.com/JJYing/Sketch-Better-Shadow.git
