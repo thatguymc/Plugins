@@ -1101,3 +1101,6 @@
 [submodule "Sketch-UI-Inspector"]
 	path = Sketch-UI-Inspector
 	url = https://github.com/sergeishere/Sketch-UI-Inspector.git
+[submodule "device-framer"]
+	path = device-framer
+	url = https://github.com/OinkIguana/device-framer.git
