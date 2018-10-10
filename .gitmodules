@@ -1104,3 +1104,9 @@
 [submodule "device-framer"]
 	path = device-framer
 	url = https://github.com/OinkIguana/device-framer.git
+[submodule "ds-automator-sketch-plugin"]
+	path = ds-automator-sketch-plugin
+	url = https://github.com/pavelneznanov/ds-automator-sketch-plugin.git
+[submodule "sketch-qr-code"]
+	path = sketch-qr-code
+	url = https://github.com/lerte/sketch-qr-code.git
