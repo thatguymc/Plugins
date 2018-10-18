@@ -1113,3 +1113,6 @@
 [submodule "style-swapper"]
 	path = style-swapper
 	url = https://github.com/sonburn/style-swapper.git
+[submodule "Camilo"]
+	path = Camilo
+	url = https://github.com/Pausansol/Camilo.git
