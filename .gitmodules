@@ -1116,3 +1116,9 @@
 [submodule "Camilo"]
 	path = Camilo
 	url = https://github.com/Pausansol/Camilo.git
+[submodule "gutter-cutter"]
+	path = gutter-cutter
+	url = https://github.com/GCampi/gutter-cutter.git
+[submodule "sketch-wcag"]
+	path = sketch-wcag
+	url = https://github.com/bryanberger/sketch-wcag.git
