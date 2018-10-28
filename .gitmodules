@@ -1122,3 +1122,6 @@
 [submodule "sketch-wcag"]
 	path = sketch-wcag
 	url = https://github.com/bryanberger/sketch-wcag.git
+[submodule "sketchy-notes"]
+	path = sketchy-notes
+	url = https://github.com/yaronazu/sketchy-notes.git
