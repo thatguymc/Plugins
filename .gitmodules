@@ -1125,3 +1125,21 @@
 [submodule "sketchy-notes"]
 	path = sketchy-notes
 	url = https://github.com/yaronazu/sketchy-notes.git
+[submodule "symbol-autocomplete"]
+	path = symbol-autocomplete
+	url = https://github.com/opiex/symbol-autocomplete.git
+[submodule "sketch-chippencharts"]
+	path = sketch-chippencharts
+	url = https://github.com/smallmultiples/sketch-chippencharts.git
+[submodule "sketch-plugin-lorem-picsum"]
+	path = sketch-plugin-lorem-picsum
+	url = https://github.com/tristandenyer/sketch-plugin-lorem-picsum.git
+[submodule "sketch-lazyboards"]
+	path = sketch-lazyboards
+	url = https://github.com/lazybearcreations/sketch-lazyboards.git
+[submodule "sketch-plugin"]
+	path = sketch-plugin
+	url = https://github.com/Kopie-App/sketch-plugin.git
+[submodule "Symbol-Master-Selecter"]
+	path = Symbol-Master-Selecter
+	url = https://github.com/takramino/Symbol-Master-Selecter.git
