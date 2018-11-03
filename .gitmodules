@@ -773,9 +773,6 @@
 [submodule "export-artboards-sketch-plugin"]
 	path = export-artboards-sketch-plugin
 	url = https://github.com/DWilliames/export-artboards-sketch-plugin.git
-[submodule "DropSketchPlugin"]
-	path = DropSketchPlugin
-	url = https://github.com/MISoftware/DropSketchPlugin.git
 [submodule "DeepSelect"]
 	path = DeepSelect
 	url = https://github.com/fhuel/DeepSelect.git
