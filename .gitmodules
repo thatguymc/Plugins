@@ -755,9 +755,6 @@
 [submodule "html-sketchapp-cli"]
 	path = html-sketchapp-cli
 	url = https://github.com/seek-oss/html-sketchapp-cli.git
-[submodule "Clipboard2TilledFill"]
-	path = Clipboard2TilledFill
-	url = https://github.com/midiway/Clipboard2TilledFill.git
 [submodule "RenameSelection"]
 	path = RenameSelection
 	url = https://github.com/wescraig/RenameSelection.git
