@@ -1137,3 +1137,6 @@
 [submodule "Symbol-Master-Selecter"]
 	path = Symbol-Master-Selecter
 	url = https://github.com/takramino/Symbol-Master-Selecter.git
+[submodule "paste-direct"]
+	path = paste-direct
+	url = https://github.com/yudiz-solutions/paste-direct.git
