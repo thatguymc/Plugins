@@ -1143,3 +1143,6 @@
 [submodule "sketchmergesymbol"]
 	path = sketchmergesymbol
 	url = https://github.com/bigteech/sketchmergesymbol.git
+[submodule "sketch-add-artboard-titles"]
+	path = sketch-add-artboard-titles
+	url = https://github.com/yuanqing/sketch-add-artboard-titles.git
