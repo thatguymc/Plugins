@@ -1152,3 +1152,6 @@
 [submodule "sketch-data-faker"]
 	path = sketch-data-faker
 	url = https://github.com/paintedbicycle/sketch-data-faker.git
+[submodule "sketch-pochette"]
+	path = sketch-pochette
+	url = https://github.com/zehfernandes/sketch-pochette.git
