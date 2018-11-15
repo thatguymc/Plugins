@@ -587,9 +587,6 @@
 [submodule "Alembic"]
 	path = Alembic
 	url = https://github.com/awkward/Alembic.git
-[submodule "whisk"]
-	path = whisk
-	url = https://github.com/polleverywhere/whisk.git
 [submodule "sketch-artboard-borders"]
 	path = sketch-artboard-borders
 	url = https://github.com/jonsully/sketch-artboard-borders.git
@@ -1119,9 +1116,6 @@
 [submodule "sketchy-notes"]
 	path = sketchy-notes
 	url = https://github.com/yaronazu/sketchy-notes.git
-[submodule "symbol-autocomplete"]
-	path = symbol-autocomplete
-	url = https://github.com/opiex/symbol-autocomplete.git
 [submodule "sketch-chippencharts"]
 	path = sketch-chippencharts
 	url = https://github.com/smallmultiples/sketch-chippencharts.git
