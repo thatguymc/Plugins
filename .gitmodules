@@ -1152,3 +1152,9 @@
 [submodule "Sketch-Color-System"]
 	path = Sketch-Color-System
 	url = https://github.com/FrancisVega/Sketch-Color-System.git
+[submodule "bold-it"]
+	path = bold-it
+	url = https://github.com/ysjn/bold-it.git
+[submodule "sketch-selectalltext"]
+	path = sketch-selectalltext
+	url = https://github.com/stormbuster/sketch-selectalltext.git
