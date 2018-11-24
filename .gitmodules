@@ -1149,3 +1149,6 @@
 [submodule "sketch-pochette"]
 	path = sketch-pochette
 	url = https://github.com/zehfernandes/sketch-pochette.git
+[submodule "Sketch-Color-System"]
+	path = Sketch-Color-System
+	url = https://github.com/FrancisVega/Sketch-Color-System.git
