@@ -1158,3 +1158,6 @@
 [submodule "sketch-selectalltext"]
 	path = sketch-selectalltext
 	url = https://github.com/stormbuster/sketch-selectalltext.git
+[submodule "thesi"]
+	path = thesi
+	url = https://github.com/shreyasp/thesi.git
