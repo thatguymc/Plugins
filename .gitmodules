@@ -1158,3 +1158,6 @@
 [submodule "thesi"]
 	path = thesi
 	url = https://github.com/shreyasp/thesi.git
+[submodule "sketch-character-count"]
+	path = sketch-character-count
+	url = https://github.com/andrewfiorillo/sketch-character-count.git
