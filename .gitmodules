@@ -1161,3 +1161,6 @@
 [submodule "sketch-character-count"]
 	path = sketch-character-count
 	url = https://github.com/andrewfiorillo/sketch-character-count.git
+[submodule "sketch-export"]
+	path = sketch-export
+	url = https://github.com/mascardoso/sketch-export.git
