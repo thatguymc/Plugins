@@ -1164,3 +1164,6 @@
 [submodule "sketch-export"]
 	path = sketch-export
 	url = https://github.com/mascardoso/sketch-export.git
+[submodule "Sketch-Color-Contrast-Analyser"]
+	path = Sketch-Color-Contrast-Analyser
+	url = https://github.com/getflourish/Sketch-Color-Contrast-Analyser.git
