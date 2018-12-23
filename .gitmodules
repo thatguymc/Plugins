@@ -1167,3 +1167,9 @@
 [submodule "Sketch-Color-Contrast-Analyser"]
 	path = Sketch-Color-Contrast-Analyser
 	url = https://github.com/getflourish/Sketch-Color-Contrast-Analyser.git
+[submodule "Sketch-user-flows"]
+	path = Sketch-user-flows
+	url = https://github.com/faridsabitov/Sketch-user-flows.git
+[submodule "TinyFaces-Sketch-Plugin"]
+	path = TinyFaces-Sketch-Plugin
+	url = https://github.com/maximedegreve/TinyFaces-Sketch-Plugin.git
