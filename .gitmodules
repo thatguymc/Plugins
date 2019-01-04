@@ -1173,3 +1173,9 @@
 [submodule "TinyFaces-Sketch-Plugin"]
 	path = TinyFaces-Sketch-Plugin
 	url = https://github.com/maximedegreve/TinyFaces-Sketch-Plugin.git
+[submodule "annotations-sketch-plugin"]
+	path = annotations-sketch-plugin
+	url = https://github.com/BaguetteEngineering/annotations-sketch-plugin.git
+[submodule "uiLogos-sketch-plugin"]
+	path = uiLogos-sketch-plugin
+	url = https://github.com/realvjy/uiLogos-sketch-plugin.git
