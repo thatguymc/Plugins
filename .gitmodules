@@ -1179,3 +1179,6 @@
 [submodule "uiLogos-sketch-plugin"]
 	path = uiLogos-sketch-plugin
 	url = https://github.com/realvjy/uiLogos-sketch-plugin.git
+[submodule "sketch-tailwind"]
+	path = sketch-tailwind
+	url = https://github.com/jan-dh/sketch-tailwind.git
