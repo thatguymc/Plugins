@@ -1182,3 +1182,6 @@
 [submodule "sketch-tailwind"]
 	path = sketch-tailwind
 	url = https://github.com/jan-dh/sketch-tailwind.git
+[submodule "SymbolNameAutocomplete"]
+	path = SymbolNameAutocomplete
+	url = https://github.com/griffin-stewie/SymbolNameAutocomplete.git
