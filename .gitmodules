@@ -1185,3 +1185,9 @@
 [submodule "SymbolNameAutocomplete"]
 	path = SymbolNameAutocomplete
 	url = https://github.com/griffin-stewie/SymbolNameAutocomplete.git
+[submodule "BillUI"]
+	path = BillUI
+	url = https://github.com/SimonTakman/BillUI.git
+[submodule "svg-renamer"]
+	path = svg-renamer
+	url = https://github.com/evaughn/svg-renamer.git
