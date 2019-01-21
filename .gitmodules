@@ -1191,3 +1191,6 @@
 [submodule "svg-renamer"]
 	path = svg-renamer
 	url = https://github.com/evaughn/svg-renamer.git
+[submodule "betterTypePanel"]
+	path = betterTypePanel
+	url = https://github.com/KevinGutowski/betterTypePanel.git
