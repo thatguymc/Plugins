@@ -1194,3 +1194,15 @@
 [submodule "betterTypePanel"]
 	path = betterTypePanel
 	url = https://github.com/KevinGutowski/betterTypePanel.git
+[submodule "sketch-extract-text"]
+	path = sketch-extract-text
+	url = https://github.com/yuanqing/sketch-extract-text.git
+[submodule "sketch_strings_puller"]
+	path = sketch_strings_puller
+	url = https://github.com/YannickWidmer/sketch_strings_puller.git
+[submodule "sketch-draw-slice-over-selection"]
+	path = sketch-draw-slice-over-selection
+	url = https://github.com/yuanqing/sketch-draw-slice-over-selection.git
+[submodule "RemoveLinks.sketchplugin"]
+	path = RemoveLinks.sketchplugin
+	url = https://github.com/mkwng/RemoveLinks.sketchplugin.git
