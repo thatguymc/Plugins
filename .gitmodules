@@ -1206,3 +1206,6 @@
 [submodule "RemoveLinks.sketchplugin"]
 	path = RemoveLinks.sketchplugin
 	url = https://github.com/mkwng/RemoveLinks.sketchplugin.git
+[submodule "datazier-lens"]
+	path = datazier-lens
+	url = https://github.com/enriquezgomez/datazier-lens.git
