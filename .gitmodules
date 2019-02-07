@@ -1209,3 +1209,6 @@
 [submodule "datazier-lens"]
 	path = datazier-lens
 	url = https://github.com/enriquezgomez/datazier-lens.git
+[submodule "symbol-namer"]
+	path = symbol-namer
+	url = https://github.com/perrysmotors/symbol-namer.git
