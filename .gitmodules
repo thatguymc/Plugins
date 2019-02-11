@@ -1212,3 +1212,6 @@
 [submodule "symbol-namer"]
 	path = symbol-namer
 	url = https://github.com/perrysmotors/symbol-namer.git
+[submodule "sketch-styles-hierarchy"]
+	path = sketch-styles-hierarchy
+	url = https://github.com/mathieudutour/sketch-styles-hierarchy.git
