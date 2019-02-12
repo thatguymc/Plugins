@@ -1215,3 +1215,6 @@
 [submodule "sketch-styles-hierarchy"]
 	path = sketch-styles-hierarchy
 	url = https://github.com/mathieudutour/sketch-styles-hierarchy.git
+[submodule "unused-style-remover"]
+	path = unused-style-remover
+	url = https://github.com/sonburn/unused-style-remover.git
