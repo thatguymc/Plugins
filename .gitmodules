@@ -1221,3 +1221,6 @@
 [submodule "Margarine"]
 	path = Margarine
 	url = https://github.com/Dyphen/Margarine.git
+[submodule "Sketch-Resize-Commands"]
+	path = Sketch-Resize-Commands
+	url = https://github.com/ajilderda/Sketch-Resize-Commands.git
