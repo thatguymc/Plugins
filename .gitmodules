@@ -1218,3 +1218,6 @@
 [submodule "unused-style-remover"]
 	path = unused-style-remover
 	url = https://github.com/sonburn/unused-style-remover.git
+[submodule "Margarine"]
+	path = Margarine
+	url = https://github.com/Dyphen/Margarine.git
