@@ -1224,3 +1224,15 @@
 [submodule "Sketch-Resize-Commands"]
 	path = Sketch-Resize-Commands
 	url = https://github.com/ajilderda/Sketch-Resize-Commands.git
+[submodule "sketch-calculator"]
+	path = sketch-calculator
+	url = https://github.com/chazzdesign/sketch-calculator.git
+[submodule "stark-sketch-plugin"]
+	path = stark-sketch-plugin
+	url = https://github.com/stark-contrast/stark-sketch-plugin.git
+[submodule "sketch-pastilles"]
+	path = sketch-pastilles
+	url = https://github.com/jvergerolle/sketch-pastilles.git
+[submodule "sketch-airtable"]
+	path = sketch-airtable
+	url = https://github.com/chazzdesign/sketch-airtable.git
