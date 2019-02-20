@@ -1236,3 +1236,6 @@
 [submodule "sketch-airtable"]
 	path = sketch-airtable
 	url = https://github.com/chazzdesign/sketch-airtable.git
+[submodule "Escriba"]
+	path = Escriba
+	url = https://github.com/Pausansol/Escriba.git
