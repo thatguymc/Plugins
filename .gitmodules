@@ -1248,3 +1248,6 @@
 [submodule "Sketch-Line2Rect"]
 	path = Sketch-Line2Rect
 	url = https://github.com/KevinvBre/Sketch-Line2Rect.git
+[submodule "FreeSpace-Sketch-Plugin"]
+	path = FreeSpace-Sketch-Plugin
+	url = https://github.com/fbmore/FreeSpace-Sketch-Plugin.git
