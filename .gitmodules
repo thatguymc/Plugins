@@ -1239,3 +1239,12 @@
 [submodule "Escriba"]
 	path = Escriba
 	url = https://github.com/Pausansol/Escriba.git
+[submodule "sketch-unlock-all-selected-layers"]
+	path = sketch-unlock-all-selected-layers
+	url = https://github.com/derekatkinson/sketch-unlock-all-selected-layers.git
+[submodule "SketchPluginReloader"]
+	path = SketchPluginReloader
+	url = https://github.com/TheNounProject/SketchPluginReloader.git
+[submodule "Sketch-Line2Rect"]
+	path = Sketch-Line2Rect
+	url = https://github.com/KevinvBre/Sketch-Line2Rect.git
