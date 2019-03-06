@@ -1251,3 +1251,6 @@
 [submodule "FreeSpace-Sketch-Plugin"]
 	path = FreeSpace-Sketch-Plugin
 	url = https://github.com/fbmore/FreeSpace-Sketch-Plugin.git
+[submodule "sketch-randomSize"]
+	path = sketch-randomSize
+	url = https://github.com/longzheng/sketch-randomSize.git
