@@ -1254,3 +1254,9 @@
 [submodule "sketch-randomSize"]
 	path = sketch-randomSize
 	url = https://github.com/longzheng/sketch-randomSize.git
+[submodule "Sketch-Overrides-Manager"]
+	path = Sketch-Overrides-Manager
+	url = https://github.com/ozgurgunes/Sketch-Overrides-Manager.git
+[submodule "add-selected-colors"]
+	path = add-selected-colors
+	url = https://github.com/jorgemartins/add-selected-colors.git
