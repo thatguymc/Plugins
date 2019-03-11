@@ -1260,3 +1260,15 @@
 [submodule "add-selected-colors"]
 	path = add-selected-colors
 	url = https://github.com/jorgemartins/add-selected-colors.git
+[submodule "AddCurrentDateToArtboards"]
+	path = AddCurrentDateToArtboards
+	url = https://github.com/josephxbrick/AddCurrentDateToArtboards.git
+[submodule "Sketch-Symbol-States"]
+	path = Sketch-Symbol-States
+	url = https://github.com/ozgurgunes/Sketch-Symbol-States.git
+[submodule "sketch-plugin-units"]
+	path = sketch-plugin-units
+	url = https://github.com/dploeger/sketch-plugin-units.git
+[submodule "sketch-measure-latest"]
+	path = sketch-measure-latest
+	url = https://github.com/ellunium/sketch-measure-latest.git
