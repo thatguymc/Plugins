@@ -1272,3 +1272,6 @@
 [submodule "sketch-measure-latest"]
 	path = sketch-measure-latest
 	url = https://github.com/ellunium/sketch-measure-latest.git
+[submodule "UsePageTitlesToRenameArtboards"]
+	path = UsePageTitlesToRenameArtboards
+	url = https://github.com/josephxbrick/UsePageTitlesToRenameArtboards.git
