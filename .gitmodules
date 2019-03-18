@@ -1275,3 +1275,15 @@
 [submodule "UsePageTitlesToRenameArtboards"]
 	path = UsePageTitlesToRenameArtboards
 	url = https://github.com/josephxbrick/UsePageTitlesToRenameArtboards.git
+[submodule "sketch-csv-mailmerge"]
+	path = sketch-csv-mailmerge
+	url = https://github.com/jdwolk/sketch-csv-mailmerge.git
+[submodule "sketch-add-colors-to-palette"]
+	path = sketch-add-colors-to-palette
+	url = https://github.com/johnmcclumpha/sketch-add-colors-to-palette.git
+[submodule "Batch-Export-Rename"]
+	path = Batch-Export-Rename
+	url = https://github.com/TheSonOfThomp/Batch-Export-Rename.git
+[submodule "sketch-lazy-styles-generator"]
+	path = sketch-lazy-styles-generator
+	url = https://github.com/lazybearcreations/sketch-lazy-styles-generator.git
