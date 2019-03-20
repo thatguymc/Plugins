@@ -1299,3 +1299,6 @@
 [submodule "layers-as-tile-pattern-sketchplugin"]
 	path = layers-as-tile-pattern-sketchplugin
 	url = https://github.com/skpm/layers-as-tile-pattern-sketchplugin.git
+[submodule "arrange-artboards-hierarchically"]
+	path = arrange-artboards-hierarchically
+	url = https://github.com/oodesign/arrange-artboards-hierarchically.git
