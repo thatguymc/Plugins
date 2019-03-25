@@ -1302,3 +1302,15 @@
 [submodule "arrange-artboards-hierarchically"]
 	path = arrange-artboards-hierarchically
 	url = https://github.com/oodesign/arrange-artboards-hierarchically.git
+[submodule "sketch-camera-hotkeys"]
+	path = sketch-camera-hotkeys
+	url = https://github.com/jayhxmo/sketch-camera-hotkeys.git
+[submodule "import-colors-sketch"]
+	path = import-colors-sketch
+	url = https://github.com/Ashung/import-colors-sketch.git
+[submodule "sketch-library-audit"]
+	path = sketch-library-audit
+	url = https://github.com/naughtandcross/sketch-library-audit.git
+[submodule "MiseEnPlace"]
+	path = MiseEnPlace
+	url = https://github.com/madwaro/MiseEnPlace.git
