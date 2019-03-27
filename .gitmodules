@@ -1323,3 +1323,6 @@
 [submodule "sketch-sort-layer-list"]
 	path = sketch-sort-layer-list
 	url = https://github.com/yuanqing/sketch-sort-layer-list.git
+[submodule "sketch-lint"]
+	path = sketch-lint
+	url = https://github.com/saranshsolanki/sketch-lint.git
