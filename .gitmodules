@@ -1326,3 +1326,6 @@
 [submodule "sketch-lint"]
 	path = sketch-lint
 	url = https://github.com/saranshsolanki/sketch-lint.git
+[submodule "table_of_contents_sketch_plugin"]
+	path = table_of_contents_sketch_plugin
+	url = https://github.com/josephxbrick/table_of_contents_sketch_plugin.git
