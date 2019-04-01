@@ -1329,3 +1329,9 @@
 [submodule "table_of_contents_sketch_plugin"]
 	path = table_of_contents_sketch_plugin
 	url = https://github.com/josephxbrick/table_of_contents_sketch_plugin.git
+[submodule "jerryipsum"]
+	path = jerryipsum
+	url = https://github.com/vinceangeloni/jerryipsum.git
+[submodule "sketch-webview-kit"]
+	path = sketch-webview-kit
+	url = https://github.com/jingwhale/sketch-webview-kit.git
