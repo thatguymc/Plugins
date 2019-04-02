@@ -1338,3 +1338,6 @@
 [submodule "Label-layers"]
 	path = Label-layers
 	url = https://github.com/franklymrshankly/Label-layers.git
+[submodule "sketch_artboard-history"]
+	path = sketch_artboard-history
+	url = https://github.com/jan-patrick/sketch_artboard-history.git
