@@ -1335,9 +1335,6 @@
 [submodule "sketch-webview-kit"]
 	path = sketch-webview-kit
 	url = https://github.com/jingwhale/sketch-webview-kit.git
-[submodule "Label-layers"]
-	path = Label-layers
-	url = https://github.com/franklymrshankly/Label-layers.git
 [submodule "sketch_artboard-history"]
 	path = sketch_artboard-history
 	url = https://github.com/jan-patrick/sketch_artboard-history.git
