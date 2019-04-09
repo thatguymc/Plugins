@@ -1350,3 +1350,9 @@
 [submodule "areanow"]
 	path = areanow
 	url = https://github.com/norman-woz/areanow.git
+[submodule "sketch-find-and-replace-text"]
+	path = sketch-find-and-replace-text
+	url = https://github.com/chriswetterman/sketch-find-and-replace-text.git
+[submodule "import-svg-as-artboard"]
+	path = import-svg-as-artboard
+	url = https://github.com/mathieudutour/import-svg-as-artboard.git
