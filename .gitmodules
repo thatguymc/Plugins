@@ -1356,3 +1356,12 @@
 [submodule "import-svg-as-artboard"]
 	path = import-svg-as-artboard
 	url = https://github.com/mathieudutour/import-svg-as-artboard.git
+[submodule "colormate"]
+	path = colormate
+	url = https://github.com/themainingredient/colormate.git
+[submodule "Sequence-Sketch-Artboards"]
+	path = Sequence-Sketch-Artboards
+	url = https://github.com/tbrasington/Sequence-Sketch-Artboards.git
+[submodule "Align-to-padding"]
+	path = Align-to-padding
+	url = https://github.com/franklymrshankly/Align-to-padding.git
