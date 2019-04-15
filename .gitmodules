@@ -1365,3 +1365,6 @@
 [submodule "Align-to-padding"]
 	path = Align-to-padding
 	url = https://github.com/franklymrshankly/Align-to-padding.git
+[submodule "sketch-clean-document"]
+	path = sketch-clean-document
+	url = https://github.com/yuanqing/sketch-clean-document.git
