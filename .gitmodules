@@ -1368,3 +1368,6 @@
 [submodule "sketch-clean-document"]
 	path = sketch-clean-document
 	url = https://github.com/yuanqing/sketch-clean-document.git
+[submodule "sketch-snap-to-grid"]
+	path = sketch-snap-to-grid
+	url = https://github.com/yuanqing/sketch-snap-to-grid.git
