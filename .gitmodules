@@ -1374,3 +1374,6 @@
 [submodule "Grid-Layer"]
 	path = Grid-Layer
 	url = https://github.com/franklymrshankly/Grid-Layer.git
+[submodule "Label_Layers"]
+	path = Label_Layers
+	url = https://github.com/franklymrshankly/Label_Layers.git
