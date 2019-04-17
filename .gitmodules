@@ -1371,3 +1371,6 @@
 [submodule "sketch-snap-to-grid"]
 	path = sketch-snap-to-grid
 	url = https://github.com/yuanqing/sketch-snap-to-grid.git
+[submodule "Grid-Layer"]
+	path = Grid-Layer
+	url = https://github.com/franklymrshankly/Grid-Layer.git
