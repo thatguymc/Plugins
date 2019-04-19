@@ -1041,9 +1041,6 @@
 [submodule "typex"]
 	path = typex
 	url = https://github.com/reinvanoyen/typex.git
-[submodule "sketch-to-json"]
-	path = sketch-to-json
-	url = https://github.com/lucaorio/sketch-to-json.git
 [submodule "text-to-styles"]
 	path = text-to-styles
 	url = https://github.com/tbrasington/text-to-styles.git
