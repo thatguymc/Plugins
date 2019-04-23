@@ -1377,3 +1377,6 @@
 [submodule "prototypes-invision-sketch"]
 	path = prototypes-invision-sketch
 	url = https://github.com/mathieudutour/prototypes-invision-sketch.git
+[submodule "rem-sketch-plugin"]
+	path = rem-sketch-plugin
+	url = https://github.com/tettasun/rem-sketch-plugin.git
