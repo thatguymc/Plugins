@@ -1380,3 +1380,6 @@
 [submodule "rem-sketch-plugin"]
 	path = rem-sketch-plugin
 	url = https://github.com/tettasun/rem-sketch-plugin.git
+[submodule "sketch-json-translator"]
+	path = sketch-json-translator
+	url = https://github.com/kbirgoren/sketch-json-translator.git
