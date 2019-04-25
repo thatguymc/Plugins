@@ -1383,3 +1383,6 @@
 [submodule "sketch-json-translator"]
 	path = sketch-json-translator
 	url = https://github.com/kbirgoren/sketch-json-translator.git
+[submodule "Sketch-Data"]
+	path = Sketch-Data
+	url = https://github.com/SpeakapBV/Sketch-Data.git
