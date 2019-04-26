@@ -1389,3 +1389,6 @@
 [submodule "sketch-rename-layers"]
 	path = sketch-rename-layers
 	url = https://github.com/yuanqing/sketch-rename-layers.git
+[submodule "duplicate-under"]
+	path = duplicate-under
+	url = https://github.com/oodesign/duplicate-under.git
