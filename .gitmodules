@@ -1392,3 +1392,6 @@
 [submodule "duplicate-under"]
 	path = duplicate-under
 	url = https://github.com/oodesign/duplicate-under.git
+[submodule "sketch-remove-bg"]
+	path = sketch-remove-bg
+	url = https://github.com/mathieudutour/sketch-remove-bg.git
