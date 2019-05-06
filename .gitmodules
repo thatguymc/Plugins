@@ -1395,3 +1395,12 @@
 [submodule "sketch-remove-bg"]
 	path = sketch-remove-bg
 	url = https://github.com/mathieudutour/sketch-remove-bg.git
+[submodule "Symbol-Override-Padding"]
+	path = Symbol-Override-Padding
+	url = https://github.com/franklymrshankly/Symbol-Override-Padding.git
+[submodule "Set-Min-Max"]
+	path = Set-Min-Max
+	url = https://github.com/franklymrshankly/Set-Min-Max.git
+[submodule "print-export-sketchplugin"]
+	path = print-export-sketchplugin
+	url = https://github.com/BohemianCoding/print-export-sketchplugin.git
