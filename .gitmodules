@@ -1404,3 +1404,9 @@
 [submodule "print-export-sketchplugin"]
 	path = print-export-sketchplugin
 	url = https://github.com/BohemianCoding/print-export-sketchplugin.git
+[submodule "fit-to-parent"]
+	path = fit-to-parent
+	url = https://github.com/dannymcclain/fit-to-parent.git
+[submodule "sketch-color-locator"]
+	path = sketch-color-locator
+	url = https://github.com/anavarromartin/sketch-color-locator.git
