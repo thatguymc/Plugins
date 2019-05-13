@@ -1410,3 +1410,6 @@
 [submodule "sketch-color-locator"]
 	path = sketch-color-locator
 	url = https://github.com/anavarromartin/sketch-color-locator.git
+[submodule "restore-overrides"]
+	path = restore-overrides
+	url = https://github.com/danielthall/restore-overrides.git
