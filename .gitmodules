@@ -1416,3 +1416,12 @@
 [submodule "Paddit"]
 	path = Paddit
 	url = https://github.com/franklymrshankly/Paddit.git
+[submodule "QuickTextOverride"]
+	path = QuickTextOverride
+	url = https://github.com/dbilyk/QuickTextOverride.git
+[submodule "copy-paste-shadows"]
+	path = copy-paste-shadows
+	url = https://github.com/iarthstar/copy-paste-shadows.git
+[submodule "rivet-sketch-plugin"]
+	path = rivet-sketch-plugin
+	url = https://github.com/bheston/rivet-sketch-plugin.git
