@@ -1425,3 +1425,6 @@
 [submodule "rivet-sketch-plugin"]
 	path = rivet-sketch-plugin
 	url = https://github.com/bheston/rivet-sketch-plugin.git
+[submodule "Create-New-Styles"]
+	path = Create-New-Styles
+	url = https://github.com/franklymrshankly/Create-New-Styles.git
