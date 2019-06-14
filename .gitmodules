@@ -1431,3 +1431,6 @@
 [submodule "Symbol-Merger"]
 	path = Symbol-Merger
 	url = https://github.com/franklymrshankly/Symbol-Merger.git
+[submodule "Disconnector"]
+	path = Disconnector
+	url = https://github.com/njcrowther/Disconnector.git
