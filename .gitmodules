@@ -1434,3 +1434,18 @@
 [submodule "Disconnector"]
 	path = Disconnector
 	url = https://github.com/njcrowther/Disconnector.git
+[submodule "sketch-tabula-rasa"]
+	path = sketch-tabula-rasa
+	url = https://github.com/avk/sketch-tabula-rasa.git
+[submodule "sketch-plugin-brandfolder"]
+	path = sketch-plugin-brandfolder
+	url = https://github.com/brandfolder/sketch-plugin-brandfolder.git
+[submodule "symbol-browser"]
+	path = symbol-browser
+	url = https://github.com/pratikjshah/symbol-browser.git
+[submodule "Design-Token-Exporter"]
+	path = Design-Token-Exporter
+	url = https://github.com/here-erhe/Design-Token-Exporter.git
+[submodule "svg-bem"]
+	path = svg-bem
+	url = https://github.com/mLihs/svg-bem.git
