@@ -1449,3 +1449,6 @@
 [submodule "svg-bem"]
 	path = svg-bem
 	url = https://github.com/mLihs/svg-bem.git
+[submodule "originalSize"]
+	path = originalSize
+	url = https://github.com/KevinGutowski/originalSize.git
