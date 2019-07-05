@@ -1452,3 +1452,6 @@
 [submodule "originalSize"]
 	path = originalSize
 	url = https://github.com/KevinGutowski/originalSize.git
+[submodule "SketchExcelContentSync"]
+	path = SketchExcelContentSync
+	url = https://github.com/wousser/SketchExcelContentSync.git
