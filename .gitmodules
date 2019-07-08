@@ -1455,3 +1455,6 @@
 [submodule "SketchExcelContentSync"]
 	path = SketchExcelContentSync
 	url = https://github.com/wousser/SketchExcelContentSync.git
+[submodule "symbol-insert"]
+	path = symbol-insert
+	url = https://github.com/lifeofmle/symbol-insert.git
