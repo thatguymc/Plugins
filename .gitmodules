@@ -1467,3 +1467,6 @@
 [submodule "context"]
 	path = context
 	url = https://github.com/afnizarnur/context.git
+[submodule "Sketch-Nearest-8"]
+	path = Sketch-Nearest-8
+	url = https://github.com/acollurafici/Sketch-Nearest-8.git
