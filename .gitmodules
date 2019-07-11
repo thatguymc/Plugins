@@ -1458,3 +1458,12 @@
 [submodule "symbol-insert"]
 	path = symbol-insert
 	url = https://github.com/lifeofmle/symbol-insert.git
+[submodule "PinIt"]
+	path = PinIt
+	url = https://github.com/acollurafici/PinIt.git
+[submodule "sketch-copy-text-only"]
+	path = sketch-copy-text-only
+	url = https://github.com/explorador/sketch-copy-text-only.git
+[submodule "context"]
+	path = context
+	url = https://github.com/afnizarnur/context.git
