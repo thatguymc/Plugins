@@ -1470,3 +1470,6 @@
 [submodule "Sketch-Nearest-8"]
 	path = Sketch-Nearest-8
 	url = https://github.com/acollurafici/Sketch-Nearest-8.git
+[submodule "flowComponentAutoLink"]
+	path = flowComponentAutoLink
+	url = https://github.com/awt2542/flowComponentAutoLink.git
