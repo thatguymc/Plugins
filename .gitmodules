@@ -1473,3 +1473,6 @@
 [submodule "flowComponentAutoLink"]
 	path = flowComponentAutoLink
 	url = https://github.com/awt2542/flowComponentAutoLink.git
+[submodule "sketch-vr"]
+	path = sketch-vr
+	url = https://github.com/brendanciccone/sketch-vr.git
