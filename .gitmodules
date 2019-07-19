@@ -1476,3 +1476,6 @@
 [submodule "sketch-vr"]
 	path = sketch-vr
 	url = https://github.com/brendanciccone/sketch-vr.git
+[submodule "check-contrast"]
+	path = check-contrast
+	url = https://github.com/lifeofmle/check-contrast.git
