@@ -1479,3 +1479,6 @@
 [submodule "check-contrast"]
 	path = check-contrast
 	url = https://github.com/lifeofmle/check-contrast.git
+[submodule "design-system"]
+	path = design-system
+	url = https://github.com/MaxBazarov/design-system.git
