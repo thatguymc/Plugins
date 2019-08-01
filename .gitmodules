@@ -1485,3 +1485,6 @@
 [submodule "sketch-visualeyes"]
 	path = sketch-visualeyes
 	url = https://github.com/loceye/sketch-visualeyes.git
+[submodule "agoda-design-toolkit"]
+	path = agoda-design-toolkit
+	url = https://github.com/agoda-com/agoda-design-toolkit.git
