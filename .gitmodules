@@ -1482,3 +1482,6 @@
 [submodule "design-system"]
 	path = design-system
 	url = https://github.com/MaxBazarov/design-system.git
+[submodule "sketch-visualeyes"]
+	path = sketch-visualeyes
+	url = https://github.com/loceye/sketch-visualeyes.git
