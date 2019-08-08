@@ -1488,3 +1488,6 @@
 [submodule "agoda-design-toolkit"]
 	path = agoda-design-toolkit
 	url = https://github.com/agoda-com/agoda-design-toolkit.git
+[submodule "Mask-Selection"]
+	path = Mask-Selection
+	url = https://github.com/KevinGutowski/Mask-Selection.git
