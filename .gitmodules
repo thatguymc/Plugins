@@ -1482,6 +1482,3 @@
 [submodule "Mask-Selection"]
 	path = Mask-Selection
 	url = https://github.com/KevinGutowski/Mask-Selection.git
-[submodule "sketch-symbol-legend"]
-	path = sketch-symbol-legend
-	url = https://github.com/wix-incubator/sketch-symbol-legend.git
