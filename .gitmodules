@@ -1290,9 +1290,6 @@
 [submodule "Sketch-Case-Converter"]
 	path = Sketch-Case-Converter
 	url = https://github.com/ozgurgunes/Sketch-Case-Converter.git
-[submodule "tidyupdocument"]
-	path = tidyupdocument
-	url = https://github.com/josephxbrick/tidyupdocument.git
 [submodule "layers-as-tile-pattern-sketchplugin"]
 	path = layers-as-tile-pattern-sketchplugin
 	url = https://github.com/skpm/layers-as-tile-pattern-sketchplugin.git
@@ -1323,15 +1320,9 @@
 [submodule "sketch-lint"]
 	path = sketch-lint
 	url = https://github.com/saranshsolanki/sketch-lint.git
-[submodule "table_of_contents_sketch_plugin"]
-	path = table_of_contents_sketch_plugin
-	url = https://github.com/josephxbrick/table_of_contents_sketch_plugin.git
 [submodule "jerryipsum"]
 	path = jerryipsum
 	url = https://github.com/vinceangeloni/jerryipsum.git
-[submodule "sketch-webview-kit"]
-	path = sketch-webview-kit
-	url = https://github.com/jingwhale/sketch-webview-kit.git
 [submodule "sketch_artboard-history"]
 	path = sketch_artboard-history
 	url = https://github.com/jan-patrick/sketch_artboard-history.git
