@@ -1482,3 +1482,6 @@
 [submodule "Mask-Selection"]
 	path = Mask-Selection
 	url = https://github.com/KevinGutowski/Mask-Selection.git
+[submodule "puzzle-publisher"]
+	path = puzzle-publisher
+	url = https://github.com/ingrammicro/puzzle-publisher.git
