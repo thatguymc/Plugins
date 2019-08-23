@@ -1482,3 +1482,6 @@
 [submodule "puzzle-publisher"]
 	path = puzzle-publisher
 	url = https://github.com/ingrammicro/puzzle-publisher.git
+[submodule "puzzle-tokens"]
+	path = puzzle-tokens
+	url = https://github.com/ingrammicro/puzzle-tokens.git
