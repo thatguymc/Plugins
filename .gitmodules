@@ -1485,3 +1485,6 @@
 [submodule "puzzle-tokens"]
 	path = puzzle-tokens
 	url = https://github.com/ingrammicro/puzzle-tokens.git
+[submodule "sketch-aligny"]
+	path = sketch-aligny
+	url = https://github.com/stefan0uh/sketch-aligny.git
