@@ -1488,3 +1488,9 @@
 [submodule "sketch-aligny"]
 	path = sketch-aligny
 	url = https://github.com/stefan0uh/sketch-aligny.git
+[submodule "2o3t-Sketch-Tools"]
+	path = 2o3t-Sketch-Tools
+	url = https://github.com/2o3t/2o3t-Sketch-Tools.git
+[submodule "design-system-export"]
+	path = design-system-export
+	url = https://github.com/design-meets-development/design-system-export.git
