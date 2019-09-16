@@ -1494,3 +1494,9 @@
 [submodule "design-system-export"]
 	path = design-system-export
 	url = https://github.com/design-meets-development/design-system-export.git
+[submodule "sketch-page-export"]
+	path = sketch-page-export
+	url = https://github.com/charliecm/sketch-page-export.git
+[submodule "DetachWarning"]
+	path = DetachWarning
+	url = https://github.com/LukeFinch/DetachWarning.git
