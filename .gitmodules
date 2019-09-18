@@ -1500,3 +1500,6 @@
 [submodule "DetachWarning"]
 	path = DetachWarning
 	url = https://github.com/LukeFinch/DetachWarning.git
+[submodule "sketch-modify-multiple-elements"]
+	path = sketch-modify-multiple-elements
+	url = https://github.com/photobox/sketch-modify-multiple-elements.git
