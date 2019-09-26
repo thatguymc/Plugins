@@ -1509,3 +1509,6 @@
 [submodule "sketch-styler"]
 	path = sketch-styler
 	url = https://github.com/oodesign/sketch-styler.git
+[submodule "sketch-artboard-notes"]
+	path = sketch-artboard-notes
+	url = https://github.com/abynim/sketch-artboard-notes.git
