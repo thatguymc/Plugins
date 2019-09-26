@@ -1503,3 +1503,9 @@
 [submodule "sketch-modify-multiple-elements"]
 	path = sketch-modify-multiple-elements
 	url = https://github.com/photobox/sketch-modify-multiple-elements.git
+[submodule "Image2Palette"]
+	path = Image2Palette
+	url = https://github.com/iarthstar/Image2Palette.git
+[submodule "sketch-styler"]
+	path = sketch-styler
+	url = https://github.com/oodesign/sketch-styler.git
