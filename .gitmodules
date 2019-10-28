@@ -1521,3 +1521,6 @@
 [submodule "tin-drum"]
 	path = tin-drum
 	url = https://github.com/VitskyDs/tin-drum.git
+[submodule "symbol-finder"]
+	path = symbol-finder
+	url = https://github.com/afifkhaidir/symbol-finder.git
