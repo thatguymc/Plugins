@@ -1524,3 +1524,6 @@
 [submodule "symbol-finder"]
 	path = symbol-finder
 	url = https://github.com/afifkhaidir/symbol-finder.git
+[submodule "sketch-snap"]
+	path = sketch-snap
+	url = https://github.com/charliecm/sketch-snap.git
