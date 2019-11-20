@@ -1533,3 +1533,6 @@
 [submodule "sketch-minimap"]
 	path = sketch-minimap
 	url = https://github.com/abynim/sketch-minimap.git
+[submodule "design-tokens"]
+	path = design-tokens
+	url = https://github.com/vjandrei/design-tokens.git
