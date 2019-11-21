@@ -1536,3 +1536,6 @@
 [submodule "design-tokens"]
 	path = design-tokens
 	url = https://github.com/vjandrei/design-tokens.git
+[submodule "rearrange-artboards"]
+	path = rearrange-artboards
+	url = https://github.com/rezanooresani/rearrange-artboards.git
