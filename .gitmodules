@@ -1539,3 +1539,6 @@
 [submodule "rearrange-artboards"]
 	path = rearrange-artboards
 	url = https://github.com/rezanooresani/rearrange-artboards.git
+[submodule "sketch-shortcuts"]
+	path = sketch-shortcuts
+	url = https://github.com/mds/sketch-shortcuts.git
