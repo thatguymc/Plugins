@@ -1545,3 +1545,6 @@
 [submodule "sketch-wakatime"]
 	path = sketch-wakatime
 	url = https://github.com/wakatime/sketch-wakatime.git
+[submodule "cluse"]
+	path = cluse
+	url = https://github.com/ygev/cluse.git
