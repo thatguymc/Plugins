@@ -1542,3 +1542,6 @@
 [submodule "sketch-shortcuts"]
 	path = sketch-shortcuts
 	url = https://github.com/mds/sketch-shortcuts.git
+[submodule "sketch-wakatime"]
+	path = sketch-wakatime
+	url = https://github.com/wakatime/sketch-wakatime.git
