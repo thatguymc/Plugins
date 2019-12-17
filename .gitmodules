@@ -1008,9 +1008,6 @@
 [submodule "typesettings-sketch-plugin"]
 	path = typesettings-sketch-plugin
 	url = https://github.com/buames/typesettings-sketch-plugin.git
-[submodule "ColorSpark-Sketch-Plugin"]
-	path = ColorSpark-Sketch-Plugin
-	url = https://github.com/lukecjohnson/ColorSpark-Sketch-Plugin.git
 [submodule "sketch-adjusttofit"]
 	path = sketch-adjusttofit
 	url = https://github.com/andyault/sketch-adjusttofit.git
