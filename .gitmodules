@@ -1551,3 +1551,9 @@
 [submodule "Opale-Translate"]
 	path = Opale-Translate
 	url = https://github.com/GringerApps/Opale-Translate.git
+[submodule "ColorSpark-Sketch-Plugin"]
+	path = ColorSpark-Sketch-Plugin
+	url = https://github.com/leohmoraes/ColorSpark-Sketch-Plugin.git
+[submodule "data-from-clipboard"]
+	path = data-from-clipboard
+	url = https://github.com/Saint-loup/data-from-clipboard.git
