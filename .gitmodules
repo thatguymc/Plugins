@@ -1563,3 +1563,6 @@
 [submodule "MarginSymbols"]
 	path = MarginSymbols
 	url = https://github.com/griffin-stewie/MarginSymbols.git
+[submodule "sketch-plugin-decimal-number-generator"]
+	path = sketch-plugin-decimal-number-generator
+	url = https://github.com/vaexperience/sketch-plugin-decimal-number-generator.git
