@@ -1557,3 +1557,9 @@
 [submodule "data-from-clipboard"]
 	path = data-from-clipboard
 	url = https://github.com/Saint-loup/data-from-clipboard.git
+[submodule "Magic-Aligner"]
+	path = Magic-Aligner
+	url = https://github.com/HugoLis/Magic-Aligner.git
+[submodule "MarginSymbols"]
+	path = MarginSymbols
+	url = https://github.com/griffin-stewie/MarginSymbols.git
