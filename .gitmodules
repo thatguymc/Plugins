@@ -1524,9 +1524,6 @@
 [submodule "sketch-snap"]
 	path = sketch-snap
 	url = https://github.com/charliecm/sketch-snap.git
-[submodule "organizeLayers"]
-	path = organizeLayers
-	url = https://github.com/eunicejson/organizeLayers.git
 [submodule "sketch-minimap"]
 	path = sketch-minimap
 	url = https://github.com/abynim/sketch-minimap.git
