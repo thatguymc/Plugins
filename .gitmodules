@@ -1563,3 +1563,6 @@
 [submodule "SymbolNameSync"]
 	path = SymbolNameSync
 	url = https://github.com/griffin-stewie/SymbolNameSync.git
+[submodule "sketch-wireframe-creator"]
+	path = sketch-wireframe-creator
+	url = https://github.com/mikecoomber/sketch-wireframe-creator.git
