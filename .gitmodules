@@ -1071,9 +1071,6 @@
 [submodule "QuickPDF"]
 	path = QuickPDF
 	url = https://github.com/PBBB/QuickPDF.git
-[submodule "Data-Sketch-Plugin"]
-	path = Data-Sketch-Plugin
-	url = https://github.com/uiplusux/Data-Sketch-Plugin.git
 [submodule "Elevation-Shadows"]
 	path = Elevation-Shadows
 	url = https://github.com/YitingLiu/Elevation-Shadows.git
