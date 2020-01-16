@@ -1545,9 +1545,6 @@
 [submodule "Opale-Translate"]
 	path = Opale-Translate
 	url = https://github.com/GringerApps/Opale-Translate.git
-[submodule "ColorSpark-Sketch-Plugin"]
-	path = ColorSpark-Sketch-Plugin
-	url = https://github.com/leohmoraes/ColorSpark-Sketch-Plugin.git
 [submodule "data-from-clipboard"]
 	path = data-from-clipboard
 	url = https://github.com/Saint-loup/data-from-clipboard.git
@@ -1563,3 +1560,6 @@
 [submodule "SymbolNameSync"]
 	path = SymbolNameSync
 	url = https://github.com/griffin-stewie/SymbolNameSync.git
+[submodule "sketch-wireframe-creator"]
+	path = sketch-wireframe-creator
+	url = https://github.com/mikecoomber/sketch-wireframe-creator.git
