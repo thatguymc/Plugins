@@ -1563,3 +1563,6 @@
 [submodule "pastePaddings"]
 	path = pastePaddings
 	url = https://github.com/simonlidesign/pastePaddings.git
+[submodule "Sketch-Export-Preferences"]
+	path = Sketch-Export-Preferences
+	url = https://github.com/KevinGutowski/Sketch-Export-Preferences.git
