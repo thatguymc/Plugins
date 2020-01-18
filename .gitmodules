@@ -1566,3 +1566,6 @@
 [submodule "Sketch-Export-Preferences"]
 	path = Sketch-Export-Preferences
 	url = https://github.com/KevinGutowski/Sketch-Export-Preferences.git
+[submodule "documentorganizer"]
+	path = documentorganizer
+	url = https://github.com/josephxbrick/documentorganizer.git
