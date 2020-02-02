@@ -1569,3 +1569,9 @@
 [submodule "documentorganizer"]
 	path = documentorganizer
 	url = https://github.com/josephxbrick/documentorganizer.git
+[submodule "ViewFinder-Sketchplugin"]
+	path = ViewFinder-Sketchplugin
+	url = https://github.com/ahmedmigo/ViewFinder-Sketchplugin.git
+[submodule "sketch-selective-upload"]
+	path = sketch-selective-upload
+	url = https://github.com/abynim/sketch-selective-upload.git
