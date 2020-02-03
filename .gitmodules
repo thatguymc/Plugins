@@ -1575,3 +1575,6 @@
 [submodule "sketch-selective-upload"]
 	path = sketch-selective-upload
 	url = https://github.com/abynim/sketch-selective-upload.git
+[submodule "sketch-copycat"]
+	path = sketch-copycat
+	url = https://github.com/azhsetiawan/sketch-copycat.git
