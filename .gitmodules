@@ -1578,3 +1578,6 @@
 [submodule "sketch-copycat"]
 	path = sketch-copycat
 	url = https://github.com/azhsetiawan/sketch-copycat.git
+[submodule "name-my-color"]
+	path = name-my-color
+	url = https://github.com/carlosflrg/name-my-color.git
