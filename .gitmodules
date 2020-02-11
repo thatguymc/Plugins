@@ -1581,3 +1581,6 @@
 [submodule "name-my-color"]
 	path = name-my-color
 	url = https://github.com/carlosflrg/name-my-color.git
+[submodule "tinty"]
+	path = tinty
+	url = https://github.com/chewbecky/tinty.git
