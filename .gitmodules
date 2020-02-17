@@ -1584,3 +1584,6 @@
 [submodule "tinty"]
 	path = tinty
 	url = https://github.com/chewbecky/tinty.git
+[submodule "efficient-image-export"]
+	path = efficient-image-export
+	url = https://github.com/BinLia/efficient-image-export.git
