@@ -1587,3 +1587,9 @@
 [submodule "efficient-image-export"]
 	path = efficient-image-export
 	url = https://github.com/BinLia/efficient-image-export.git
+[submodule "sketch-measure-react"]
+	path = sketch-measure-react
+	url = https://github.com/endswithak/sketch-measure-react.git
+[submodule "sketch-twilio-ipsum"]
+	path = sketch-twilio-ipsum
+	url = https://github.com/twilio-labs/sketch-twilio-ipsum.git
