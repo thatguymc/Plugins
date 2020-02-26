@@ -1590,3 +1590,9 @@
 [submodule "sketch-twilio-ipsum"]
 	path = sketch-twilio-ipsum
 	url = https://github.com/twilio-labs/sketch-twilio-ipsum.git
+[submodule "layer-seeker-sketch-plugin"]
+	path = layer-seeker-sketch-plugin
+	url = https://github.com/jeffwade/layer-seeker-sketch-plugin.git
+[submodule "FindDirtyStyles"]
+	path = FindDirtyStyles
+	url = https://github.com/KevinGutowski/FindDirtyStyles.git
