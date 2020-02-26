@@ -1482,9 +1482,6 @@
 [submodule "2o3t-Sketch-Tools"]
 	path = 2o3t-Sketch-Tools
 	url = https://github.com/2o3t/2o3t-Sketch-Tools.git
-[submodule "design-system-export"]
-	path = design-system-export
-	url = https://github.com/design-meets-development/design-system-export.git
 [submodule "sketch-page-export"]
 	path = sketch-page-export
 	url = https://github.com/charliecm/sketch-page-export.git
