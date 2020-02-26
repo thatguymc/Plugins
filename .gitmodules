@@ -1596,3 +1596,6 @@
 [submodule "FindDirtyStyles"]
 	path = FindDirtyStyles
 	url = https://github.com/KevinGutowski/FindDirtyStyles.git
+[submodule "Truncat"]
+	path = Truncat
+	url = https://github.com/KevinGutowski/Truncat.git
