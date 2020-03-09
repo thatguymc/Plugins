@@ -1602,3 +1602,15 @@
 [submodule "search-sketch"]
 	path = search-sketch
 	url = https://github.com/candy02058912/search-sketch.git
+[submodule "Trim-Artboard"]
+	path = Trim-Artboard
+	url = https://github.com/franklymrshankly/Trim-Artboard.git
+[submodule "Sketch-Map"]
+	path = Sketch-Map
+	url = https://github.com/she1991/Sketch-Map.git
+[submodule "lightswitch-sketch"]
+	path = lightswitch-sketch
+	url = https://github.com/TheBerriman/lightswitch-sketch.git
+[submodule "ToggleGreyscale"]
+	path = ToggleGreyscale
+	url = https://github.com/KevinGutowski/ToggleGreyscale.git
