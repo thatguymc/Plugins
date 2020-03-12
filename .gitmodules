@@ -1614,3 +1614,6 @@
 [submodule "ToggleGreyscale"]
 	path = ToggleGreyscale
 	url = https://github.com/KevinGutowski/ToggleGreyscale.git
+[submodule "PixelFit"]
+	path = PixelFit
+	url = https://github.com/KevinGutowski/PixelFit.git
