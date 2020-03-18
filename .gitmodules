@@ -1617,3 +1617,9 @@
 [submodule "PixelFit"]
 	path = PixelFit
 	url = https://github.com/KevinGutowski/PixelFit.git
+[submodule "sketch-ignore"]
+	path = sketch-ignore
+	url = https://github.com/theboi/sketch-ignore.git
+[submodule "lippy"]
+	path = lippy
+	url = https://github.com/abynim/lippy.git
