@@ -1623,3 +1623,6 @@
 [submodule "lippy"]
 	path = lippy
 	url = https://github.com/abynim/lippy.git
+[submodule "swap-it-sketch"]
+	path = swap-it-sketch
+	url = https://github.com/shantsis/swap-it-sketch.git
