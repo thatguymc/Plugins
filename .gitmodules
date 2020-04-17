@@ -1626,3 +1626,9 @@
 [submodule "swap-it-sketch"]
 	path = swap-it-sketch
 	url = https://github.com/shantsis/swap-it-sketch.git
+[submodule "sketch-meaxure"]
+	path = sketch-meaxure
+	url = https://github.com/qjebbs/sketch-meaxure.git
+[submodule "Brandfetch-Sketch-Plugin"]
+	path = Brandfetch-Sketch-Plugin
+	url = https://github.com/Brandfetch/Brandfetch-Sketch-Plugin.git
