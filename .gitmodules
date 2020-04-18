@@ -1632,3 +1632,9 @@
 [submodule "Brandfetch-Sketch-Plugin"]
 	path = Brandfetch-Sketch-Plugin
 	url = https://github.com/Brandfetch/Brandfetch-Sketch-Plugin.git
+[submodule "arboardcounter-sketch-plugin"]
+	path = arboardcounter-sketch-plugin
+	url = https://github.com/Atim33/arboardcounter-sketch-plugin.git
+[submodule "rename-text-layers-by-style"]
+	path = rename-text-layers-by-style
+	url = https://github.com/okaybueno/rename-text-layers-by-style.git
