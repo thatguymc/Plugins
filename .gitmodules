@@ -1641,3 +1641,6 @@
 [submodule "sketch-foundation"]
 	path = sketch-foundation
 	url = https://github.com/13protons/sketch-foundation.git
+[submodule "Sketch-CopyUpdater"]
+	path = Sketch-CopyUpdater
+	url = https://github.com/lizhengDesign/Sketch-CopyUpdater.git
