@@ -1644,3 +1644,6 @@
 [submodule "Sketch-CopyUpdater"]
 	path = Sketch-CopyUpdater
 	url = https://github.com/lizhengDesign/Sketch-CopyUpdater.git
+[submodule "Isometry"]
+	path = Isometry
+	url = https://github.com/maxkonovalov/Isometry.git
