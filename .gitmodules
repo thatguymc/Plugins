@@ -1647,3 +1647,6 @@
 [submodule "Isometry"]
 	path = Isometry
 	url = https://github.com/maxkonovalov/Isometry.git
+[submodule "sync-with-library"]
+	path = sync-with-library
+	url = https://github.com/oodesign/sync-with-library.git
