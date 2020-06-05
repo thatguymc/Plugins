@@ -1647,3 +1647,6 @@
 [submodule "sync-with-library"]
 	path = sync-with-library
 	url = https://github.com/oodesign/sync-with-library.git
+[submodule "A-Lion"]
+	path = A-Lion
+	url = https://github.com/KevinGutowski/A-Lion.git
