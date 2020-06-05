@@ -272,9 +272,6 @@
 [submodule "sketch-artboards-to-pdf"]
 	path = sketch-artboards-to-pdf
 	url = https://github.com/andrewfiorillo/sketch-artboards-to-pdf.git
-[submodule "sketch-json-data-maker"]
-	path = sketch-json-data-maker
-	url = https://github.com/phuly/sketch-json-data-maker.git
 [submodule "select-group-layers-sketch-plugin"]
 	path = select-group-layers-sketch-plugin
 	url = https://github.com/mattmcmanus/select-group-layers-sketch-plugin.git
