@@ -1650,3 +1650,9 @@
 [submodule "A-Lion"]
 	path = A-Lion
 	url = https://github.com/KevinGutowski/A-Lion.git
+[submodule "wireframr"]
+	path = wireframr
+	url = https://github.com/chewbecky/wireframr.git
+[submodule "perfect-type-plugin"]
+	path = perfect-type-plugin
+	url = https://github.com/rtrikha/perfect-type-plugin.git
