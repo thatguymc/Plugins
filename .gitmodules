@@ -1653,3 +1653,6 @@
 [submodule "perfect-type-plugin"]
 	path = perfect-type-plugin
 	url = https://github.com/rtrikha/perfect-type-plugin.git
+[submodule "sketch-palette-cleanser"]
+	path = sketch-palette-cleanser
+	url = https://github.com/proteanstudio/sketch-palette-cleanser.git
