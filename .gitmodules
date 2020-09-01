@@ -1656,3 +1656,6 @@
 [submodule "sketch-palette-cleanser"]
 	path = sketch-palette-cleanser
 	url = https://github.com/proteanstudio/sketch-palette-cleanser.git
+[submodule "sketch-flat-export"]
+	path = sketch-flat-export
+	url = https://github.com/TheSonOfThomp/sketch-flat-export.git
