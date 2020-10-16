@@ -842,9 +842,6 @@
 [submodule "Artboard-Mold-For-Sketch"]
 	path = Artboard-Mold-For-Sketch
 	url = https://github.com/sueLan/Artboard-Mold-For-Sketch.git
-[submodule "sketch2pdf"]
-	path = sketch2pdf
-	url = https://github.com/yordanoff/sketch2pdf.git
 [submodule "Perfecto-"]
 	path = Perfecto-
 	url = https://github.com/pranusarna94/Perfecto-.git
