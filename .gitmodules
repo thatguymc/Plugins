@@ -749,9 +749,6 @@
 [submodule "Handy-Menu-Sketch-Plugin"]
 	path = Handy-Menu-Sketch-Plugin
 	url = https://github.com/sergeishere/Handy-Menu-Sketch-Plugin.git
-[submodule "Sketch-Show-Bounding-Boxes"]
-	path = Sketch-Show-Bounding-Boxes
-	url = https://github.com/pravdomil/Sketch-Show-Bounding-Boxes.git
 [submodule "HandyMenu-SketchPlugin"]
 	path = HandyMenu-SketchPlugin
 	url = https://github.com/sergeishere/HandyMenu-SketchPlugin.git
